@@ -1,0 +1,429 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.fhdfh.launcher",
+    "module": "launcher",
+    "version": "1.0.0-example2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.11.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "lawnReleaseVariantLawnReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.2.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "launcher-1.0.0-example2.aar",
+          "url": "launcher-1.0.0-example2.aar",
+          "size": 10425927,
+          "sha512": "dfb79aeed854a05906e957b96510af223b28947ddf299a19e2a30f5351188551517d7b3c21ab4194a49b2a38bd45c80f670f022cbe3f5de8bb257ea9b2c28245",
+          "sha256": "ded4a49c3a1e20a400c83460463586b178aadccb14ae73ac6954d7da551806d2",
+          "sha1": "a3649d4efcb3d9491dab16b2f2b2d6af4f4e0a5b",
+          "md5": "f73b4f174a081348d03a4c5f929f4cfd"
+        }
+      ]
+    },
+    {
+      "name": "lawnReleaseVariantLawnReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-parcelize-runtime",
+          "version": {
+            "requires": "2.2.20"
+          }
+        },
+        {
+          "group": "androidx.core",
+          "module": "core-ktx",
+          "version": {
+            "requires": "1.10.1"
+          }
+        },
+        {
+          "group": "androidx.core",
+          "module": "core-animation",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.7.1"
+          }
+        },
+        {
+          "group": "androidx.activity",
+          "module": "activity-compose",
+          "version": {
+            "requires": "1.8.0"
+          }
+        },
+        {
+          "group": "androidx.compose",
+          "module": "compose-bom",
+          "version": {
+            "requires": "2024.09.00"
+          },
+          "attributes": {
+            "org.gradle.category": "platform"
+          }
+        },
+        {
+          "group": "androidx.compose.ui",
+          "module": "ui"
+        },
+        {
+          "group": "androidx.compose.ui",
+          "module": "ui-graphics"
+        },
+        {
+          "group": "androidx.compose.foundation",
+          "module": "foundation"
+        },
+        {
+          "group": "androidx.compose.foundation",
+          "module": "foundation-layout",
+          "version": {
+            "requires": "1.11.2"
+          }
+        },
+        {
+          "group": "androidx.compose.material3",
+          "module": "material3"
+        },
+        {
+          "group": "androidx.compose.material",
+          "module": "material-icons-extended"
+        },
+        {
+          "group": "androidx.compose.runtime",
+          "module": "runtime-livedata"
+        },
+        {
+          "group": "androidx.compose.material3",
+          "module": "material3-window-size-class"
+        },
+        {
+          "group": "androidx.compose.ui",
+          "module": "ui-tooling-preview"
+        },
+        {
+          "group": "androidx.compose.ui",
+          "module": "ui-text-google-fonts"
+        },
+        {
+          "group": "androidx.lifecycle",
+          "module": "lifecycle-viewmodel-compose",
+          "version": {
+            "requires": "2.8.7"
+          }
+        },
+        {
+          "group": "androidx.navigation",
+          "module": "navigation-compose",
+          "version": {
+            "requires": "2.8.7"
+          }
+        },
+        {
+          "group": "androidx.recyclerview",
+          "module": "recyclerview",
+          "version": {
+            "requires": "1.3.2"
+          }
+        },
+        {
+          "group": "androidx.viewpager2",
+          "module": "viewpager2",
+          "version": {
+            "requires": "1.1.0"
+          }
+        },
+        {
+          "group": "androidx.preference",
+          "module": "preference-ktx",
+          "version": {
+            "requires": "1.2.1"
+          }
+        },
+        {
+          "group": "androidx.constraintlayout",
+          "module": "constraintlayout",
+          "version": {
+            "requires": "2.2.0"
+          }
+        },
+        {
+          "group": "androidx.palette",
+          "module": "palette-ktx",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "androidx.slice",
+          "module": "slice-core",
+          "version": {
+            "requires": "1.1.0-alpha02"
+          }
+        },
+        {
+          "group": "androidx.window",
+          "module": "window",
+          "version": {
+            "requires": "1.3.0"
+          }
+        },
+        {
+          "group": "androidx.dynamicanimation",
+          "module": "dynamicanimation",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "androidx.exifinterface",
+          "module": "exifinterface",
+          "version": {
+            "requires": "1.3.7"
+          }
+        },
+        {
+          "group": "androidx.datastore",
+          "module": "datastore-preferences",
+          "version": {
+            "requires": "1.1.1"
+          }
+        },
+        {
+          "group": "androidx.room",
+          "module": "room-runtime",
+          "version": {
+            "requires": "2.8.4"
+          }
+        },
+        {
+          "group": "androidx.room",
+          "module": "room-ktx",
+          "version": {
+            "requires": "2.8.4"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-serialization-json",
+          "version": {
+            "requires": "1.6.3"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-android",
+          "version": {
+            "requires": "1.9.0"
+          }
+        },
+        {
+          "group": "com.google.android.material",
+          "module": "material",
+          "version": {
+            "requires": "1.14.0"
+          }
+        },
+        {
+          "group": "com.google.protobuf",
+          "module": "protobuf-javalite",
+          "version": {
+            "requires": "4.28.2"
+          }
+        },
+        {
+          "group": "com.patrykmichalik.opto",
+          "module": "core",
+          "version": {
+            "requires": "1.0.18"
+          }
+        },
+        {
+          "group": "com.patrykmichalik.opto",
+          "module": "compose",
+          "version": {
+            "requires": "1.0.18"
+          }
+        },
+        {
+          "group": "com.patrykmichalik.opto",
+          "module": "domain",
+          "version": {
+            "requires": "1.0.18"
+          }
+        },
+        {
+          "group": "io.coil-kt",
+          "module": "coil-compose",
+          "version": {
+            "requires": "2.7.0"
+          }
+        },
+        {
+          "group": "me.xdrop",
+          "module": "fuzzywuzzy",
+          "version": {
+            "requires": "1.4.0"
+          }
+        },
+        {
+          "group": "dev.kdrag0n",
+          "module": "colorkt",
+          "version": {
+            "requires": "1.0.5"
+          }
+        },
+        {
+          "group": "sh.calvin.reorderable",
+          "module": "reorderable",
+          "version": {
+            "requires": "2.5.1"
+          }
+        },
+        {
+          "group": "io.github.hokofly",
+          "module": "hoko-blur",
+          "version": {
+            "requires": "1.5.5"
+          }
+        },
+        {
+          "group": "com.github.samanzamani",
+          "module": "PersianDate",
+          "version": {
+            "requires": "1.7.1"
+          }
+        },
+        {
+          "group": "com.github.topjohnwu.libsu",
+          "module": "core",
+          "version": {
+            "requires": "6.0.0"
+          }
+        },
+        {
+          "group": "com.github.topjohnwu.libsu",
+          "module": "service",
+          "version": {
+            "requires": "6.0.0"
+          }
+        },
+        {
+          "group": "io.github.fornewid",
+          "module": "material-motion-compose-core",
+          "version": {
+            "requires": "1.2.1"
+          }
+        },
+        {
+          "group": "com.google.accompanist",
+          "module": "accompanist-drawablepainter",
+          "version": {
+            "requires": "0.36.0"
+          }
+        },
+        {
+          "group": "com.google.accompanist",
+          "module": "accompanist-permissions",
+          "version": {
+            "requires": "0.36.0"
+          }
+        },
+        {
+          "group": "com.google.accompanist",
+          "module": "accompanist-adaptive",
+          "version": {
+            "requires": "0.36.0"
+          }
+        },
+        {
+          "group": "com.squareup.retrofit2",
+          "module": "retrofit",
+          "version": {
+            "requires": "2.11.0"
+          }
+        },
+        {
+          "group": "com.squareup.retrofit2",
+          "module": "converter-kotlinx-serialization",
+          "version": {
+            "requires": "2.11.0"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "okhttp",
+          "version": {
+            "requires": "4.12.0"
+          }
+        },
+        {
+          "group": "com.kieronquinn.smartspacer",
+          "module": "sdk-client",
+          "version": {
+            "requires": "1.1.2"
+          },
+          "excludes": [
+            {
+              "group": "com.github.skydoves",
+              "module": "balloon"
+            }
+          ]
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.2.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "launcher-1.0.0-example2.aar",
+          "url": "launcher-1.0.0-example2.aar",
+          "size": 10425927,
+          "sha512": "dfb79aeed854a05906e957b96510af223b28947ddf299a19e2a30f5351188551517d7b3c21ab4194a49b2a38bd45c80f670f022cbe3f5de8bb257ea9b2c28245",
+          "sha256": "ded4a49c3a1e20a400c83460463586b178aadccb14ae73ac6954d7da551806d2",
+          "sha1": "a3649d4efcb3d9491dab16b2f2b2d6af4f4e0a5b",
+          "md5": "f73b4f174a081348d03a4c5f929f4cfd"
+        }
+      ]
+    }
+  ]
+}

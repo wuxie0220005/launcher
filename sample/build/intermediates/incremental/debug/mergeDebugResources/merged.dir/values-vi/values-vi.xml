@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d thông báo mới</item>
+    <item quantity="other">%d thông báo mới</item>
+  </plurals>
+    <string msgid="7610119707847920412" name="abandoned_clean_this">"Xóa"</string>
+    <string msgid="3990027586878167529" name="abandoned_promise_explanation">"Ứng dụng cho biểu tượng này chưa được cài đặt. Bạn có thể xóa ứng dụng hoặc tìm kiếm và cài đặt ứng dụng theo cách thủ công."</string>
+    <string msgid="7096178467971716750" name="abandoned_promises_title">"Ứng dụng này chưa được cài đặt"</string>
+    <string msgid="891119232568284442" name="abandoned_search">"Tìm kiếm"</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Chỉ đường về nhà"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Di chuyển lên"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Tùy chọn khác"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Xong"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Xem tất cả"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Chọn một ứng dụng"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"TẮT"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"BẬT"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Tìm kiếm…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Xóa truy vấn"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Truy vấn tìm kiếm"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Tìm kiếm"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Gửi truy vấn"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Tìm kiếm bằng giọng nói"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Chia sẻ với"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Chia sẻ với <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="5024599872061409708" name="abc_slice_permission_allow">"Cho phép"</string>
+    <string msgid="5696872682700058611" name="abc_slice_permission_checkbox">"Cho phép <ns1:g id="APP">%1$s</ns1:g> hiển thị các lát từ mọi ứng dụng"</string>
+    <string msgid="3819478292430407705" name="abc_slice_permission_deny">"Từ chối"</string>
+    <string msgid="4525743640399572811" name="abc_slice_permission_text_1">"- Có thể đọc thông tin từ <ns1:g id="APP">%1$s</ns1:g>"</string>
+    <string msgid="7323565634860251794" name="abc_slice_permission_text_2">"- Có thể thực hiện hành động bên trong <ns1:g id="APP">%1$s</ns1:g>"</string>
+    <string msgid="4175332421259324948" name="abc_slice_permission_title">"Cho phép <ns1:g id="APP_0">%1$s</ns1:g> hiển thị các lát của <ns1:g id="APP_2">%2$s</ns1:g>?"</string>
+    <string msgid="3604847235923472451" name="abc_slices_permission_request">"<ns1:g id="APP_0">%1$s</ns1:g> muốn hiển thị các lát của <ns1:g id="APP_2">%2$s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Thu gọn"</string>
+    <string msgid="2277148124685870734" name="accessibility_close">"Đóng"</string>
+    <string name="accessibility_smartspace_page">Trang %1$d/%2$d</string>
+    <string msgid="215894119683164916" name="action_add_to_workspace">"Thêm vào màn hình chính"</string>
+    <string msgid="282377193880900022" name="action_decrease_height">"Giảm chiều cao"</string>
+    <string msgid="1374549771083094654" name="action_decrease_width">"Giảm chiều rộng"</string>
+    <string msgid="2864038805849372848" name="action_deep_shortcut">"Lối tắt"</string>
+    <string msgid="5909461085055959187" name="action_dismiss_notification">"Loại bỏ"</string>
+    <string msgid="459390020612501122" name="action_increase_height">"Tăng chiều cao"</string>
+    <string msgid="8773715375078513326" name="action_increase_width">"Tăng chiều rộng"</string>
+    <string msgid="4339390619886385032" name="action_move">"Di chuyển mục"</string>
+    <string msgid="2170188780612570250" name="action_move_here">"Di chuyển mục vào đây"</string>
+    <string msgid="39528912300293768" name="action_move_to_workspace">"Di chuyển đến màn hình chính"</string>
+    <string msgid="1802976324781771067" name="action_resize">"Đổi kích thước"</string>
+    <string msgid="7456344436509528827" name="activity_not_available">"Ứng dụng không có sẵn"</string>
+    <string msgid="8071924732094499514" name="activity_not_found">"Ứng dụng chưa được cài đặt."</string>
+    <string msgid="8730547755622776606" name="add_item_request_drag_hint">"Chạm và giữ tiện ích để di chuyển tiện ích đó xung quanh màn hình chính"</string>
+    <string msgid="9040534766770853243" name="add_to_folder">"Thêm vào thư mục: <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="4534929978967147231" name="add_to_folder_with_app">"Thêm vào thư mục có <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="9168649446635919791" name="add_to_home_screen">"Thêm vào màn hình chính"</string>
+    <string msgid="4793259502305558003" name="added_to_folder">"Đã thêm mục vào thư mục"</string>
+    <string msgid="4451545765448884415" name="added_to_home_screen_accessibility_text">"Đã thêm tiện ích <ns1:g id="WIDGET_NAME">%1$s</ns1:g> vào màn hình chính"</string>
+    <string msgid="8130441508702294465" name="all_apps_button_label">"Danh sách ứng dụng"</string>
+    <string msgid="1315764287305224468" name="all_apps_button_personal_label">"Danh sách ứng dụng cá nhân"</string>
+    <string msgid="7270707118948892488" name="all_apps_button_work_label">"Danh sách ứng dụng công việc"</string>
+    <string msgid="5015784846527570951" name="all_apps_label">"Tất cả ứng dụng"</string>
+    <string msgid="5813968043155271636" name="all_apps_loading_message">"Đang tải ứng dụng…"</string>
+    <string msgid="3200346862396363786" name="all_apps_no_search_results">"Không tìm thấy ứng dụng nào phù hợp với \"<ns1:g id="QUERY">%1$s</ns1:g>\""</string>
+    <string msgid="4190252696685155002" name="all_apps_personal_tab">"Cá nhân"</string>
+    <string msgid="1390553134053255246" name="all_apps_search_bar_hint">"Tìm kiếm ứng dụng"</string>
+    <string msgid="5889367432531296759" name="all_apps_search_results">"Kết quả tìm kiếm"</string>
+    <string msgid="4884822796154055118" name="all_apps_work_tab">"Công việc"</string>
+    <string msgid="8662546029078692509" name="allow_rotation_desc">"Khi xoay điện thoại"</string>
+    <string msgid="7222049633713050106" name="allow_rotation_title">"Cho phép xoay màn hình chính"</string>
+    <string msgid="8719607706653693137" name="androidx_compose_foundation_autofill">"Tự động điền"</string>
+    <string msgid="1150566100598813236" name="androidx_compose_ui_autofill">"Tự động điền"</string>
+    <string msgid="7717956158562544081" name="app_archived_title">"<ns1:g id="NAME">%1$s</ns1:g> đã được lưu trữ. Hãy nhấn để tải xuống và khôi phục."</string>
+    <string msgid="8336702962104482644" name="app_downloading_title">"Đang tải xuống <ns1:g id="NAME">%1$s</ns1:g>, <ns1:g id="PROGRESS">%2$s</ns1:g> hoàn tất"</string>
+    <string msgid="692894985365717661" name="app_info_drop_target_label">"Thông tin ứng dụng"</string>
+    <string msgid="5864044122733792085" name="app_installing_title">"Đang cài đặt <ns1:g id="NAME">%1$s</ns1:g>, hoàn tất <ns1:g id="PROGRESS">%2$s</ns1:g>"</string>
+    <string msgid="4045241727446873529" name="app_pair_default_title">"<ns1:g id="APP1">%1$s</ns1:g> | <ns1:g id="APP2">%2$s</ns1:g>"</string>
+    <string msgid="8134106404716224054" name="app_pair_name_format">"Cặp ứng dụng: <ns1:g id="APP1">%1$s</ns1:g> và <ns1:g id="APP2">%2$s</ns1:g>"</string>
+    <string msgid="4588897528143807002" name="app_pair_needs_unfold">"Hãy mở thiết bị để dùng cặp ứng dụng này"</string>
+    <string msgid="3556767440808032031" name="app_pair_not_available">"Hiện không có cặp ứng dụng này"</string>
+    <string msgid="3446551575502685376" name="app_pair_unlaunchable_at_screen_size">"Cặp ứng dụng này không hoạt động được trên thiết bị này"</string>
+    <string msgid="7053938513995617849" name="app_waiting_download_title">"Đang chờ cài đặt <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="7117251166066978730" name="auto_add_shortcuts_description">"Cho ứng dụng mới"</string>
+    <string msgid="4926805029653694105" name="auto_add_shortcuts_label">"Thêm biểu tượng ứng dụng vào màn hình chính"</string>
+    <string name="bottomsheet_action_collapse">Thu gọn</string>
+    <string name="bottomsheet_action_collapse_description">Thu gọn bảng dưới cùng</string>
+    <string name="bottomsheet_action_expand">Mở rộng</string>
+    <string name="bottomsheet_action_expand_description">Mở rộng bảng dưới cùng</string>
+    <string name="bottomsheet_action_expand_halfway">Mở rộng một nửa</string>
+    <string name="bottomsheet_action_half_expand_description">Mở rộng một nửa bảng dưới cùng</string>
+    <string name="bottomsheet_drag_handle_content_description">Nút kéo</string>
+    <string name="bottomsheet_state_collapsed">Đã thu gọn</string>
+    <string name="bottomsheet_state_expanded">Đã mở rộng</string>
+    <string name="bottomsheet_state_half_expanded">Đã mở rộng một nửa</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Trả lời"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Video"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Từ chối"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Kết thúc"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Cuộc gọi đến"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Cuộc gọi đang thực hiện"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Đang sàng lọc cuộc gọi đến"</string>
+    <string name="character_counter_content_description">Đã nhập %1$d trong số %2$d ký tự</string>
+    <string name="character_counter_overflowed_content_description">Đã vượt quá giới hạn ký tự %1$d/%2$d</string>
+    <string name="clear_text_end_icon_content_description">Xóa văn bản</string>
+    <string msgid="406453423630273620" name="close_drawer">"Đóng trình đơn điều hướng"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"Đóng trang tính"</string>
+    <string msgid="6083905920877235314" name="copy">"Sao chép"</string>
+    <string msgid="4050141361160214248" name="create_folder_with">"Tạo thư mục bằng: <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="8038256446254964252" name="default_error_message">"Giá trị nhập không hợp lệ"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"Cửa sổ bật lên"</string>
+    <string msgid="7475544710230993317" name="default_scroll_format">"Trang %1$d / %2$d"</string>
+    <string msgid="5896817443635989056" name="developer_options_filter_hint">"Bộ lọc"</string>
+    <string msgid="700788437593726194" name="developer_options_title">"Tùy chọn cho nhà phát triển"</string>
+    <string msgid="6510806469849709407" name="dialog_remove">"Xóa"</string>
+    <string msgid="2178028071796141234" name="dialog_update">"Cập nhật"</string>
+    <string msgid="4176784553982226114" name="dialog_update_message">"Ứng dụng cho biểu tượng này chưa được cập nhật. Bạn có thể cập nhật theo cách thủ công để bật lại phím tắt này hoặc xóa biểu tượng."</string>
+    <string msgid="114234265740994042" name="dialog_update_title">"Cần cập nhật ứng dụng"</string>
+    <string msgid="6673129024321402780" name="disabled_app_label">"Đã vô hiệu hóa <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string msgid="3357562989568808658" name="dismiss_prediction_label">"Không gợi ý ứng dụng"</string>
+    <string msgid="1865617679843363410" name="dotted_app_label">"{count,plural, =1{{app_name} có # thông báo}other{{app_name} có # thông báo}}"</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"Trình đơn thả xuống"</string>
+    <string msgid="8947858375782098427" name="edit_home_screen">"Chỉnh sửa Màn hình chính"</string>
+    <string msgid="3973107268630717874" name="entertainment_widget_recommendation_category_label">"Giải trí"</string>
+    <string name="error_a11y_label">Lỗi: không hợp lệ</string>
+    <string name="error_icon_content_description">Lỗi</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"Nâng cao"</string>
+    <string name="exposed_dropdown_menu_content_description">Hiển thị menu thả xuống</string>
+    <string msgid="4100806530910930934" name="folder_closed">"Đã đóng thư mục"</string>
+    <string msgid="6409794597405184510" name="folder_created">"Đã tạo thư mục"</string>
+    <string msgid="5174843001373488816" name="folder_hint_text">"Chỉnh sửa tên"</string>
+    <string msgid="8626242716117004803" name="folder_name_format_exact">"Thư mục: <ns1:g id="NAME">%1$s</ns1:g>, <ns1:g id="SIZE">%2$d</ns1:g> mục"</string>
+    <string msgid="4270108890534995199" name="folder_name_format_overflow">"Thư mục: <ns1:g id="NAME">%1$s</ns1:g>, <ns1:g id="SIZE">%2$d</ns1:g> mục trở lên"</string>
+    <string msgid="94695026776264709" name="folder_opened">"Đã mở thư mục, <ns1:g id="WIDTH">%1$d</ns1:g> x <ns1:g id="HEIGHT">%2$d</ns1:g>"</string>
+    <string msgid="1794088362165669656" name="folder_renamed">"Đã đổi tên thư mục thành <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="4625795376335528256" name="folder_tap_to_close">"Nhấn để đóng thư mục"</string>
+    <string msgid="4017685068016979677" name="folder_tap_to_rename">"Nhấn để lưu đổi tên"</string>
+    <string msgid="309040266978007925" name="gadget_complete_setup_text">"Nhấn để hoàn tất thiết lập"</string>
+    <string msgid="740356548025791839" name="gadget_error_text">"Không thể tải tiện ích"</string>
+    <string msgid="8348374825537681407" name="gadget_setup_text">"Cài đặt tiện ích"</string>
+    <string name="generic_smartspace_concatenated_desc">%1$s, %2$s</string>
+    <string msgid="5629429142036709174" name="home_screen">"Màn hình chính"</string>
+    <string msgid="7448809638125333693" name="hotseat_out_of_space">"Không còn chỗ trong khay Mục yêu thích"</string>
+    <string name="icon_content_description">Biểu tượng hộp thoại</string>
+    <string msgid="6827826412747255547" name="in_progress">"Đang thực hiện"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"Đã kiểm tra một phần"</string>
+    <string msgid="2539096853673231757" name="install_drop_target_label">"Cài đặt"</string>
+    <string msgid="1616889277073184841" name="install_private_system_shortcut_label">"Cài đặt ở chế độ riêng tư"</string>
+    <string msgid="4211073925752213539" name="item_added_to_workspace">"Đã thêm mục vào màn hình chính"</string>
+    <string msgid="4606538322571412879" name="item_moved">"Đã di chuyển mục"</string>
+    <string msgid="851119963877842327" name="item_removed">"Đã xóa mục"</string>
+    <string name="item_view_role_description">Thẻ</string>
+    <string msgid="8531721983832654978" name="label_application">"Ứng dụng"</string>
+    <string msgid="649227358658669779" name="launcher3_app_name">"Trình chạy 3"</string>
+    <string msgid="2733588281439571974" name="long_accessible_way_to_add">"Nhấn đúp và giữ để di chuyển một tiện ích hoặc sử dụng các thao tác tùy chỉnh."</string>
+    <string msgid="2199537273817090740" name="long_accessible_way_to_add_shortcut">"Nhấn đúp và giữ để di chuyển một lối tắt hoặc sử dụng các thao tác tùy chỉnh."</string>
+    <string msgid="5405328730817637737" name="long_press_shortcut_to_add">"Chạm và giữ để di chuyển một lối tắt."</string>
+    <string msgid="3587712543577675817" name="long_press_widget_to_add">"Chạm và giữ để di chuyển một tiện ích."</string>
+    <string name="m3_loading_indicator_content_description">Đang tải</string>
+    <string name="m3_overflow_linear_layout_button_content_description">Trình đơn mục bổ sung</string>
+    <string name="m3_overflow_linear_layout_button_tooltip_text">Tuỳ chọn khác</string>
+    <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"Thu gọn bảng dưới cùng"</string>
+    <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"Đóng bảng dưới cùng"</string>
+    <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"Nút kéo"</string>
+    <string msgid="6670819569745899763" name="m3c_bottom_sheet_expand_description">"Mở rộng bảng dưới cùng"</string>
+    <string msgid="3010635850035863127" name="m3c_bottom_sheet_pane_title">"Bảng dưới cùng"</string>
+    <string msgid="8166741421776570875" name="m3c_date_input_headline">"Ngày đã nhập"</string>
+    <string msgid="229313757840775812" name="m3c_date_input_headline_description">"Ngày đã nhập: %1$s"</string>
+    <string msgid="6116910750161463197" name="m3c_date_input_invalid_for_pattern">"Ngày không khớp với định dạng dự kiến: %1$s"</string>
+    <string msgid="2521768508935305279" name="m3c_date_input_invalid_not_allowed">"Ngày không được phép: %1$s"</string>
+    <string msgid="7052898923934555305" name="m3c_date_input_invalid_year_range">"Ngày không thuộc phạm vi năm dự kiến %1$s – %2$s"</string>
+    <string msgid="2895559812010326913" name="m3c_date_input_label">"Ngày"</string>
+    <string msgid="1237013946323089826" name="m3c_date_input_no_input_description">"Không có"</string>
+    <string msgid="7306227249789210568" name="m3c_date_input_title">"Chọn ngày"</string>
+    <string msgid="7605002211875882969" name="m3c_date_picker_headline">"Ngày đã chọn"</string>
+    <string msgid="3664277305226978227" name="m3c_date_picker_headline_description">"Lựa chọn hiện tại: %1$s"</string>
+    <string msgid="8436650776581492840" name="m3c_date_picker_navigate_to_year_description">"Chuyển đến năm %1$s"</string>
+    <string msgid="5811000998184572395" name="m3c_date_picker_no_selection_description">"Không có"</string>
+    <string msgid="7813882352367152251" name="m3c_date_picker_scroll_to_earlier_years">"Cuộn để hiện những năm trước"</string>
+    <string msgid="5727367015496556177" name="m3c_date_picker_scroll_to_later_years">"Cuộn để hiện những năm sau"</string>
+    <string msgid="1804346892470238807" name="m3c_date_picker_switch_to_calendar_mode">"Chuyển sang chế độ nhập lịch"</string>
+    <string msgid="395627960681594326" name="m3c_date_picker_switch_to_day_selection">"Vuốt để chọn một năm hoặc nhấn để chuyển lại về chọn một ngày"</string>
+    <string msgid="2219746470065162704" name="m3c_date_picker_switch_to_input_mode">"Chuyển sang chế độ nhập văn bản"</string>
+    <string msgid="7142101321095356500" name="m3c_date_picker_switch_to_next_month">"Chuyển sang tháng tiếp theo"</string>
+    <string msgid="228438865139394590" name="m3c_date_picker_switch_to_previous_month">"Chuyển về tháng trước"</string>
+    <string msgid="791651718641787594" name="m3c_date_picker_switch_to_year_selection">"Chuyển sang chọn năm"</string>
+    <string msgid="7430790972741451689" name="m3c_date_picker_title">"Chọn ngày"</string>
+    <string msgid="3199387177749801575" name="m3c_date_picker_today_description">"Hôm nay"</string>
+    <string msgid="2068382232816991922" name="m3c_date_picker_year_picker_pane_title">"Bộ chọn năm hiển thị"</string>
+    <string msgid="3190049423327661366" name="m3c_date_range_input_invalid_range_input">"Phạm vi ngày đã nhập không hợp lệ"</string>
+    <string msgid="3148384720560189467" name="m3c_date_range_input_title">"Nhập ngày"</string>
+    <string msgid="2138321128465719402" name="m3c_date_range_picker_day_in_range">"Trong khoảng"</string>
+    <string msgid="4947636797751277713" name="m3c_date_range_picker_end_headline">"Ngày kết thúc"</string>
+    <string msgid="602077859540990149" name="m3c_date_range_picker_scroll_to_next_month">"Cuộn để hiện tháng sau"</string>
+    <string msgid="4592174524846109496" name="m3c_date_range_picker_scroll_to_previous_month">"Cuộn để hiện tháng trước"</string>
+    <string msgid="4665981448952749820" name="m3c_date_range_picker_start_headline">"Ngày bắt đầu"</string>
+    <string msgid="3134165431120340385" name="m3c_date_range_picker_title">"Chọn ngày"</string>
+    <string msgid="7617233117134790350" name="m3c_dialog">"Hộp thoại"</string>
+    <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"Đã thu gọn"</string>
+    <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"Đã mở rộng"</string>
+    <string msgid="8687821690726149911" name="m3c_dropdown_menu_toggle">"Bật/tắt trình đơn thả xuống"</string>
+    <string msgid="6152806324422087846" name="m3c_search_bar_search">"Tìm kiếm"</string>
+    <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"Đóng"</string>
+    <string msgid="7655536806087401899" name="m3c_suggestions_available">"Các đề xuất ở bên dưới"</string>
+    <string msgid="2786685010796619560" name="m3c_time_picker_am">"SA"</string>
+    <string msgid="2349193472625211372" name="m3c_time_picker_hour">"Giờ"</string>
+    <string msgid="9179527532316922345" name="m3c_time_picker_hour_24h_suffix">"%1$d giờ"</string>
+    <string msgid="8876759303332837035" name="m3c_time_picker_hour_selection">"Chọn giờ"</string>
+    <string msgid="3458167507790628988" name="m3c_time_picker_hour_suffix">"%1$d giờ"</string>
+    <string msgid="6973808109666874069" name="m3c_time_picker_hour_text_field">"nhập giờ"</string>
+    <string msgid="4313071914266462005" name="m3c_time_picker_minute">"Phút"</string>
+    <string msgid="4699133535056739733" name="m3c_time_picker_minute_selection">"Chọn phút"</string>
+    <string msgid="5064177921781937179" name="m3c_time_picker_minute_suffix">"%1$d phút"</string>
+    <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"nhập phút"</string>
+    <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"Chọn SA hoặc CH"</string>
+    <string msgid="6616362054113087709" name="m3c_time_picker_pm">"CH"</string>
+    <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"Hiện chú giải công cụ"</string>
+    <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"Chú giải công cụ"</string>
+    <string name="material_clock_toggle_content_description">Chọn SA hoặc CH</string>
+    <string name="material_hour_24h_suffix">%1$s giờ</string>
+    <string name="material_hour_selection">Chọn giờ</string>
+    <string name="material_hour_suffix">%1$s giờ</string>
+    <string name="material_minute_selection">Chọn phút</string>
+    <string name="material_minute_suffix">%1$s phút</string>
+    <string name="material_slider_range_end">Điểm kết thúc phạm vi</string>
+    <string name="material_slider_range_start">Điểm bắt đầu phạm vi</string>
+    <string name="material_slider_value">Giá trị</string>
+    <string name="material_timepicker_am">SA</string>
+    <string name="material_timepicker_clock_mode_description">Chuyển sang chế độ đồng hồ để nhập thời gian.</string>
+    <string name="material_timepicker_clock_mode_tooltip">Chuyển sang chế độ đồng hồ</string>
+    <string name="material_timepicker_hour">Giờ</string>
+    <string name="material_timepicker_hour_error">Số giờ phải từ 1 đến 12</string>
+    <string name="material_timepicker_hour_error_24h">Số giờ phải từ 0 đến 23</string>
+    <string name="material_timepicker_minute">Phút</string>
+    <string name="material_timepicker_minute_error">Số phút phải từ 0 đến 59</string>
+    <string name="material_timepicker_pm">CH</string>
+    <string name="material_timepicker_select_time">Chọn thời gian</string>
+    <string name="material_timepicker_text_input_mode_description">Chuyển sang chế độ nhập văn bản để nhập thời gian.</string>
+    <string name="material_timepicker_text_input_mode_tooltip">Chuyển sang chế độ nhập văn bản</string>
+    <string msgid="5254852678218206889" name="move_to_empty_cell_description">"Di chuyển đến hàng <ns1:g id="NUMBER_0">%1$s</ns1:g> cột <ns1:g id="NUMBER_1">%2$s</ns1:g> tại <ns1:g id="STRING">%3$s</ns1:g>"</string>
+    <string msgid="6295412897075147808" name="move_to_hotseat_position">"Di chuyển tới vị trí mục yêu thích <ns1:g id="NUMBER">%1$s</ns1:g>"</string>
+    <string msgid="6750008980455459790" name="move_to_position">"Di chuyển tới vị trí <ns1:g id="NUMBER">%1$s</ns1:g>"</string>
+    <string msgid="6898038085516271325" name="msg_disabled_by_admin">"Bị tắt bởi quản trị viên của bạn"</string>
+    <string msgid="281113995110910548" name="msg_missing_notification_access">"Để hiển thị Dấu chấm thông báo, hãy bật thông báo ứng dụng cho <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string name="mtrl_badge_numberless_content_description">Thông báo mới</string>
+    <string name="mtrl_button_collapsed_content_description">Đã thu gọn</string>
+    <string name="mtrl_button_expanded_content_description">Đã mở rộng</string>
+    <string name="mtrl_button_overflow_icon_content_description">Trình đơn mục bổ sung</string>
+    <string name="mtrl_button_snackbar_close_content_description">Đóng</string>
+    <string name="mtrl_checkbox_state_description_checked">Đã đánh dấu</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Đã đánh dấu một phần</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Chưa đánh dấu</string>
+    <string name="mtrl_chip_close_icon_content_description">Xóa %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Hơn %1$d thông báo mới</string>
+    <string name="mtrl_picker_a11y_next_month">Chuyển sang tháng tiếp theo</string>
+    <string name="mtrl_picker_a11y_prev_month">Chuyển về tháng trước</string>
+    <string name="mtrl_picker_announce_current_range_selection">Ngày bắt đầu được chọn: %1$s – Ngày kết thúc được chọn: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">Lựa chọn hiện tại: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">không có</string>
+    <string name="mtrl_picker_cancel">Hủy</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Chọn ngày</string>
+    <string name="mtrl_picker_date_header_unselected">Ngày đã chọn</string>
+    <string name="mtrl_picker_day_of_week_column_header">%1$s</string>
+    <string name="mtrl_picker_end_date_description">Ngày kết thúc %1$s</string>
+    <string name="mtrl_picker_invalid_format">Định dạng không hợp lệ.</string>
+    <string name="mtrl_picker_invalid_format_example">Ví dụ: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Sử dụng: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Phạm vi không hợp lệ.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Chuyển đến năm hiện tại %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">Chuyển tới năm %1$d</string>
+    <string name="mtrl_picker_next_month_tooltip">Tháng tiếp theo</string>
+    <string name="mtrl_picker_out_of_range">Nằm ngoài phạm vi: %1$s</string>
+    <string name="mtrl_picker_pane_title_calendar_view">Chế độ xem theo lịch</string>
+    <string name="mtrl_picker_pane_title_year_view">Chế độ xem theo năm</string>
+    <string name="mtrl_picker_prev_month_tooltip">Tháng trước</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Ngày bắt đầu – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Ngày kết thúc</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Chọn dải ô</string>
+    <string name="mtrl_picker_range_header_unselected">Ngày bắt đầu – Ngày kết thúc</string>
+    <string name="mtrl_picker_save">Lưu</string>
+    <string name="mtrl_picker_start_date_description">Ngày bắt đầu %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">Ngày</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Ngày kết thúc</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Ngày bắt đầu</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
+    <string name="mtrl_picker_today_description">Hôm nay %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Chuyển sang chế độ nhập lịch</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode_tooltip">Chuyển sang lịch</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Chuyển sang chế độ xem theo Lịch</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Chuyển sang chế độ nhập văn bản</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode_tooltip">Chuyển sang nhập văn bản</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Chuyển sang chế độ xem theo năm</string>
+    <string name="mtrl_timepicker_cancel">Huỷ</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string msgid="542007171693138492" name="navigation_menu">"Trình đơn điều hướng"</string>
+    <string msgid="6756167867113741310" name="news_widget_recommendation_category_label">"Tin tức và tạp chí"</string>
+    <string msgid="3787956167293097509" name="no_search_results">"Không tìm thấy tiện ích hoặc lối tắt nào"</string>
+    <string msgid="4337693382501046170" name="no_widgets_available">"Không có tiện ích và lối tắt nào"</string>
+    <string msgid="6610465462668679431" name="not_selected">"Chưa chọn"</string>
+    <string msgid="6573031135582639649" name="not_set">"Chưa đặt"</string>
+    <string msgid="1760796511504341095" name="notification_dots_desc_off">"Tắt"</string>
+    <string msgid="1679848116452218908" name="notification_dots_desc_on">"Đang bật"</string>
+    <string msgid="4284221181793592871" name="notification_dots_service_title">"Hiện dấu chấm thông báo"</string>
+    <string msgid="9062440428204120317" name="notification_dots_title">"Dấu chấm thông báo"</string>
+    <string msgid="1404149926117359025" name="notifications_header">"Thông báo"</string>
+    <string msgid="5555987036267226245" name="others_widget_recommendation_category_label">"Đề xuất cho bạn"</string>
+    <string msgid="6455557115204099579" name="out_of_space">"Không còn khoảng trống trên màn hình chính này"</string>
+    <string msgid="7592128424511031410" name="package_state_unknown">"Không xác định"</string>
+    <string name="password_toggle_content_description">Hiện mật khẩu</string>
+    <string msgid="923466509822011139" name="permdesc_install_shortcut">"Cho phép ứng dụng thêm lối tắt mà không cần sự can thiệp của người dùng."</string>
+    <string msgid="4208061150510996676" name="permdesc_read_settings">"Cho phép ứng dụng đọc các chế độ cài đặt và lối tắt trên màn hình chính."</string>
+    <string msgid="726859348127868466" name="permdesc_write_settings">"Cho phép ứng dụng thay đổi các chế độ cài đặt và lối tắt trên màn hình chính."</string>
+    <string msgid="5632423390354674437" name="permlab_install_shortcut">"cài đặt lối tắt"</string>
+    <string msgid="5136500343007704955" name="permlab_read_settings">"đọc lối tắt và các chế độ cài đặt trên màn hình chính"</string>
+    <string msgid="4820028712156303762" name="permlab_write_settings">"ghi lối tắt và các chế độ cài đặt trên màn hình chính"</string>
+    <string msgid="4196423321649756498" name="pin_prediction">"Ghim ứng dụng dự đoán"</string>
+    <string msgid="6685851473431805375" name="preference_copied">"Đã sao chép \"<ns1:g id="SUMMARY">%1$s</ns1:g>\" vào bảng nhớ tạm."</string>
+    <string msgid="2359721649407947001" name="private_space_label">"Không gian riêng tư"</string>
+    <string msgid="9203933341714508907" name="private_space_secondary_label">"Nhấn để thiết lập hoặc mở"</string>
+    <string msgid="3811812719618323750" name="productivity_widget_recommendation_category_label">"Các tiện ích thiết yếu"</string>
+    <string msgid="3254274107740952556" name="ps_add_button_content_description">"Cài đặt ứng dụng vào Không gian riêng tư"</string>
+    <string msgid="8127988716897128773" name="ps_add_button_label">"Cài đặt"</string>
+    <string msgid="5961993384382649530" name="ps_container_lock_button_content_description">"Riêng tư, đã khoá."</string>
+    <string msgid="2640257399982364682" name="ps_container_lock_title">"Khoá"</string>
+    <string msgid="6059734123353320479" name="ps_container_settings">"Cài đặt không gian riêng tư"</string>
+    <string msgid="4391796149519594205" name="ps_container_title">"Riêng tư"</string>
+    <string msgid="8667331812048014412" name="ps_container_transition">"Chuyển đổi sang không gian riêng tư"</string>
+    <string msgid="9181551784092204234" name="ps_container_unlock_button_content_description">"Riêng tư, đã mở khoá."</string>
+    <string msgid="5941395253238309765" name="range_end">"Điểm kết thúc phạm vi"</string>
+    <string msgid="7097486360902471446" name="range_start">"Điểm bắt đầu phạm vi"</string>
+    <string msgid="6690461455618725183" name="recent_task_option_split_screen">"Chia đôi màn hình"</string>
+    <string msgid="6336962690888067057" name="reconfigurable_widget_education_tip">"Nhấn để thay đổi chế độ cài đặt tiện ích"</string>
+    <string msgid="1383965239183576790" name="remote_action_failed">"Không thực hiện được thao tác: <ns1:g id="WHAT">%1$s</ns1:g>"</string>
+    <string msgid="7812859488053230776" name="remove_drop_target_label">"Xóa"</string>
+    <string msgid="9160126848219158407" name="safemode_shortcut_error">"Ứng dụng đã tải xuống bị tắt ở chế độ An toàn"</string>
+    <string msgid="4863470563535682004" name="safemode_widget_error">"Tiện ích bị vô hiệu hóa ở chế độ an toàn"</string>
+    <string msgid="5647523853662686243" name="save_app_pair">"Lưu cặp ứng dụng"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Tìm kiếm"</string>
+    <string name="searchview_clear_text_content_description">Xoá văn bản</string>
+    <string name="searchview_navigation_content_description">Quay lại</string>
+    <string msgid="6043586758067023" name="selected">"Đã chọn"</string>
+    <string msgid="5808906607627586381" name="set_default_home_app">"Đặt <ns1:g id="LAUNCHER_NAME">%1$s</ns1:g> làm trình chạy mặc định trong phần Cài đặt"</string>
+    <string msgid="8873672322605444408" name="settings_button_text">"Cài đặt"</string>
+    <string msgid="2536503539825726397" name="shortcut_not_available">"Lối tắt không khả dụng"</string>
+    <string msgid="8471715556199592381" name="shortcuts_count">"{count,plural, =1{# lối tắt}other{# lối tắt}}"</string>
+    <string name="side_sheet_accessibility_pane_title">Trang bên</string>
+    <string msgid="2792228137354697160" name="snackbar_pane_title">"Cảnh báo"</string>
+    <string msgid="689147679536384717" name="social_widget_recommendation_category_label">"Mạng xã hội"</string>
+    <string msgid="5475288491241414932" name="split_app_info_accessibility">"Thông tin ứng dụng cho %1$s"</string>
+    <string msgid="7214375263347964093" name="split_app_usage_settings">"Chế độ cài đặt mức sử dụng %1$s"</string>
+    <string msgid="4139871816613051306" name="state_empty">"Trống"</string>
+    <string msgid="5834637030682409883" name="state_off">"Đang tắt"</string>
+    <string msgid="1490883874751719580" name="state_on">"Đang bật"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="8216961355289236794" name="styles_wallpaper_button_text">"Hình nền và phong cách"</string>
+    <string msgid="1844314680798145222" name="suggested_widgets_header_title">"Nội dung đề xuất"</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string msgid="2561197295334830845" name="switch_role">"Chuyển"</string>
+    <string msgid="1672349317127674378" name="tab">"Thẻ"</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g>%%."</string>
+    <string msgid="1376365968844349552" name="title_change_settings">"Thay đổi cài đặt"</string>
+    <string msgid="7503287056163941064" name="title_missing_notification_access">"Cần quyền truy cập thông báo"</string>
+    <string msgid="3765533235322692011" name="tooltip_description">"chú thích"</string>
+    <string msgid="3124740595719787496" name="tooltip_label">"hiện chú thích"</string>
+    <string msgid="4151576204245173321" name="undo">"Hủy"</string>
+    <string msgid="4722034217958379417" name="uninstall_drop_target_label">"Gỡ cài đặt"</string>
+    <string msgid="8423460530441627982" name="uninstall_private_system_shortcut_label">"Gỡ cài đặt ứng dụng"</string>
+    <string msgid="4172046090762920660" name="uninstall_system_app_text">"Đây là ứng dụng hệ thống và không thể gỡ cài đặt."</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"TẮT"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"BẬT"</string>
+    <string msgid="3640149169885301790" name="widget_accessible_dims_format">"Rộng %1$d x cao %2$d"</string>
+    <string msgid="1810530016360039643" name="widget_add_button_content_description">"Thêm tiện ích <ns1:g id="WIDGET_NAME">%1$s</ns1:g>"</string>
+    <string msgid="2761267068711937179" name="widget_add_button_label">"Thêm"</string>
+    <string msgid="2880537293434387943" name="widget_button_text">"Tiện ích"</string>
+    <string msgid="8894438636213590446" name="widget_category_conversations">"Cuộc trò chuyện"</string>
+    <string msgid="3469689394504266039" name="widget_category_note_taking">"Ghi chú"</string>
+    <string msgid="2370757736025621599" name="widget_dims_format">"%1$d × %2$d"</string>
+    <string msgid="1673313931455067502" name="widget_picker_right_pane_accessibility_title">"Tiện ích <ns1:g id="SELECTED_HEADER">%1$s</ns1:g> ở bên phải, công cụ tìm kiếm và tuỳ chọn ở bên trái"</string>
+    <string msgid="9045841361655787574" name="widget_preview_context_description">"Tiện ích <ns1:g id="WIDGET_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8489038126122831595" name="widget_preview_name_and_dims_content_description">"Tiện ích <ns1:g id="WIDGET_NAME">%1$s</ns1:g>, rộng %2$d x cao %3$d"</string>
+    <string msgid="8811472721881205250" name="widget_reconfigure_button_content_description">"Thay đổi chế độ cài đặt tiện ích"</string>
+    <string msgid="9130327887929620" name="widget_resized">"Đã đổi kích thước tiện ích thành chiều rộng <ns1:g id="NUMBER_0">%1$s</ns1:g> chiều cao <ns1:g id="NUMBER_1">%2$s</ns1:g>"</string>
+    <string msgid="7209136747878365116" name="widgets_and_shortcuts_count">"<ns1:g id="WIDGETS_COUNT">%1$s</ns1:g>, <ns1:g id="SHORTCUTS_COUNT">%2$s</ns1:g>"</string>
+    <string msgid="6467746476364652096" name="widgets_count">"{count,plural, =1{# tiện ích}other{# tiện ích}}"</string>
+    <string msgid="5766167035728653605" name="widgets_full_sheet_cancel_button_description">"Xóa văn bản khỏi hộp tìm kiếm"</string>
+    <string msgid="2743540105607120182" name="widgets_full_sheet_personal_tab">"Cá nhân"</string>
+    <string msgid="8484659090860596457" name="widgets_full_sheet_search_bar_hint">"Tìm kiếm"</string>
+    <string msgid="3767150027110633765" name="widgets_full_sheet_work_tab">"Công việc"</string>
+    <string msgid="796804551140113767" name="widgets_list">"Danh sách tiện ích"</string>
+    <string msgid="6141506579418771922" name="widgets_list_closed">"Đã đóng danh sách tiện ích"</string>
+    <string msgid="1736198302467317371" name="work_apps_enable_btn_text">"Bỏ tạm dừng"</string>
+    <string msgid="4669288269140620646" name="work_apps_pause_btn_text">"Tạm dừng các ứng dụng công việc"</string>
+    <string msgid="261634750995824906" name="work_apps_paused_body">"Các ứng dụng công việc không thể gửi thông báo cho bạn, sử dụng pin hoặc truy cập thông tin vị trí của bạn"</string>
+    <string msgid="6377476824357318532" name="work_apps_paused_edu_accept">"Tôi hiểu"</string>
+    <string msgid="8872412121608402058" name="work_apps_paused_edu_banner">"Các ứng dụng công việc được gắn huy hiệu và quản trị viên CNTT có thể nhìn thấy"</string>
+    <string msgid="1687828929959237477" name="work_apps_paused_info_body">"Bạn sẽ không nhận được thông báo từ các ứng dụng công việc"</string>
+    <string msgid="8358872357502756790" name="work_apps_paused_telephony_unavailable_body">"Bạn sẽ không nhận được tin nhắn văn bản, cuộc gọi điện thoại hoặc thông báo từ các ứng dụng công việc"</string>
+    <string msgid="3040901117349444598" name="work_apps_paused_title">"Đã tạm dừng các ứng dụng công việc"</string>
+    <string msgid="3753320833950115786" name="work_folder_name">"Work"</string>
+    <string msgid="6069788082535149071" name="work_profile_edu_accept">"OK"</string>
+    <string msgid="7895468576497746520" name="work_profile_edu_work_apps">"Các ứng dụng công việc được gắn huy hiệu và quản trị viên CNTT có thể nhìn thấy"</string>
+    <string msgid="3081029915775481146" name="work_profile_toggle_label">"Hồ sơ công việc"</string>
+    <string msgid="257366611030256142" name="workspace_new_page">"Trang màn hình chính mới"</string>
+    <string msgid="8458889198184077399" name="workspace_scroll_format">"Màn hình chính %1$d / %2$d"</string>
+</resources>

@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d नई सूचनाएं</item>
+    <item quantity="other">%d नई सूचनाएं</item>
+  </plurals>
+    <string msgid="7610119707847920412" name="abandoned_clean_this">"निकालें"</string>
+    <string msgid="3990027586878167529" name="abandoned_promise_explanation">"इस आइकॉन का ऐप इंस्टॉल नहीं है. आप उसे निकाल सकते हैं या ऐप को खोज कर उसे मैन्युअल रूप से इंस्टॉल कर सकते हैं."</string>
+    <string msgid="7096178467971716750" name="abandoned_promises_title">"यह ऐप्लिकेशन इंस्टॉल नहीं है"</string>
+    <string msgid="891119232568284442" name="abandoned_search">"खोजें"</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"होम पेज पर जाएं"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"वापस जाएं"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"ज़्यादा विकल्प"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"हो गया"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"सभी देखें"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"कोई ऐप्लिकेशन चुनें"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"बंद"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"चालू"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"खोजें…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"क्‍वेरी हटाएं"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"सर्च क्वेरी"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"खोजें"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"क्वेरी सबमिट करें"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"बोलकर खोजें"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"इससे शेयर करें:"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> से शेयर करें"</string>
+    <string msgid="5024599872061409708" name="abc_slice_permission_allow">"अनुमति दें"</string>
+    <string msgid="5696872682700058611" name="abc_slice_permission_checkbox">"<ns1:g id="APP">%1$s</ns1:g> काे किसी भी ऐप्लिकेशन के हिस्से (स्लाइस) दिखाने की मंज़ूरी दें"</string>
+    <string msgid="3819478292430407705" name="abc_slice_permission_deny">"नामंज़ूर करें"</string>
+    <string msgid="4525743640399572811" name="abc_slice_permission_text_1">"- यह <ns1:g id="APP">%1$s</ns1:g> से जानकारी पा सकता है"</string>
+    <string msgid="7323565634860251794" name="abc_slice_permission_text_2">"- यह <ns1:g id="APP">%1$s</ns1:g> में कार्रवाई कर सकता है"</string>
+    <string msgid="4175332421259324948" name="abc_slice_permission_title">"<ns1:g id="APP_0">%1$s</ns1:g> को <ns1:g id="APP_2">%2$s</ns1:g> के हिस्से (स्लाइस) दिखाने की मंज़ूरी दें?"</string>
+    <string msgid="3604847235923472451" name="abc_slices_permission_request">"<ns1:g id="APP_0">%1$s</ns1:g>, <ns1:g id="APP_2">%2$s</ns1:g> के हिस्से (स्लाइस) दिखाना चाहता है"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"छोटा करें"</string>
+    <string msgid="2277148124685870734" name="accessibility_close">"बंद करें"</string>
+    <string name="accessibility_smartspace_page">%2$d में से %1$d पेज</string>
+    <string msgid="215894119683164916" name="action_add_to_workspace">"होम स्क्रीन पर जोड़ें"</string>
+    <string msgid="282377193880900022" name="action_decrease_height">"ऊंचाई घटाएं"</string>
+    <string msgid="1374549771083094654" name="action_decrease_width">"चौड़ाई घटाएं"</string>
+    <string msgid="2864038805849372848" name="action_deep_shortcut">"शॉर्टकट"</string>
+    <string msgid="5909461085055959187" name="action_dismiss_notification">"खारिज करें"</string>
+    <string msgid="459390020612501122" name="action_increase_height">"ऊंचाई बढ़ाएं"</string>
+    <string msgid="8773715375078513326" name="action_increase_width">"चौड़ाई बढ़ाएं"</string>
+    <string msgid="4339390619886385032" name="action_move">"आइटम ले जाएं"</string>
+    <string msgid="2170188780612570250" name="action_move_here">"आइटम यहां ले जाएं"</string>
+    <string msgid="39528912300293768" name="action_move_to_workspace">"होम स्क्रीन पर ले जाएं"</string>
+    <string msgid="1802976324781771067" name="action_resize">"आकार बदलें"</string>
+    <string msgid="7456344436509528827" name="activity_not_available">"ऐप्लिकेशन उपलब्ध नहीं है"</string>
+    <string msgid="8071924732094499514" name="activity_not_found">"ऐप्‍लिकेशन इंस्‍टॉल नहीं है."</string>
+    <string msgid="8730547755622776606" name="add_item_request_drag_hint">"विजेट को होम स्क्रीन पर इधर-उधर ले जाने के लिए, उसे दबाकर रखें"</string>
+    <string msgid="9040534766770853243" name="add_to_folder">"फ़ोल्डर में जोड़ें: <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="4534929978967147231" name="add_to_folder_with_app">"<ns1:g id="NAME">%1$s</ns1:g> के साथ फ़ोल्डर में जोड़ें"</string>
+    <string msgid="9168649446635919791" name="add_to_home_screen">"होम स्क्रीन पर जोड़ें"</string>
+    <string msgid="4793259502305558003" name="added_to_folder">"आइटम फ़ोल्डर में जोड़ा गया"</string>
+    <string msgid="4451545765448884415" name="added_to_home_screen_accessibility_text">"<ns1:g id="WIDGET_NAME">%1$s</ns1:g> विजेट को होम स्क्रीन पर जोड़ा गया"</string>
+    <string msgid="8130441508702294465" name="all_apps_button_label">"ऐप्लिकेशन सूची"</string>
+    <string msgid="1315764287305224468" name="all_apps_button_personal_label">"निजी ऐप्लिकेशन की सूची"</string>
+    <string msgid="7270707118948892488" name="all_apps_button_work_label">"काम से जुड़े ऐप्लिकेशन की सूची"</string>
+    <string msgid="5015784846527570951" name="all_apps_label">"सभी ऐप्लिकेशन"</string>
+    <string msgid="5813968043155271636" name="all_apps_loading_message">"ऐप्लिकेशन लोड हो रहे हैं…"</string>
+    <string msgid="3200346862396363786" name="all_apps_no_search_results">"\"<ns1:g id="QUERY">%1$s</ns1:g>\" से मिलता-जुलता कोई ऐप्लिकेशन नहीं मिला"</string>
+    <string msgid="4190252696685155002" name="all_apps_personal_tab">"निजी ऐप्लिकेशन"</string>
+    <string msgid="1390553134053255246" name="all_apps_search_bar_hint">"ऐप्लिकेशन खोजें"</string>
+    <string msgid="5889367432531296759" name="all_apps_search_results">"खोज के नतीजे"</string>
+    <string msgid="4884822796154055118" name="all_apps_work_tab">"वर्क ऐप्लिकेशन"</string>
+    <string msgid="8662546029078692509" name="allow_rotation_desc">"फ़ोन घुुमाए जाने पर"</string>
+    <string msgid="7222049633713050106" name="allow_rotation_title">"होम स्क्रीन घुमाने की अनुमति दें"</string>
+    <string msgid="8719607706653693137" name="androidx_compose_foundation_autofill">"ऑटोमैटिक तरीके से जानकारी भरने की सुविधा"</string>
+    <string msgid="1150566100598813236" name="androidx_compose_ui_autofill">"ऑटोमैटिक तरीके से जानकारी भरने की सुविधा"</string>
+    <string msgid="7717956158562544081" name="app_archived_title">"<ns1:g id="NAME">%1$s</ns1:g> को संग्रहित किया गया. ऐप्लिकेशन को वापस लाने और डाउनलोड करने के लिए टैप करें."</string>
+    <string msgid="8336702962104482644" name="app_downloading_title">"<ns1:g id="NAME">%1$s</ns1:g> डाउनलोड हो रहा है, <ns1:g id="PROGRESS">%2$s</ns1:g> पूरी हुई"</string>
+    <string msgid="692894985365717661" name="app_info_drop_target_label">"ऐप्लिकेशन की जानकारी"</string>
+    <string msgid="5864044122733792085" name="app_installing_title">"<ns1:g id="NAME">%1$s</ns1:g> इंस्टॉल किया जा रहा है, <ns1:g id="PROGRESS">%2$s</ns1:g> पूरा हो गया"</string>
+    <string msgid="4045241727446873529" name="app_pair_default_title">"<ns1:g id="APP1">%1$s</ns1:g> | <ns1:g id="APP2">%2$s</ns1:g>"</string>
+    <string msgid="8134106404716224054" name="app_pair_name_format">"साथ में इस्तेमाल किए जा सकने वाले ऐप्लिकेशन: <ns1:g id="APP1">%1$s</ns1:g> और <ns1:g id="APP2">%2$s</ns1:g>"</string>
+    <string msgid="4588897528143807002" name="app_pair_needs_unfold">"साथ में इस्तेमाल किए जा सकने वाले ये ऐप्लिकेशन इस्तेमाल करने के लिए डिवाइस को अनफ़ोल्ड करें"</string>
+    <string msgid="3556767440808032031" name="app_pair_not_available">"साथ में इस्तेमाल किए जा सकने वाले ऐप्लिकेशन की सुविधा उपलब्ध नहीं है"</string>
+    <string msgid="3446551575502685376" name="app_pair_unlaunchable_at_screen_size">"साथ में इस्तेमाल किए जा सकने वाले ये ऐप्लिकेशन, इस डिवाइस पर काम नहीं कर सकते"</string>
+    <string msgid="7053938513995617849" name="app_waiting_download_title">"<ns1:g id="NAME">%1$s</ns1:g> के इंस्टॉल होने की प्रतीक्षा की जा रही है"</string>
+    <string msgid="7117251166066978730" name="auto_add_shortcuts_description">"नए ऐप्लिकेशन के लिए"</string>
+    <string msgid="4926805029653694105" name="auto_add_shortcuts_label">"होम स्क्रीन पर ऐप्लिकेशन के आइकॉन जोड़ें"</string>
+    <string name="bottomsheet_action_collapse">छोटा करें</string>
+    <string name="bottomsheet_action_collapse_description">बॉटम शीट को छोटा करें</string>
+    <string name="bottomsheet_action_expand">बड़ा करें</string>
+    <string name="bottomsheet_action_expand_description">बॉटम शीट को बड़ा करें</string>
+    <string name="bottomsheet_action_expand_halfway">पूरी तरह बड़ा करें</string>
+    <string name="bottomsheet_action_half_expand_description">बॉटम शीट को आधा खोलें</string>
+    <string name="bottomsheet_drag_handle_content_description">खींचकर छोड़ने वाला हैंडल</string>
+    <string name="bottomsheet_state_collapsed">छोटा किया गया</string>
+    <string name="bottomsheet_state_expanded">बड़ा किया गया</string>
+    <string name="bottomsheet_state_half_expanded">आधा खोला गया</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"जवाब दें"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"वीडियो"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"अस्वीकार करें"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"कॉल काटें"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"आने वाला (इनकमिंग) कॉल"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"पहले से जारी कॉल"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"इनकमिंग कॉल को स्क्रीन किया जा रहा है"</string>
+    <string name="character_counter_content_description">%2$d वर्णों में से %1$d वर्ण दर्ज किए गए</string>
+    <string name="character_counter_overflowed_content_description">अभी %1$d वर्ण हैं जबकि %2$d से ज़्यादा नहीं होने चाहिए</string>
+    <string name="clear_text_end_icon_content_description">टेक्स्ट मिटाएं</string>
+    <string msgid="406453423630273620" name="close_drawer">"नेविगेशन मेन्यू बंद करें"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"शीट बंद करें"</string>
+    <string msgid="6083905920877235314" name="copy">"कॉपी करें"</string>
+    <string msgid="4050141361160214248" name="create_folder_with">"इसके साथ फ़ोल्डर बनाएं: <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="8038256446254964252" name="default_error_message">"अमान्य इनपुट"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"पॉप-अप विंडो"</string>
+    <string msgid="7475544710230993317" name="default_scroll_format">"पेज %2$d में से %1$d"</string>
+    <string msgid="5896817443635989056" name="developer_options_filter_hint">"फ़िल्टर"</string>
+    <string msgid="700788437593726194" name="developer_options_title">"डेवलपर के लिए सेटिंग और टूल"</string>
+    <string msgid="6510806469849709407" name="dialog_remove">"हटाएं"</string>
+    <string msgid="2178028071796141234" name="dialog_update">"अपडेट करें"</string>
+    <string msgid="4176784553982226114" name="dialog_update_message">"इस आइकॉन का ऐप्लिकेशन अपडेट नहीं है. इस शॉर्टकट को फिर से चालू करने या आइकॉन को हटाने के लिए, ऐप्लिकेशन को मैन्युअल रूप से अपडेट किया जा सकता है."</string>
+    <string msgid="114234265740994042" name="dialog_update_title">"ऐप्लिकेशन को अपडेट करना ज़रूरी है"</string>
+    <string msgid="6673129024321402780" name="disabled_app_label">"<ns1:g id="APP_NAME">%1$s</ns1:g> अक्षम है"</string>
+    <string msgid="3357562989568808658" name="dismiss_prediction_label">"ऐप्लिकेशन का सुझाव न दें"</string>
+    <string msgid="1865617679843363410" name="dotted_app_label">"{count,plural, =1{{app_name} से जुड़ी # सूचना है}one{{app_name} से जुड़ी # सूचना है}other{{app_name} से जुड़ी # सूचनाएं हैं}}"</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"ड्रॉपडाउन मेन्यू"</string>
+    <string msgid="8947858375782098427" name="edit_home_screen">"होम स्क्रीन में बदलाव करें"</string>
+    <string msgid="3973107268630717874" name="entertainment_widget_recommendation_category_label">"मनोरंजन से जुड़े ऐप्लिकेशन"</string>
+    <string name="error_a11y_label">गड़बड़ी: यह अमान्य है</string>
+    <string name="error_icon_content_description">गड़बड़ी</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"बेहतर सेटिंग"</string>
+    <string name="exposed_dropdown_menu_content_description">ड्रॉपडाउन मेन्यू दिखाएं</string>
+    <string msgid="4100806530910930934" name="folder_closed">"फ़ोल्डर बंद किया गया"</string>
+    <string msgid="6409794597405184510" name="folder_created">"फ़ोल्डर बनाया गया"</string>
+    <string msgid="5174843001373488816" name="folder_hint_text">"नाम में बदलाव करें"</string>
+    <string msgid="8626242716117004803" name="folder_name_format_exact">"फ़ोल्डर: <ns1:g id="NAME">%1$s</ns1:g>, <ns1:g id="SIZE">%2$d</ns1:g> आइटम"</string>
+    <string msgid="4270108890534995199" name="folder_name_format_overflow">"फ़ोल्डर: <ns1:g id="NAME">%1$s</ns1:g>, <ns1:g id="SIZE">%2$d</ns1:g> या इससे ज़्यादा आइटम"</string>
+    <string msgid="94695026776264709" name="folder_opened">"फ़ोल्डर खोला गया, <ns1:g id="WIDTH">%1$d</ns1:g> गुणा <ns1:g id="HEIGHT">%2$d</ns1:g>"</string>
+    <string msgid="1794088362165669656" name="folder_renamed">"फ़ोल्डर का नाम बदलकर <ns1:g id="NAME">%1$s</ns1:g> किया गया"</string>
+    <string msgid="4625795376335528256" name="folder_tap_to_close">"फ़ोल्डर बंद करने के लिए टैप करें"</string>
+    <string msgid="4017685068016979677" name="folder_tap_to_rename">"नाम बदलना सहेजने के लिए टैप करें"</string>
+    <string msgid="309040266978007925" name="gadget_complete_setup_text">"सेट अप पूरा करने के लिए टैप करें"</string>
+    <string msgid="740356548025791839" name="gadget_error_text">"विजेट को लोड नहीं किया जा सका"</string>
+    <string msgid="8348374825537681407" name="gadget_setup_text">"विजेट की सेटिंग"</string>
+    <string name="generic_smartspace_concatenated_desc">%1$s, %2$s</string>
+    <string msgid="5629429142036709174" name="home_screen">"होम स्क्रीन"</string>
+    <string msgid="7448809638125333693" name="hotseat_out_of_space">"पसंदीदा ट्रे में और जगह नहीं है"</string>
+    <string name="icon_content_description">डायलॉग का आइकॉन</string>
+    <string msgid="6827826412747255547" name="in_progress">"जारी है"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"कुछ विकल्पों को चुना गया"</string>
+    <string msgid="2539096853673231757" name="install_drop_target_label">"इंस्‍टॉल करें"</string>
+    <string msgid="1616889277073184841" name="install_private_system_shortcut_label">"निजी तौर पर इंस्टॉल करें"</string>
+    <string msgid="4211073925752213539" name="item_added_to_workspace">"होम स्क्रीन में आइटम जोड़ा गया"</string>
+    <string msgid="4606538322571412879" name="item_moved">"आइटम ले जाया गया"</string>
+    <string msgid="851119963877842327" name="item_removed">"आइटम हटाया गया"</string>
+    <string name="item_view_role_description">टैब</string>
+    <string msgid="8531721983832654978" name="label_application">"ऐप्लिकेशन"</string>
+    <string msgid="649227358658669779" name="launcher3_app_name">"Launcher3"</string>
+    <string msgid="2733588281439571974" name="long_accessible_way_to_add">"किसी विजेट को एक से दूसरी जगह ले जाने के लिए, उस पर दो बार टैप करके दबाकर रखें या पसंद के मुताबिक कार्रवाइयां इस्तेमाल करें."</string>
+    <string msgid="2199537273817090740" name="long_accessible_way_to_add_shortcut">"किसी शॉर्टकट को एक से दूसरी जगह ले जाने के लिए, उस पर दो बार टैप करके दबाकर रखें या पसंद के मुताबिक कार्रवाइयां इस्तेमाल करें."</string>
+    <string msgid="5405328730817637737" name="long_press_shortcut_to_add">"किसी शॉर्टकट को एक से दूसरी जगह ले जाने के लिए, उसे दबाकर रखें."</string>
+    <string msgid="3587712543577675817" name="long_press_widget_to_add">"किसी विजेट को एक से दूसरी जगह ले जाने के लिए, उसे दबाकर रखें."</string>
+    <string name="m3_loading_indicator_content_description">लोड हो रहा है</string>
+    <string name="m3_overflow_linear_layout_button_content_description">ओवरफ़्लो मेन्यू</string>
+    <string name="m3_overflow_linear_layout_button_tooltip_text">ज़्यादा विकल्प</string>
+    <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"बॉटम शीट को छोटा करें"</string>
+    <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"बॉटम शीट को खारिज करें"</string>
+    <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"खींचकर छोड़ने वाला हैंडल"</string>
+    <string msgid="6670819569745899763" name="m3c_bottom_sheet_expand_description">"बॉटम शीट को बड़ा करें"</string>
+    <string msgid="3010635850035863127" name="m3c_bottom_sheet_pane_title">"बॉटम शीट"</string>
+    <string msgid="8166741421776570875" name="m3c_date_input_headline">"डाली गई तारीख"</string>
+    <string msgid="229313757840775812" name="m3c_date_input_headline_description">"डाली गई तारीख: %1$s"</string>
+    <string msgid="6116910750161463197" name="m3c_date_input_invalid_for_pattern">"तारीख सही फ़ॉर्मैट में नहीं डाली गई है: %1$s"</string>
+    <string msgid="2521768508935305279" name="m3c_date_input_invalid_not_allowed">"यह तारीख सही नहीं है: %1$s"</string>
+    <string msgid="7052898923934555305" name="m3c_date_input_invalid_year_range">"तारीख को साल की सही रेंज में नहीं डाला गया है %1$s - %2$s"</string>
+    <string msgid="2895559812010326913" name="m3c_date_input_label">"तारीख"</string>
+    <string msgid="1237013946323089826" name="m3c_date_input_no_input_description">"कोई नहीं"</string>
+    <string msgid="7306227249789210568" name="m3c_date_input_title">"तारीख चुनें"</string>
+    <string msgid="7605002211875882969" name="m3c_date_picker_headline">"चुनी गई तारीख"</string>
+    <string msgid="3664277305226978227" name="m3c_date_picker_headline_description">"फ़िलहाल, यह तारीख चुनी गई है: %1$s"</string>
+    <string msgid="8436650776581492840" name="m3c_date_picker_navigate_to_year_description">"साल %1$s पर जाएं"</string>
+    <string msgid="5811000998184572395" name="m3c_date_picker_no_selection_description">"कोई नहीं"</string>
+    <string msgid="7813882352367152251" name="m3c_date_picker_scroll_to_earlier_years">"पिछले सालों की तारीख देखने के लिए स्क्रोल करें"</string>
+    <string msgid="5727367015496556177" name="m3c_date_picker_scroll_to_later_years">"बाद वाले सालों की तारीख देखने के लिए स्क्रोल करें"</string>
+    <string msgid="1804346892470238807" name="m3c_date_picker_switch_to_calendar_mode">"कैलेंडर इनपुट मोड पर स्विच करें"</string>
+    <string msgid="395627960681594326" name="m3c_date_picker_switch_to_day_selection">"किसी साल को चुनने के लिए स्वाइप करें या दिन को चुनने की सेटिंग पर वापस जाने के लिए टैप करें"</string>
+    <string msgid="2219746470065162704" name="m3c_date_picker_switch_to_input_mode">"टेक्स्ट इनपुट मोड पर स्विच करें"</string>
+    <string msgid="7142101321095356500" name="m3c_date_picker_switch_to_next_month">"अगले महीने पर सेट करें"</string>
+    <string msgid="228438865139394590" name="m3c_date_picker_switch_to_previous_month">"पिछले महीने पर सेट करें"</string>
+    <string msgid="791651718641787594" name="m3c_date_picker_switch_to_year_selection">"साल चुनने के लिए स्विच करें"</string>
+    <string msgid="7430790972741451689" name="m3c_date_picker_title">"तारीख चुनें"</string>
+    <string msgid="3199387177749801575" name="m3c_date_picker_today_description">"आज"</string>
+    <string msgid="2068382232816991922" name="m3c_date_picker_year_picker_pane_title">"साल चुनने का विकल्प दिख रहा है"</string>
+    <string msgid="3190049423327661366" name="m3c_date_range_input_invalid_range_input">"तारीख की दी गई सीमा गलत है"</string>
+    <string msgid="3148384720560189467" name="m3c_date_range_input_title">"तारीखें डालें"</string>
+    <string msgid="2138321128465719402" name="m3c_date_range_picker_day_in_range">"रेंज में"</string>
+    <string msgid="4947636797751277713" name="m3c_date_range_picker_end_headline">"खत्म होने की तारीख"</string>
+    <string msgid="602077859540990149" name="m3c_date_range_picker_scroll_to_next_month">"अगले महीने की तारीख देखने के लिए स्क्रोल करें"</string>
+    <string msgid="4592174524846109496" name="m3c_date_range_picker_scroll_to_previous_month">"पिछले महीने की तारीख देखने के लिए स्क्रोल करें"</string>
+    <string msgid="4665981448952749820" name="m3c_date_range_picker_start_headline">"शुरू होने की तारीख"</string>
+    <string msgid="3134165431120340385" name="m3c_date_range_picker_title">"तारीखें चुनें"</string>
+    <string msgid="7617233117134790350" name="m3c_dialog">"डायलॉग"</string>
+    <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"छोटा किया गया"</string>
+    <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"बड़ा किया गया"</string>
+    <string msgid="8687821690726149911" name="m3c_dropdown_menu_toggle">"ड्रॉपडाउन मेन्यू टॉगल करें"</string>
+    <string msgid="6152806324422087846" name="m3c_search_bar_search">"खोजें"</string>
+    <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"खारिज करें"</string>
+    <string msgid="7655536806087401899" name="m3c_suggestions_available">"सुझाव यहां मौजूद हैं"</string>
+    <string msgid="2786685010796619560" name="m3c_time_picker_am">"AM"</string>
+    <string msgid="2349193472625211372" name="m3c_time_picker_hour">"घंटा"</string>
+    <string msgid="9179527532316922345" name="m3c_time_picker_hour_24h_suffix">"%1$d घंटे"</string>
+    <string msgid="8876759303332837035" name="m3c_time_picker_hour_selection">"घंटा चुनें"</string>
+    <string msgid="3458167507790628988" name="m3c_time_picker_hour_suffix">"%1$d बजे"</string>
+    <string msgid="6973808109666874069" name="m3c_time_picker_hour_text_field">"घंटे के लिए"</string>
+    <string msgid="4313071914266462005" name="m3c_time_picker_minute">"मिनट"</string>
+    <string msgid="4699133535056739733" name="m3c_time_picker_minute_selection">"मिनट चुनें"</string>
+    <string msgid="5064177921781937179" name="m3c_time_picker_minute_suffix">"%1$d मिनट"</string>
+    <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"मिनट के लिए"</string>
+    <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"AM या PM चुनें"</string>
+    <string msgid="6616362054113087709" name="m3c_time_picker_pm">"PM"</string>
+    <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"टूलटिप देखें"</string>
+    <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"टूलटिप"</string>
+    <string name="material_clock_toggle_content_description">AM या PM चुनें</string>
+    <string name="material_hour_24h_suffix">%1$s घंटे</string>
+    <string name="material_hour_selection">घंटा चुनें</string>
+    <string name="material_hour_suffix">%1$s बजे</string>
+    <string name="material_minute_selection">मिनट चुनें</string>
+    <string name="material_minute_suffix">%1$s मिनट</string>
+    <string name="material_slider_range_end">रेंज की सीमा</string>
+    <string name="material_slider_range_start">रेंज की शुरुआत</string>
+    <string name="material_slider_value">वैल्यू</string>
+    <string name="material_timepicker_am">पूर्वाह्न</string>
+    <string name="material_timepicker_clock_mode_description">समय इनपुट के लिए घड़ी मोड पर जाएं.</string>
+    <string name="material_timepicker_clock_mode_tooltip">क्लॉक मोड पर स्विच करें</string>
+    <string name="material_timepicker_hour">घंटा</string>
+    <string name="material_timepicker_hour_error">घंटा, 1 से 12 के बीच होना चाहिए</string>
+    <string name="material_timepicker_hour_error_24h">घंटा, 0 से 23 के बीच होना चाहिए</string>
+    <string name="material_timepicker_minute">मिनट</string>
+    <string name="material_timepicker_minute_error">मिनट, 0 से 59 के बीच होना चाहिए</string>
+    <string name="material_timepicker_pm">अपराह्न</string>
+    <string name="material_timepicker_select_time">समय चुनें</string>
+    <string name="material_timepicker_text_input_mode_description">समय इनपुट के लिए लेख इनपुट मोड पर जाएं.</string>
+    <string name="material_timepicker_text_input_mode_tooltip">टेक्स्ट इनपुट मोड पर स्विच करें</string>
+    <string msgid="5254852678218206889" name="move_to_empty_cell_description">"<ns1:g id="STRING">%3$s</ns1:g> में, पंक्ति <ns1:g id="NUMBER_0">%1$s</ns1:g> कॉलम <ns1:g id="NUMBER_1">%2$s</ns1:g> पर जाएं"</string>
+    <string msgid="6295412897075147808" name="move_to_hotseat_position">"<ns1:g id="NUMBER">%1$s</ns1:g> की पसंदीदा स्थिति पर ले जाएं"</string>
+    <string msgid="6750008980455459790" name="move_to_position">"<ns1:g id="NUMBER">%1$s</ns1:g> स्थिति पर ले जाएं"</string>
+    <string msgid="6898038085516271325" name="msg_disabled_by_admin">"आपके एडमिन ने बंद किया हुआ है"</string>
+    <string msgid="281113995110910548" name="msg_missing_notification_access">"सूचना बिंदु दिखाने के लिए, <ns1:g id="NAME">%1$s</ns1:g> के ऐप्लिकेशन सूचना चालू करें"</string>
+    <string name="mtrl_badge_numberless_content_description">नई सूचना</string>
+    <string name="mtrl_button_collapsed_content_description">छोटा किया गया</string>
+    <string name="mtrl_button_expanded_content_description">बड़ा किया गया</string>
+    <string name="mtrl_button_overflow_icon_content_description">ओवरफ़्लो मेन्यू</string>
+    <string name="mtrl_button_snackbar_close_content_description">बंद करें</string>
+    <string name="mtrl_checkbox_state_description_checked">सही का निशान लगाया गया</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">कुछ विकल्प चुने गए</string>
+    <string name="mtrl_checkbox_state_description_unchecked">सही का निशान नहीं लगाया गया</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s हटाएं</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">%1$d से ज़्यादा नई सूचनाएं</string>
+    <string name="mtrl_picker_a11y_next_month">अगले महीने पर जाएं</string>
+    <string name="mtrl_picker_a11y_prev_month">पिछले महीने पर जाएं</string>
+    <string name="mtrl_picker_announce_current_range_selection">शुरू होने की तारीख चुनें: %1$s – खत्म होने की तारीख चुनें: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">फ़िलहाल, यह चुना गया है: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">कोई भी तारीख नहीं चुनी गई</string>
+    <string name="mtrl_picker_cancel">रद्द करें</string>
+    <string name="mtrl_picker_confirm">ठीक है</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">तारीख चुनें</string>
+    <string name="mtrl_picker_date_header_unselected">चुनी गई तारीख</string>
+    <string name="mtrl_picker_day_of_week_column_header">%1$s</string>
+    <string name="mtrl_picker_end_date_description">खत्म होने की तारीख %1$s</string>
+    <string name="mtrl_picker_invalid_format">गलत फ़ॉर्मैट.</string>
+    <string name="mtrl_picker_invalid_format_example">उदाहरण: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">%1$s का इस्तेमाल करें</string>
+    <string name="mtrl_picker_invalid_range">तारीखों की अमान्य सीमा.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">मौजूदा साल %1$d पर जाएं</string>
+    <string name="mtrl_picker_navigate_to_year_description">साल %1$d पर जाएं</string>
+    <string name="mtrl_picker_next_month_tooltip">अगला महीना</string>
+    <string name="mtrl_picker_out_of_range">चुनी गई तारीख मान्य नहीं है: %1$s</string>
+    <string name="mtrl_picker_pane_title_calendar_view">महीने के हिसाब से व्यू</string>
+    <string name="mtrl_picker_pane_title_year_view">साल के हिसाब से व्यू</string>
+    <string name="mtrl_picker_prev_month_tooltip">पिछला महीना</string>
+    <string name="mtrl_picker_range_header_only_end_selected">शुरू होने की तारीख – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – खत्म होने की तारीख</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">रेंज चुनें</string>
+    <string name="mtrl_picker_range_header_unselected">शुरू होने की तारीख – खत्म होने की तारीख</string>
+    <string name="mtrl_picker_save">सेव करें</string>
+    <string name="mtrl_picker_start_date_description">शुरू होने की तारीख %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">तारीख</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">खत्म होने की तारीख</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">शुरू होने की तारीख</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
+    <string name="mtrl_picker_today_description">आज %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">कैलेंडर के इनपुट मोड पर स्विच करें</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode_tooltip">Calendar मोड पर स्विच करें</string>
+    <string name="mtrl_picker_toggle_to_day_selection">कैलेंडर व्यू पर स्विच करें</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">टेक्स्ट के इनपुट मोड पर स्विच करें</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode_tooltip">टेक्स्ट इनपुट मोड पर स्विच करें</string>
+    <string name="mtrl_picker_toggle_to_year_selection">साल के व्यू पर स्विच करें</string>
+    <string name="mtrl_timepicker_cancel">रद्द करें</string>
+    <string name="mtrl_timepicker_confirm">ठीक है</string>
+    <string msgid="542007171693138492" name="navigation_menu">"नेविगेशन मेन्यू"</string>
+    <string msgid="6756167867113741310" name="news_widget_recommendation_category_label">"खबरों और पत्रिकाओं वाले ऐप्लिकेशन"</string>
+    <string msgid="3787956167293097509" name="no_search_results">"कोई विजेट या शॉर्टकट नहीं मिला"</string>
+    <string msgid="4337693382501046170" name="no_widgets_available">"विजेट और शॉर्टकट उपलब्ध नहीं हैं"</string>
+    <string msgid="6610465462668679431" name="not_selected">"नहीं चुना गया"</string>
+    <string msgid="6573031135582639649" name="not_set">"सेट नहीं है"</string>
+    <string msgid="1760796511504341095" name="notification_dots_desc_off">"चालू"</string>
+    <string msgid="1679848116452218908" name="notification_dots_desc_on">"चालू है"</string>
+    <string msgid="4284221181793592871" name="notification_dots_service_title">"सूचनाएं बताने वाले डॉट दिखाएं"</string>
+    <string msgid="9062440428204120317" name="notification_dots_title">"सूचनाएं बताने वाला डॉट"</string>
+    <string msgid="1404149926117359025" name="notifications_header">"सूचनाएं"</string>
+    <string msgid="5555987036267226245" name="others_widget_recommendation_category_label">"आपके लिए सुझाए गए"</string>
+    <string msgid="6455557115204099579" name="out_of_space">"इस होम स्क्रीन पर जगह खाली नहीं है"</string>
+    <string msgid="7592128424511031410" name="package_state_unknown">"अज्ञात"</string>
+    <string name="password_toggle_content_description">पासवर्ड दिखाएं</string>
+    <string msgid="923466509822011139" name="permdesc_install_shortcut">"ऐप को उपयोगकर्ता के हस्‍तक्षेप के बिना शॉर्टकट जोड़ने देती है."</string>
+    <string msgid="4208061150510996676" name="permdesc_read_settings">"इससे ऐप्लिकेशन, होम स्क्रीन की सेटिंग और शॉर्टकट पढ़ पाएगा."</string>
+    <string msgid="726859348127868466" name="permdesc_write_settings">"इससे ऐप्लिकेशन, होम स्क्रीन की सेटिंग और शॉर्टकट बदल पाएगा."</string>
+    <string msgid="5632423390354674437" name="permlab_install_shortcut">"शॉर्टकट इंस्‍टॉल करें"</string>
+    <string msgid="5136500343007704955" name="permlab_read_settings">"होम स्क्रीन की सेटिंग और शॉर्टकट पढ़ने की अनुमति"</string>
+    <string msgid="4820028712156303762" name="permlab_write_settings">"होम स्क्रीन की सेटिंग और शॉर्टकट में बदलाव करने की अनुमति"</string>
+    <string msgid="4196423321649756498" name="pin_prediction">"सुझाए गए ऐप पिन करें"</string>
+    <string msgid="6685851473431805375" name="preference_copied">"\"<ns1:g id="SUMMARY">%1$s</ns1:g>\" क्लिपबोर्ड पर कॉपी किया गया."</string>
+    <string msgid="2359721649407947001" name="private_space_label">"प्राइवेट स्पेस"</string>
+    <string msgid="9203933341714508907" name="private_space_secondary_label">"सेट अप करने या खोलने के लिए टैप करें"</string>
+    <string msgid="3811812719618323750" name="productivity_widget_recommendation_category_label">"ज़रूरी ऐप्लिकेशन"</string>
+    <string msgid="3254274107740952556" name="ps_add_button_content_description">"प्राइवेट स्पेस में ऐप्लिकेशन इंस्टॉल करें"</string>
+    <string msgid="8127988716897128773" name="ps_add_button_label">"इंस्टॉल करें"</string>
+    <string msgid="5961993384382649530" name="ps_container_lock_button_content_description">"प्राइवेट स्पेस को लॉक किया गया."</string>
+    <string msgid="2640257399982364682" name="ps_container_lock_title">"लॉक"</string>
+    <string msgid="6059734123353320479" name="ps_container_settings">"प्राइवेट स्पेस सेटिंग"</string>
+    <string msgid="4391796149519594205" name="ps_container_title">"निजी"</string>
+    <string msgid="8667331812048014412" name="ps_container_transition">"प्राइवेट स्पेस की सेटिंग में बदलाव किया जा रहा है"</string>
+    <string msgid="9181551784092204234" name="ps_container_unlock_button_content_description">"प्राइवेट स्पेस को अनलॉक किया गया."</string>
+    <string msgid="5941395253238309765" name="range_end">"रेंज की सीमा"</string>
+    <string msgid="7097486360902471446" name="range_start">"रेंज की शुरुआत"</string>
+    <string msgid="6690461455618725183" name="recent_task_option_split_screen">"स्प्लिट स्क्रीन"</string>
+    <string msgid="6336962690888067057" name="reconfigurable_widget_education_tip">"विजेट की सेटिंग में बदलाव करने के लिए टैप करें"</string>
+    <string msgid="1383965239183576790" name="remote_action_failed">"पूरा नहीं हुआ: <ns1:g id="WHAT">%1$s</ns1:g>"</string>
+    <string msgid="7812859488053230776" name="remove_drop_target_label">"हटाएं"</string>
+    <string msgid="9160126848219158407" name="safemode_shortcut_error">"डाउनलोड किए गए ऐप्लिकेशन सुरक्षित मोड में अक्षम है"</string>
+    <string msgid="4863470563535682004" name="safemode_widget_error">"विजेट सुरक्षित मोड में अक्षम हैं"</string>
+    <string msgid="5647523853662686243" name="save_app_pair">"ऐप पेयर सेव करें"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"खोजें"</string>
+    <string name="searchview_clear_text_content_description">टेक्स्ट मिटाएं</string>
+    <string name="searchview_navigation_content_description">वापस जाएं</string>
+    <string msgid="6043586758067023" name="selected">"चुना गया"</string>
+    <string msgid="5808906607627586381" name="set_default_home_app">"सेटिंग में जाकर, <ns1:g id="LAUNCHER_NAME">%1$s</ns1:g> को डिफ़ॉल्ट होम ऐप्लिकेशन के तौर पर सेट करें"</string>
+    <string msgid="8873672322605444408" name="settings_button_text">"सेटिंग"</string>
+    <string msgid="2536503539825726397" name="shortcut_not_available">"शॉर्टकट उपलब्ध नहीं है"</string>
+    <string msgid="8471715556199592381" name="shortcuts_count">"{count,plural, =1{# शॉर्टकट}one{# शॉर्टकट}other{# शॉर्टकट}}"</string>
+    <string name="side_sheet_accessibility_pane_title">साइड शीट</string>
+    <string msgid="2792228137354697160" name="snackbar_pane_title">"चेतावनी"</string>
+    <string msgid="689147679536384717" name="social_widget_recommendation_category_label">"सोशल मीडिया ऐप्लिकेशन"</string>
+    <string msgid="5475288491241414932" name="split_app_info_accessibility">"%1$s के लिए ऐप्लिकेशन की जानकारी"</string>
+    <string msgid="7214375263347964093" name="split_app_usage_settings">"%1$s के लिए खर्च की सेटिंग"</string>
+    <string msgid="4139871816613051306" name="state_empty">"कोई भी तार नहीं लगा है"</string>
+    <string msgid="5834637030682409883" name="state_off">"बंद है"</string>
+    <string msgid="1490883874751719580" name="state_on">"चालू है"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="8216961355289236794" name="styles_wallpaper_button_text">"वॉलपेपर और स्टाइल"</string>
+    <string msgid="1844314680798145222" name="suggested_widgets_header_title">"सुझाव"</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string msgid="2561197295334830845" name="switch_role">"स्विच करें"</string>
+    <string msgid="1672349317127674378" name="tab">"टैब"</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g> प्रतिशत."</string>
+    <string msgid="1376365968844349552" name="title_change_settings">"सेटिंग बदलें"</string>
+    <string msgid="7503287056163941064" name="title_missing_notification_access">"सूचना के ऐक्सेस की ज़रूरत है"</string>
+    <string msgid="3765533235322692011" name="tooltip_description">"टूलटिप"</string>
+    <string msgid="3124740595719787496" name="tooltip_label">"टूलटिप दिखाएं"</string>
+    <string msgid="4151576204245173321" name="undo">"पहले जैसा करें"</string>
+    <string msgid="4722034217958379417" name="uninstall_drop_target_label">"अनइंस्टॉल करें"</string>
+    <string msgid="8423460530441627982" name="uninstall_private_system_shortcut_label">"ऐप्लिकेशन अनइंस्टॉल करें"</string>
+    <string msgid="4172046090762920660" name="uninstall_system_app_text">"यह एक सिस्टम ऐप्लिकेशन है और इसे अनइंस्टॉल नहीं किया जा सकता."</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"बंद"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"चालू"</string>
+    <string msgid="3640149169885301790" name="widget_accessible_dims_format">"%1$d चौड़ाई गुणा %2$d ऊंचाई"</string>
+    <string msgid="1810530016360039643" name="widget_add_button_content_description">"<ns1:g id="WIDGET_NAME">%1$s</ns1:g> विजेट जोड़ें"</string>
+    <string msgid="2761267068711937179" name="widget_add_button_label">"जोड़ें"</string>
+    <string msgid="2880537293434387943" name="widget_button_text">"विजेट"</string>
+    <string msgid="8894438636213590446" name="widget_category_conversations">"बातचीत"</string>
+    <string msgid="3469689394504266039" name="widget_category_note_taking">"नोट बनाने से जुड़े विजेट"</string>
+    <string msgid="2370757736025621599" name="widget_dims_format">"%1$d × %2$d"</string>
+    <string msgid="1673313931455067502" name="widget_picker_right_pane_accessibility_title">"<ns1:g id="SELECTED_HEADER">%1$s</ns1:g> के विजेट दाईं ओर, खोज का विजेट और अन्य विकल्प बाईं ओर"</string>
+    <string msgid="9045841361655787574" name="widget_preview_context_description">"<ns1:g id="WIDGET_NAME">%1$s</ns1:g> विजेट"</string>
+    <string msgid="8489038126122831595" name="widget_preview_name_and_dims_content_description">"<ns1:g id="WIDGET_NAME">%1$s</ns1:g> विजेट. यह %2$d चौड़ा और %3$d लंबा है"</string>
+    <string msgid="8811472721881205250" name="widget_reconfigure_button_content_description">"विजेट की सेटिंग में बदलाव करें"</string>
+    <string msgid="9130327887929620" name="widget_resized">"विजेट का आकार बदलकर उसकी चौड़ाई <ns1:g id="NUMBER_0">%1$s</ns1:g> और ऊंचाई <ns1:g id="NUMBER_1">%2$s</ns1:g> कर दी गई"</string>
+    <string msgid="7209136747878365116" name="widgets_and_shortcuts_count">"<ns1:g id="WIDGETS_COUNT">%1$s</ns1:g>, <ns1:g id="SHORTCUTS_COUNT">%2$s</ns1:g>"</string>
+    <string msgid="6467746476364652096" name="widgets_count">"{count,plural, =1{# विजेट}one{# विजेट}other{# विजेट}}"</string>
+    <string msgid="5766167035728653605" name="widgets_full_sheet_cancel_button_description">"खोज बॉक्स से टेक्स्ट हटाएं"</string>
+    <string msgid="2743540105607120182" name="widgets_full_sheet_personal_tab">"निजी विजेट"</string>
+    <string msgid="8484659090860596457" name="widgets_full_sheet_search_bar_hint">"खोजें"</string>
+    <string msgid="3767150027110633765" name="widgets_full_sheet_work_tab">"वर्क विजेट"</string>
+    <string msgid="796804551140113767" name="widgets_list">"विजेट की सूची"</string>
+    <string msgid="6141506579418771922" name="widgets_list_closed">"विजेट की सूची बंद हो गई है"</string>
+    <string msgid="1736198302467317371" name="work_apps_enable_btn_text">"चालू करें"</string>
+    <string msgid="4669288269140620646" name="work_apps_pause_btn_text">"वर्क ऐप्लिकेशन रोकें"</string>
+    <string msgid="261634750995824906" name="work_apps_paused_body">"आपके वर्क ऐप्लिकेशन, आपको सूचनाएं नहीं भेज सकते. साथ ही, आपकी बैटरी का इस्तेमाल या आपकी जगह की जानकारी को ऐक्सेस भी नहीं कर सकते"</string>
+    <string msgid="6377476824357318532" name="work_apps_paused_edu_accept">"ठीक है"</string>
+    <string msgid="8872412121608402058" name="work_apps_paused_edu_banner">"ऑफ़िस के काम से जुड़े ऐप्लिकेशन बैज किए गए हैं और आईटी एडमिन को दिख रहे हैं"</string>
+    <string msgid="1687828929959237477" name="work_apps_paused_info_body">"आपको वर्क ऐप्लिकेशन से सूचनाएं नहीं मिलेंगी"</string>
+    <string msgid="8358872357502756790" name="work_apps_paused_telephony_unavailable_body">"आपको वर्क ऐप्लिकेशन से फ़ोन कॉल, टेक्स्ट मैसेज या सूचनाएं नहीं मिलेंगी"</string>
+    <string msgid="3040901117349444598" name="work_apps_paused_title">"वर्क ऐप्लिकेशन रोके गए"</string>
+    <string msgid="3753320833950115786" name="work_folder_name">"दफ़्तर"</string>
+    <string msgid="6069788082535149071" name="work_profile_edu_accept">"ठीक है"</string>
+    <string msgid="7895468576497746520" name="work_profile_edu_work_apps">"वर्क ऐप्लिकेशन बैज किए गए हैं. आईटी एडमिन इन्हें देख सकता है"</string>
+    <string msgid="3081029915775481146" name="work_profile_toggle_label">"वर्क प्रोफ़ाइल"</string>
+    <string msgid="257366611030256142" name="workspace_new_page">"नया होम स्‍क्रीन पेज"</string>
+    <string msgid="8458889198184077399" name="workspace_scroll_format">"होम स्क्रीन %2$d में से %1$d"</string>
+</resources>

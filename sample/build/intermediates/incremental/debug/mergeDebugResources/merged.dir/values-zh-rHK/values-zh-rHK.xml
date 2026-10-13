@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d 個新通知</item>
+    <item quantity="other">%d 個新通知</item>
+  </plurals>
+    <string msgid="7610119707847920412" name="abandoned_clean_this">"移除"</string>
+    <string msgid="3990027586878167529" name="abandoned_promise_explanation">"你尚未安裝這個圖示代表的應用程式。你可以移除這個圖示，也可以搜尋該應用程式並手動安裝。"</string>
+    <string msgid="7096178467971716750" name="abandoned_promises_title">"尚未安裝這個應用程式"</string>
+    <string msgid="891119232568284442" name="abandoned_search">"搜尋"</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"瀏覽主頁"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"向上瀏覽"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"更多選項"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"完成"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"選擇應用程式"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"關閉"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"開啟"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"刪除"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter 鍵"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fn +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"空白鍵"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"搜尋…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"清除查詢"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"搜尋查詢"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"搜尋"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"提交查詢"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"語音搜尋"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"分享對象"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"使用「<ns1:g id="APPLICATION_NAME">%s</ns1:g>」分享"</string>
+    <string msgid="5024599872061409708" name="abc_slice_permission_allow">"允許"</string>
+    <string msgid="5696872682700058611" name="abc_slice_permission_checkbox">"允許「<ns1:g id="APP">%1$s</ns1:g>」顯示任何應用程式的快訊"</string>
+    <string msgid="3819478292430407705" name="abc_slice_permission_deny">"拒絕"</string>
+    <string msgid="4525743640399572811" name="abc_slice_permission_text_1">"- 可以讀取「<ns1:g id="APP">%1$s</ns1:g>」中的資料"</string>
+    <string msgid="7323565634860251794" name="abc_slice_permission_text_2">"- 可以在「<ns1:g id="APP">%1$s</ns1:g>」內執行操作"</string>
+    <string msgid="4175332421259324948" name="abc_slice_permission_title">"要允許「<ns1:g id="APP_0">%1$s</ns1:g>」顯示「<ns1:g id="APP_2">%2$s</ns1:g>」的快訊嗎？"</string>
+    <string msgid="3604847235923472451" name="abc_slices_permission_request">"「<ns1:g id="APP_0">%1$s</ns1:g>」想顯示「<ns1:g id="APP_2">%2$s</ns1:g>」的快訊"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"收合"</string>
+    <string msgid="2277148124685870734" name="accessibility_close">"關閉"</string>
+    <string name="accessibility_smartspace_page">第 %1$d 頁，總共有 %2$d 頁</string>
+    <string msgid="215894119683164916" name="action_add_to_workspace">"加去主畫面"</string>
+    <string msgid="282377193880900022" name="action_decrease_height">"減少高度"</string>
+    <string msgid="1374549771083094654" name="action_decrease_width">"減少闊度"</string>
+    <string msgid="2864038805849372848" name="action_deep_shortcut">"捷徑"</string>
+    <string msgid="5909461085055959187" name="action_dismiss_notification">"關閉"</string>
+    <string msgid="459390020612501122" name="action_increase_height">"增加高度"</string>
+    <string msgid="8773715375078513326" name="action_increase_width">"增加闊度"</string>
+    <string msgid="4339390619886385032" name="action_move">"移動項目"</string>
+    <string msgid="2170188780612570250" name="action_move_here">"移動項目至這裡"</string>
+    <string msgid="39528912300293768" name="action_move_to_workspace">"移去主畫面"</string>
+    <string msgid="1802976324781771067" name="action_resize">"重新調整大小"</string>
+    <string msgid="7456344436509528827" name="activity_not_available">"目前無法使用這個應用程式"</string>
+    <string msgid="8071924732094499514" name="activity_not_found">"尚未安裝應用程式。"</string>
+    <string msgid="8730547755622776606" name="add_item_request_drag_hint">"按住小工具即可移到主畫面的任何位置"</string>
+    <string msgid="9040534766770853243" name="add_to_folder">"加入資料夾：<ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="4534929978967147231" name="add_to_folder_with_app">"加入至資料夾：<ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="9168649446635919791" name="add_to_home_screen">"加去主畫面"</string>
+    <string msgid="4793259502305558003" name="added_to_folder">"項目已加入資料夾"</string>
+    <string msgid="4451545765448884415" name="added_to_home_screen_accessibility_text">"已經將「<ns1:g id="WIDGET_NAME">%1$s</ns1:g>」小工具加咗去主畫面"</string>
+    <string msgid="8130441508702294465" name="all_apps_button_label">"應用程式清單"</string>
+    <string msgid="1315764287305224468" name="all_apps_button_personal_label">"個人應用程式清單"</string>
+    <string msgid="7270707118948892488" name="all_apps_button_work_label">"工作應用程式清單"</string>
+    <string msgid="5015784846527570951" name="all_apps_label">"所有應用程式"</string>
+    <string msgid="5813968043155271636" name="all_apps_loading_message">"正在載入應用程式…"</string>
+    <string msgid="3200346862396363786" name="all_apps_no_search_results">"找不到與「<ns1:g id="QUERY">%1$s</ns1:g>」相符的應用程式"</string>
+    <string msgid="4190252696685155002" name="all_apps_personal_tab">"個人"</string>
+    <string msgid="1390553134053255246" name="all_apps_search_bar_hint">"搜尋應用程式"</string>
+    <string msgid="5889367432531296759" name="all_apps_search_results">"搜尋結果"</string>
+    <string msgid="4884822796154055118" name="all_apps_work_tab">"工作"</string>
+    <string msgid="8662546029078692509" name="allow_rotation_desc">"隨手機旋轉"</string>
+    <string msgid="7222049633713050106" name="allow_rotation_title">"允許旋轉主畫面"</string>
+    <string msgid="8719607706653693137" name="androidx_compose_foundation_autofill">"自動填入"</string>
+    <string msgid="1150566100598813236" name="androidx_compose_ui_autofill">"自動填入"</string>
+    <string msgid="7717956158562544081" name="app_archived_title">"「<ns1:g id="NAME">%1$s</ns1:g>」已封存。輕按即可下載並還原。"</string>
+    <string msgid="8336702962104482644" name="app_downloading_title">"正在下載 <ns1:g id="NAME">%1$s</ns1:g>，已完成 <ns1:g id="PROGRESS">%2$s</ns1:g>"</string>
+    <string msgid="692894985365717661" name="app_info_drop_target_label">"應用程式資料"</string>
+    <string msgid="5864044122733792085" name="app_installing_title">"正在安裝「<ns1:g id="NAME">%1$s</ns1:g>」(已完成 <ns1:g id="PROGRESS">%2$s</ns1:g>)"</string>
+    <string msgid="4045241727446873529" name="app_pair_default_title">"<ns1:g id="APP1">%1$s</ns1:g> | <ns1:g id="APP2">%2$s</ns1:g>"</string>
+    <string msgid="8134106404716224054" name="app_pair_name_format">"應用程式配對：<ns1:g id="APP1">%1$s</ns1:g> 和 <ns1:g id="APP2">%2$s</ns1:g>"</string>
+    <string msgid="4588897528143807002" name="app_pair_needs_unfold">"打開裝置即可使用此應用程式配對"</string>
+    <string msgid="3556767440808032031" name="app_pair_not_available">"應用程式配對無法使用"</string>
+    <string msgid="3446551575502685376" name="app_pair_unlaunchable_at_screen_size">"此裝置不支援此應用程式配對"</string>
+    <string msgid="7053938513995617849" name="app_waiting_download_title">"正在等待安裝 <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="7117251166066978730" name="auto_add_shortcuts_description">"新安裝的應用程式"</string>
+    <string msgid="4926805029653694105" name="auto_add_shortcuts_label">"將應用程式圖示新增至主畫面"</string>
+    <string name="bottomsheet_action_collapse">閂埋</string>
+    <string name="bottomsheet_action_collapse_description">閂埋頁底面板</string>
+    <string name="bottomsheet_action_expand">打開</string>
+    <string name="bottomsheet_action_expand_description">打開頁底面板</string>
+    <string name="bottomsheet_action_expand_halfway">展開一半</string>
+    <string name="bottomsheet_action_half_expand_description">將頁底面板打開一半</string>
+    <string name="bottomsheet_drag_handle_content_description">拖曳控點</string>
+    <string name="bottomsheet_state_collapsed">閂埋咗</string>
+    <string name="bottomsheet_state_expanded">打開咗</string>
+    <string name="bottomsheet_state_half_expanded">打開咗一半</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"接聽"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"視像"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"拒接"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"掛斷"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"來電"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"通話中"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"正在過濾來電"</string>
+    <string name="character_counter_content_description">已輸入 %1$d 個字元 (共 %2$d 個)</string>
+    <string name="character_counter_overflowed_content_description">超出字元限制 %1$d 個字元 (上限 %2$d 個字元)</string>
+    <string name="clear_text_end_icon_content_description">清除文字</string>
+    <string msgid="406453423630273620" name="close_drawer">"閂導覽選單"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"閂表單"</string>
+    <string msgid="6083905920877235314" name="copy">"複製"</string>
+    <string msgid="4050141361160214248" name="create_folder_with">"使用以下項目建立資料夾：<ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="8038256446254964252" name="default_error_message">"輸入嘅資料無效"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"彈出式視窗"</string>
+    <string msgid="7475544710230993317" name="default_scroll_format">"第 %1$d 頁，共 %2$d 頁"</string>
+    <string msgid="5896817443635989056" name="developer_options_filter_hint">"篩選器"</string>
+    <string msgid="700788437593726194" name="developer_options_title">"開發人員選項"</string>
+    <string msgid="6510806469849709407" name="dialog_remove">"移除"</string>
+    <string msgid="2178028071796141234" name="dialog_update">"更新"</string>
+    <string msgid="4176784553982226114" name="dialog_update_message">"你尚未更新這個圖示代表的應用程式。你可以手動更新以重新啟用此快速鍵，或者移除圖示。"</string>
+    <string msgid="114234265740994042" name="dialog_update_title">"必須更新應用程式"</string>
+    <string msgid="6673129024321402780" name="disabled_app_label">"「<ns1:g id="APP_NAME">%1$s</ns1:g>」已停用"</string>
+    <string msgid="3357562989568808658" name="dismiss_prediction_label">"不要提供應用程式建議"</string>
+    <string msgid="1865617679843363410" name="dotted_app_label">"{count,plural, =1{「{app_name}」有 # 項通知}other{「{app_name}」有 # 項通知}}"</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"下拉式選單"</string>
+    <string msgid="8947858375782098427" name="edit_home_screen">"編輯主畫面"</string>
+    <string msgid="3973107268630717874" name="entertainment_widget_recommendation_category_label">"娛樂"</string>
+    <string name="error_a11y_label">錯誤：冇效</string>
+    <string name="error_icon_content_description">錯誤</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"進階"</string>
+    <string name="exposed_dropdown_menu_content_description">顯示下拉式選單</string>
+    <string msgid="4100806530910930934" name="folder_closed">"已關閉資料夾"</string>
+    <string msgid="6409794597405184510" name="folder_created">"已建立資料夾"</string>
+    <string msgid="5174843001373488816" name="folder_hint_text">"編輯名稱"</string>
+    <string msgid="8626242716117004803" name="folder_name_format_exact">"資料夾：<ns1:g id="NAME">%1$s</ns1:g>，<ns1:g id="SIZE">%2$d</ns1:g> 個項目"</string>
+    <string msgid="4270108890534995199" name="folder_name_format_overflow">"資料夾：<ns1:g id="NAME">%1$s</ns1:g>，<ns1:g id="SIZE">%2$d</ns1:g> 個或以上的項目"</string>
+    <string msgid="94695026776264709" name="folder_opened">"資料夾已開啟 (<ns1:g id="WIDTH">%1$d</ns1:g> x <ns1:g id="HEIGHT">%2$d</ns1:g>)"</string>
+    <string msgid="1794088362165669656" name="folder_renamed">"資料夾已重新命名為「<ns1:g id="NAME">%1$s</ns1:g>」"</string>
+    <string msgid="4625795376335528256" name="folder_tap_to_close">"輕按即可關閉資料夾"</string>
+    <string msgid="4017685068016979677" name="folder_tap_to_rename">"輕按即可儲存新名稱"</string>
+    <string msgid="309040266978007925" name="gadget_complete_setup_text">"輕按即可完成設定"</string>
+    <string msgid="740356548025791839" name="gadget_error_text">"無法載入小工具"</string>
+    <string msgid="8348374825537681407" name="gadget_setup_text">"小工具設定"</string>
+    <string name="generic_smartspace_concatenated_desc">%1$s，%2$s</string>
+    <string msgid="5629429142036709174" name="home_screen">"主畫面"</string>
+    <string msgid="7448809638125333693" name="hotseat_out_of_space">"我的收藏寄存區沒有足夠空間"</string>
+    <string name="icon_content_description">對話框圖示</string>
+    <string msgid="6827826412747255547" name="in_progress">"進行中"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"部分剔咗"</string>
+    <string msgid="2539096853673231757" name="install_drop_target_label">"安裝"</string>
+    <string msgid="1616889277073184841" name="install_private_system_shortcut_label">"安裝在私人資料夾中"</string>
+    <string msgid="4211073925752213539" name="item_added_to_workspace">"已將項目加入至主畫面"</string>
+    <string msgid="4606538322571412879" name="item_moved">"已移動項目"</string>
+    <string msgid="851119963877842327" name="item_removed">"項目已移除"</string>
+    <string name="item_view_role_description">分頁</string>
+    <string msgid="8531721983832654978" name="label_application">"應用程式"</string>
+    <string msgid="649227358658669779" name="launcher3_app_name">"Launcher3"</string>
+    <string msgid="2733588281439571974" name="long_accessible_way_to_add">"㩒兩下之後㩒住，就可以郁小工具或者用自訂操作。"</string>
+    <string msgid="2199537273817090740" name="long_accessible_way_to_add_shortcut">"㩒兩下之後㩒住，就可以郁捷徑或者用自訂操作。"</string>
+    <string msgid="5405328730817637737" name="long_press_shortcut_to_add">"輕觸並按住即可移動捷徑。"</string>
+    <string msgid="3587712543577675817" name="long_press_widget_to_add">"輕觸並按住即可移動小工具。"</string>
+    <string name="m3_loading_indicator_content_description">正在載入</string>
+    <string name="m3_overflow_linear_layout_button_content_description">展開式選單</string>
+    <string name="m3_overflow_linear_layout_button_tooltip_text">更多選項</string>
+    <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"收合頁底面板"</string>
+    <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"關閉頁底面板"</string>
+    <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"拖曳控點"</string>
+    <string msgid="6670819569745899763" name="m3c_bottom_sheet_expand_description">"展開頁底面板"</string>
+    <string msgid="3010635850035863127" name="m3c_bottom_sheet_pane_title">"頁底面板"</string>
+    <string msgid="8166741421776570875" name="m3c_date_input_headline">"已輸入的日期"</string>
+    <string msgid="229313757840775812" name="m3c_date_input_headline_description">"已輸入的日期：%1$s"</string>
+    <string msgid="6116910750161463197" name="m3c_date_input_invalid_for_pattern">"日期格式不符：%1$s"</string>
+    <string msgid="2521768508935305279" name="m3c_date_input_invalid_not_allowed">"不允許的日期：%1$s"</string>
+    <string msgid="7052898923934555305" name="m3c_date_input_invalid_year_range">"日期超出預期的年份範圍：%1$s - %2$s"</string>
+    <string msgid="2895559812010326913" name="m3c_date_input_label">"日期"</string>
+    <string msgid="1237013946323089826" name="m3c_date_input_no_input_description">"無"</string>
+    <string msgid="7306227249789210568" name="m3c_date_input_title">"選取日期"</string>
+    <string msgid="7605002211875882969" name="m3c_date_picker_headline">"所選日期"</string>
+    <string msgid="3664277305226978227" name="m3c_date_picker_headline_description">"目前選項：%1$s"</string>
+    <string msgid="8436650776581492840" name="m3c_date_picker_navigate_to_year_description">"前往 %1$s 年"</string>
+    <string msgid="5811000998184572395" name="m3c_date_picker_no_selection_description">"無"</string>
+    <string msgid="7813882352367152251" name="m3c_date_picker_scroll_to_earlier_years">"碌去顯示舊啲嘅年份"</string>
+    <string msgid="5727367015496556177" name="m3c_date_picker_scroll_to_later_years">"碌去顯示新啲嘅年份"</string>
+    <string msgid="1804346892470238807" name="m3c_date_picker_switch_to_calendar_mode">"切換至日曆輸入模式"</string>
+    <string msgid="395627960681594326" name="m3c_date_picker_switch_to_day_selection">"滑動可選取年分，或可輕按返回選取日期"</string>
+    <string msgid="2219746470065162704" name="m3c_date_picker_switch_to_input_mode">"切換至文字輸入模式"</string>
+    <string msgid="7142101321095356500" name="m3c_date_picker_switch_to_next_month">"變更至下個月"</string>
+    <string msgid="228438865139394590" name="m3c_date_picker_switch_to_previous_month">"變更至上個月"</string>
+    <string msgid="791651718641787594" name="m3c_date_picker_switch_to_year_selection">"切換為選取年份"</string>
+    <string msgid="7430790972741451689" name="m3c_date_picker_title">"選取日期"</string>
+    <string msgid="3199387177749801575" name="m3c_date_picker_today_description">"今天"</string>
+    <string msgid="2068382232816991922" name="m3c_date_picker_year_picker_pane_title">"顯示年分挑選器"</string>
+    <string msgid="3190049423327661366" name="m3c_date_range_input_invalid_range_input">"輸入的日期範圍無效"</string>
+    <string msgid="3148384720560189467" name="m3c_date_range_input_title">"輸入日期"</string>
+    <string msgid="2138321128465719402" name="m3c_date_range_picker_day_in_range">"喺指定日期範圍內"</string>
+    <string msgid="4947636797751277713" name="m3c_date_range_picker_end_headline">"結束日期"</string>
+    <string msgid="602077859540990149" name="m3c_date_range_picker_scroll_to_next_month">"碌去顯示下一個月"</string>
+    <string msgid="4592174524846109496" name="m3c_date_range_picker_scroll_to_previous_month">"碌去顯示上一個月"</string>
+    <string msgid="4665981448952749820" name="m3c_date_range_picker_start_headline">"開始日期"</string>
+    <string msgid="3134165431120340385" name="m3c_date_range_picker_title">"選取日期"</string>
+    <string msgid="7617233117134790350" name="m3c_dialog">"對話框"</string>
+    <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"已收合"</string>
+    <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"已展開"</string>
+    <string msgid="8687821690726149911" name="m3c_dropdown_menu_toggle">"切換下拉式選單"</string>
+    <string msgid="6152806324422087846" name="m3c_search_bar_search">"搜尋"</string>
+    <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"關閉"</string>
+    <string msgid="7655536806087401899" name="m3c_suggestions_available">"建議如下"</string>
+    <string msgid="2786685010796619560" name="m3c_time_picker_am">"上午"</string>
+    <string msgid="2349193472625211372" name="m3c_time_picker_hour">"小時"</string>
+    <string msgid="9179527532316922345" name="m3c_time_picker_hour_24h_suffix">"%1$d 點"</string>
+    <string msgid="8876759303332837035" name="m3c_time_picker_hour_selection">"選取小時"</string>
+    <string msgid="3458167507790628988" name="m3c_time_picker_hour_suffix">"%1$d 點"</string>
+    <string msgid="6973808109666874069" name="m3c_time_picker_hour_text_field">"小時"</string>
+    <string msgid="4313071914266462005" name="m3c_time_picker_minute">"分鐘"</string>
+    <string msgid="4699133535056739733" name="m3c_time_picker_minute_selection">"選取分鐘"</string>
+    <string msgid="5064177921781937179" name="m3c_time_picker_minute_suffix">"%1$d 分鐘"</string>
+    <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"分鐘"</string>
+    <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"選取上午或下午"</string>
+    <string msgid="6616362054113087709" name="m3c_time_picker_pm">"下午"</string>
+    <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"顯示提示"</string>
+    <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"提示"</string>
+    <string name="material_clock_toggle_content_description">選擇上午或下午</string>
+    <string name="material_hour_24h_suffix">%1$s 個鐘</string>
+    <string name="material_hour_selection">選取時段</string>
+    <string name="material_hour_suffix">%1$s 點</string>
+    <string name="material_minute_selection">選取分鐘</string>
+    <string name="material_minute_suffix">%1$s 分</string>
+    <string name="material_slider_range_end">範圍結束</string>
+    <string name="material_slider_range_start">範圍開始</string>
+    <string name="material_slider_value">值</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">切換至時鐘模式即可輸入時間。</string>
+    <string name="material_timepicker_clock_mode_tooltip">切換至時鐘模式</string>
+    <string name="material_timepicker_hour">小時</string>
+    <string name="material_timepicker_hour_error">小時必須介乎 1 至 12</string>
+    <string name="material_timepicker_hour_error_24h">小時必須介乎 0 至 23</string>
+    <string name="material_timepicker_minute">分鐘</string>
+    <string name="material_timepicker_minute_error">分鐘必須介乎 0 至 59</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">選取時間</string>
+    <string name="material_timepicker_text_input_mode_description">切換至文字輸入模式即可輸入時間。</string>
+    <string name="material_timepicker_text_input_mode_tooltip">切換至文字輸入模式</string>
+    <string msgid="5254852678218206889" name="move_to_empty_cell_description">"移去 <ns1:g id="STRING">%3$s</ns1:g> 嘅第 <ns1:g id="NUMBER_0">%1$s</ns1:g> 列，第 <ns1:g id="NUMBER_1">%2$s</ns1:g> 欄"</string>
+    <string msgid="6295412897075147808" name="move_to_hotseat_position">"移動至喜愛的位置 <ns1:g id="NUMBER">%1$s</ns1:g>"</string>
+    <string msgid="6750008980455459790" name="move_to_position">"移動至位置 <ns1:g id="NUMBER">%1$s</ns1:g>"</string>
+    <string msgid="6898038085516271325" name="msg_disabled_by_admin">"已由你的管理員停用"</string>
+    <string msgid="281113995110910548" name="msg_missing_notification_access">"如要顯示「通知圓點」，請開啟「<ns1:g id="NAME">%1$s</ns1:g>」的應用程式通知功能"</string>
+    <string name="mtrl_badge_numberless_content_description">新通知</string>
+    <string name="mtrl_button_collapsed_content_description">已收合</string>
+    <string name="mtrl_button_expanded_content_description">已展開</string>
+    <string name="mtrl_button_overflow_icon_content_description">展開式選單</string>
+    <string name="mtrl_button_snackbar_close_content_description">關閉</string>
+    <string name="mtrl_checkbox_state_description_checked">已勾選</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">已勾選部分</string>
+    <string name="mtrl_checkbox_state_description_unchecked">未勾選</string>
+    <string name="mtrl_chip_close_icon_content_description">移除「%1$s」</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">超過 %1$d 則新通知</string>
+    <string name="mtrl_picker_a11y_next_month">變更為下個月</string>
+    <string name="mtrl_picker_a11y_prev_month">變更為上個月</string>
+    <string name="mtrl_picker_announce_current_range_selection">開始日期選項：%1$s – 結束日期選項：%2$s</string>
+    <string name="mtrl_picker_announce_current_selection">目前選取：%1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">冇</string>
+    <string name="mtrl_picker_cancel">取消</string>
+    <string name="mtrl_picker_confirm">確定</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">請選擇日期</string>
+    <string name="mtrl_picker_date_header_unselected">所選日期</string>
+    <string name="mtrl_picker_day_of_week_column_header">%1$s</string>
+    <string name="mtrl_picker_end_date_description">結束日期係 %1$s</string>
+    <string name="mtrl_picker_invalid_format">格式無效。</string>
+    <string name="mtrl_picker_invalid_format_example">例如：%1$s</string>
+    <string name="mtrl_picker_invalid_format_use">使用：%1$s</string>
+    <string name="mtrl_picker_invalid_range">範圍無效。</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">去今個年度 %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">瀏覽至 %1$d 年</string>
+    <string name="mtrl_picker_next_month_tooltip">下一個月</string>
+    <string name="mtrl_picker_out_of_range">超出範圍：%1$s</string>
+    <string name="mtrl_picker_pane_title_calendar_view">日曆檢視模式</string>
+    <string name="mtrl_picker_pane_title_year_view">按年檢視模式</string>
+    <string name="mtrl_picker_prev_month_tooltip">上一個月</string>
+    <string name="mtrl_picker_range_header_only_end_selected">開始日期 – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – 結束日期</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">請選擇範圍</string>
+    <string name="mtrl_picker_range_header_unselected">開始日期 – 結束日期</string>
+    <string name="mtrl_picker_save">儲存</string>
+    <string name="mtrl_picker_start_date_description">開始日期係 %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">日期</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">結束日期</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">開始日期</string>
+    <string name="mtrl_picker_text_input_day_abbr">日</string>
+    <string name="mtrl_picker_text_input_month_abbr">月</string>
+    <string name="mtrl_picker_text_input_year_abbr">年</string>
+    <string name="mtrl_picker_today_description">今日 %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">切換至日曆輸入模式</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode_tooltip">切換至日曆</string>
+    <string name="mtrl_picker_toggle_to_day_selection">切換去日曆檢視模式</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">切換至文字輸入模式</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode_tooltip">切換至文字輸入</string>
+    <string name="mtrl_picker_toggle_to_year_selection">切換去按年檢視模式</string>
+    <string name="mtrl_timepicker_cancel">取消</string>
+    <string name="mtrl_timepicker_confirm">確定</string>
+    <string msgid="542007171693138492" name="navigation_menu">"導覽選單"</string>
+    <string msgid="6756167867113741310" name="news_widget_recommendation_category_label">"新聞和雜誌"</string>
+    <string msgid="3787956167293097509" name="no_search_results">"找不到小工具或捷徑"</string>
+    <string msgid="4337693382501046170" name="no_widgets_available">"無法使用小工具和捷徑"</string>
+    <string msgid="6610465462668679431" name="not_selected">"未揀"</string>
+    <string msgid="6573031135582639649" name="not_set">"未設定"</string>
+    <string msgid="1760796511504341095" name="notification_dots_desc_off">"關閉"</string>
+    <string msgid="1679848116452218908" name="notification_dots_desc_on">"開啟"</string>
+    <string msgid="4284221181793592871" name="notification_dots_service_title">"顯示通知圓點"</string>
+    <string msgid="9062440428204120317" name="notification_dots_title">"通知圓點"</string>
+    <string msgid="1404149926117359025" name="notifications_header">"通知"</string>
+    <string msgid="5555987036267226245" name="others_widget_recommendation_category_label">"為你推薦"</string>
+    <string msgid="6455557115204099579" name="out_of_space">"主畫面空間已滿"</string>
+    <string msgid="7592128424511031410" name="package_state_unknown">"不明"</string>
+    <string name="password_toggle_content_description">顯示密碼</string>
+    <string msgid="923466509822011139" name="permdesc_install_shortcut">"允許應用程式無需使用者許可也可新增捷徑。"</string>
+    <string msgid="4208061150510996676" name="permdesc_read_settings">"允許應用程式讀取主畫面中的設定和捷徑。"</string>
+    <string msgid="726859348127868466" name="permdesc_write_settings">"允許應用程式變更主畫面中的設定和捷徑。"</string>
+    <string msgid="5632423390354674437" name="permlab_install_shortcut">"安裝捷徑"</string>
+    <string msgid="5136500343007704955" name="permlab_read_settings">"讀取主畫面設定和捷徑"</string>
+    <string msgid="4820028712156303762" name="permlab_write_settings">"寫入主畫面設定和捷徑"</string>
+    <string msgid="4196423321649756498" name="pin_prediction">"固定預測"</string>
+    <string msgid="6685851473431805375" name="preference_copied">"「<ns1:g id="SUMMARY">%1$s</ns1:g>」已複製到剪貼簿。"</string>
+    <string msgid="2359721649407947001" name="private_space_label">"私人空間"</string>
+    <string msgid="9203933341714508907" name="private_space_secondary_label">"輕按即可設定或開啟"</string>
+    <string msgid="3811812719618323750" name="productivity_widget_recommendation_category_label">"必備之選"</string>
+    <string msgid="3254274107740952556" name="ps_add_button_content_description">"將應用程式安裝在「私人空間」中"</string>
+    <string msgid="8127988716897128773" name="ps_add_button_label">"安裝"</string>
+    <string msgid="5961993384382649530" name="ps_container_lock_button_content_description">"私人，已鎖定。"</string>
+    <string msgid="2640257399982364682" name="ps_container_lock_title">"上鎖"</string>
+    <string msgid="6059734123353320479" name="ps_container_settings">"「私人空間」設定"</string>
+    <string msgid="4391796149519594205" name="ps_container_title">"私人"</string>
+    <string msgid="8667331812048014412" name="ps_container_transition">"轉為「私人空間」"</string>
+    <string msgid="9181551784092204234" name="ps_container_unlock_button_content_description">"私人，未鎖定。"</string>
+    <string msgid="5941395253238309765" name="range_end">"範圍結束"</string>
+    <string msgid="7097486360902471446" name="range_start">"範圍開始"</string>
+    <string msgid="6690461455618725183" name="recent_task_option_split_screen">"分割螢幕"</string>
+    <string msgid="6336962690888067057" name="reconfigurable_widget_education_tip">"輕按即可變更小工具設定"</string>
+    <string msgid="1383965239183576790" name="remote_action_failed">"操作失敗：<ns1:g id="WHAT">%1$s</ns1:g>"</string>
+    <string msgid="7812859488053230776" name="remove_drop_target_label">"移除"</string>
+    <string msgid="9160126848219158407" name="safemode_shortcut_error">"在安全模式中無法使用「已下載的應用程式」功能"</string>
+    <string msgid="4863470563535682004" name="safemode_widget_error">"在安全模式中無法使用小工具"</string>
+    <string msgid="5647523853662686243" name="save_app_pair">"儲存應用程式配對"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"搜尋"</string>
+    <string name="searchview_clear_text_content_description">清除文字</string>
+    <string name="searchview_navigation_content_description">返回</string>
+    <string msgid="6043586758067023" name="selected">"揀咗"</string>
+    <string msgid="5808906607627586381" name="set_default_home_app">"在「設定」中將「<ns1:g id="LAUNCHER_NAME">%1$s</ns1:g>」設定為預設主頁應用程式"</string>
+    <string msgid="8873672322605444408" name="settings_button_text">"設定"</string>
+    <string msgid="2536503539825726397" name="shortcut_not_available">"沒有可用的捷徑"</string>
+    <string msgid="8471715556199592381" name="shortcuts_count">"{count,plural, =1{# 個捷徑}other{# 個捷徑}}"</string>
+    <string name="side_sheet_accessibility_pane_title">側邊工作表</string>
+    <string msgid="2792228137354697160" name="snackbar_pane_title">"警示"</string>
+    <string msgid="689147679536384717" name="social_widget_recommendation_category_label">"社交"</string>
+    <string msgid="5475288491241414932" name="split_app_info_accessibility">"%1$s 的應用程式資料"</string>
+    <string msgid="7214375263347964093" name="split_app_usage_settings">"「%1$s」的用量設定"</string>
+    <string msgid="4139871816613051306" name="state_empty">"空白"</string>
+    <string msgid="5834637030682409883" name="state_off">"閂"</string>
+    <string msgid="1490883874751719580" name="state_on">"開"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="8216961355289236794" name="styles_wallpaper_button_text">"桌布和樣式"</string>
+    <string msgid="1844314680798145222" name="suggested_widgets_header_title">"建議"</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>、<ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string msgid="2561197295334830845" name="switch_role">"按鈕裝置"</string>
+    <string msgid="1672349317127674378" name="tab">"分頁"</string>
+    <string msgid="5946805113151406391" name="template_percent">"百分之 <ns1:g id="PERCENTAGE">%1$d</ns1:g>。"</string>
+    <string msgid="1376365968844349552" name="title_change_settings">"變更設定"</string>
+    <string msgid="7503287056163941064" name="title_missing_notification_access">"需要獲取通知存取權"</string>
+    <string msgid="3765533235322692011" name="tooltip_description">"提示"</string>
+    <string msgid="3124740595719787496" name="tooltip_label">"顯示提示"</string>
+    <string msgid="4151576204245173321" name="undo">"復原"</string>
+    <string msgid="4722034217958379417" name="uninstall_drop_target_label">"解除安裝"</string>
+    <string msgid="8423460530441627982" name="uninstall_private_system_shortcut_label">"解除安裝應用程式"</string>
+    <string msgid="4172046090762920660" name="uninstall_system_app_text">"這是系統應用程式，無法將其解除安裝。"</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"關閉"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"開啟"</string>
+    <string msgid="3640149169885301790" name="widget_accessible_dims_format">"%1$d 闊，%2$d 高"</string>
+    <string msgid="1810530016360039643" name="widget_add_button_content_description">"加<ns1:g id="WIDGET_NAME">%1$s</ns1:g>小工具"</string>
+    <string msgid="2761267068711937179" name="widget_add_button_label">"新增"</string>
+    <string msgid="2880537293434387943" name="widget_button_text">"小工具"</string>
+    <string msgid="8894438636213590446" name="widget_category_conversations">"對話"</string>
+    <string msgid="3469689394504266039" name="widget_category_note_taking">"做筆記"</string>
+    <string msgid="2370757736025621599" name="widget_dims_format">"%1$d × %2$d"</string>
+    <string msgid="1673313931455067502" name="widget_picker_right_pane_accessibility_title">"右邊係「<ns1:g id="SELECTED_HEADER">%1$s</ns1:g>」小工具，左邊係搜尋功能同選項"</string>
+    <string msgid="9045841361655787574" name="widget_preview_context_description">"「<ns1:g id="WIDGET_NAME">%1$s</ns1:g>」小工具"</string>
+    <string msgid="8489038126122831595" name="widget_preview_name_and_dims_content_description">"<ns1:g id="WIDGET_NAME">%1$s</ns1:g>小工具，闊 %2$d，高 %3$d"</string>
+    <string msgid="8811472721881205250" name="widget_reconfigure_button_content_description">"變更小工具設定"</string>
+    <string msgid="9130327887929620" name="widget_resized">"已調整小工具的大小至闊 <ns1:g id="NUMBER_0">%1$s</ns1:g> 高 <ns1:g id="NUMBER_1">%2$s</ns1:g>"</string>
+    <string msgid="7209136747878365116" name="widgets_and_shortcuts_count">"<ns1:g id="WIDGETS_COUNT">%1$s</ns1:g>、<ns1:g id="SHORTCUTS_COUNT">%2$s</ns1:g>"</string>
+    <string msgid="6467746476364652096" name="widgets_count">"{count,plural, =1{# 個小工具}other{# 個小工具}}"</string>
+    <string msgid="5766167035728653605" name="widgets_full_sheet_cancel_button_description">"清除搜尋框中的文字"</string>
+    <string msgid="2743540105607120182" name="widgets_full_sheet_personal_tab">"個人"</string>
+    <string msgid="8484659090860596457" name="widgets_full_sheet_search_bar_hint">"搜尋"</string>
+    <string msgid="3767150027110633765" name="widgets_full_sheet_work_tab">"工作"</string>
+    <string msgid="796804551140113767" name="widgets_list">"小工具清單"</string>
+    <string msgid="6141506579418771922" name="widgets_list_closed">"已經關閉嘅小工具清單"</string>
+    <string msgid="1736198302467317371" name="work_apps_enable_btn_text">"取消暫停"</string>
+    <string msgid="4669288269140620646" name="work_apps_pause_btn_text">"暫停工作應用程式"</string>
+    <string msgid="261634750995824906" name="work_apps_paused_body">"工作應用程式無法向你傳送通知、使用電池電量或存取你的位置"</string>
+    <string msgid="6377476824357318532" name="work_apps_paused_edu_accept">"知道了"</string>
+    <string msgid="8872412121608402058" name="work_apps_paused_edu_banner">"工作應用程式均加有標誌。你的 IT 管理員可以看到這些應用程式"</string>
+    <string msgid="1687828929959237477" name="work_apps_paused_info_body">"你不會收到工作應用程式的通知"</string>
+    <string msgid="8358872357502756790" name="work_apps_paused_telephony_unavailable_body">"你不會收到工作應用程式的來電、短訊或通知"</string>
+    <string msgid="3040901117349444598" name="work_apps_paused_title">"已暫停工作應用程式"</string>
+    <string msgid="3753320833950115786" name="work_folder_name">"工作"</string>
+    <string msgid="6069788082535149071" name="work_profile_edu_accept">"知道了"</string>
+    <string msgid="7895468576497746520" name="work_profile_edu_work_apps">"工作應用程式均加有標誌。你的 IT 管理員可以看到這些應用程式"</string>
+    <string msgid="3081029915775481146" name="work_profile_toggle_label">"工作設定檔"</string>
+    <string msgid="257366611030256142" name="workspace_new_page">"新主畫面頁面"</string>
+    <string msgid="8458889198184077399" name="workspace_scroll_format">"主畫面 %1$d，共 %2$d 個"</string>
+</resources>

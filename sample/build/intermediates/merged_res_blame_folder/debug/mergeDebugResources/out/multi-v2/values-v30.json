@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.fhdfh.launcher.sample-mergeDebugResources-76:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "/Users/chuandong/.gradle/caches/8.11.1/transforms/a87032cfaff89019ea39a30905450aee/transformed/jetified-launcher-1.0.0-example2/res/values-v30/values-v30.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,138,210,254",
+                        "endLines": "2,3,4,15",
+                        "endColumns": "82,71,43,12",
+                        "endOffsets": "133,205,249,940"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,138,210,327",
+                        "endLines": "2,3,4,16",
+                        "endColumns": "82,71,43,12",
+                        "endOffsets": "133,205,249,1013"
+                    }
+                },
+                {
+                    "source": "/Users/chuandong/.gradle/caches/8.11.1/transforms/12bf53ada1fb481df82fa90f10a486f9/transformed/jetified-material3-release/res/values-v30/values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "254",
+                        "endColumns": "72",
+                        "endOffsets": "322"
+                    }
+                }
+            ]
+        }
+    ]
+}

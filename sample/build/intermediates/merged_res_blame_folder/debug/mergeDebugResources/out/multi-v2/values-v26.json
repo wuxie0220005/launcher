@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.fhdfh.launcher.sample-mergeDebugResources-76:/values-v26/values-v26.xml",
+            "map": [
+                {
+                    "source": "/Users/chuandong/.gradle/caches/8.11.1/transforms/40d9e0a85d854304e532ee9faf83fee2/transformed/appcompat-1.7.1/res/values-v26/values-v26.xml",
+                    "from": {
+                        "startLines": "2,3,4,8,12,16",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,130,217,381,557,796",
+                        "endLines": "2,3,7,11,15,16",
+                        "endColumns": "74,86,12,12,12,92",
+                        "endOffsets": "125,212,376,552,791,884"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,11,15,19",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "289,364,451,615,791,1030",
+                        "endLines": "5,6,10,14,18,19",
+                        "endColumns": "74,86,12,12,12,92",
+                        "endOffsets": "359,446,610,786,1025,1118"
+                    }
+                },
+                {
+                    "source": "/Users/chuandong/.gradle/caches/8.11.1/transforms/a87032cfaff89019ea39a30905450aee/transformed/jetified-launcher-1.0.0-example2/res/values-v26/values-v26.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,138,217",
+                        "endColumns": "82,78,71",
+                        "endOffsets": "133,212,284"
+                    }
+                }
+            ]
+        }
+    ]
+}

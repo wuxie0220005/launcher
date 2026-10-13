@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d പുതിയ അറിയിപ്പ്</item>
+    <item quantity="other">%d പുതിയ അറിയിപ്പുകൾ</item>
+  </plurals>
+    <string msgid="7610119707847920412" name="abandoned_clean_this">"നീക്കംചെയ്യുക"</string>
+    <string msgid="3990027586878167529" name="abandoned_promise_explanation">"ഈ ഐക്കണുവേണ്ടി അപ്ലിക്കേഷൻ ഇൻസ്റ്റാളുചെയ്‌തിട്ടില്ല. നിങ്ങൾക്കത് നീക്കംചെയ്യാനാകും അല്ലെങ്കിൽ അപ്ലിക്കേഷനുവേണ്ടി തിരഞ്ഞുകൊണ്ട് അത് സ്വയമേവ ഇൻസ്റ്റാളുചെയ്യുക."</string>
+    <string msgid="7096178467971716750" name="abandoned_promises_title">"ഈ അപ്ലിക്കേഷൻ ഇൻസ്റ്റാളുചെയ്‌തിട്ടില്ല"</string>
+    <string msgid="891119232568284442" name="abandoned_search">"തിരയുക"</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"ഹോമിലേക്ക് പോവുക"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"മുകളിലേക്ക് പോവുക"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"കൂടുതൽ ഓപ്ഷനുകൾ"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"പൂർത്തിയായി"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"എല്ലാം കാണുക"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"ആപ്പ് തിരഞ്ഞെടുക്കുക"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"ഓഫ്"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ഓൺ"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"ഇല്ലാതാക്കുക"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"ഫംഗ്ഷന്‍+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"മെറ്റ+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"സ്‌പെയ്‌സ്"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"മെനു+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"തിരയുക…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"ചോദ്യം മായ്‌ക്കുക"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"ചോദ്യം തിരയുക"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"തിരയുക"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"ചോദ്യം സമർപ്പിക്കുക"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"സംസാരത്തിലൂടെ തിരയുക"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"ഇനിപ്പറയുന്നതുമായി പങ്കിടുക"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> എന്നതുമായി പങ്കിടുക"</string>
+    <string msgid="5024599872061409708" name="abc_slice_permission_allow">"അനുവദിക്കുക"</string>
+    <string msgid="5696872682700058611" name="abc_slice_permission_checkbox">"ഏത് ആപ്പിൽ നിന്നും സ്ലൈസുകൾ കാണിക്കാൻ <ns1:g id="APP">%1$s</ns1:g>-നെ അനുവദിക്കുക"</string>
+    <string msgid="3819478292430407705" name="abc_slice_permission_deny">"നിരസിക്കുക"</string>
+    <string msgid="4525743640399572811" name="abc_slice_permission_text_1">"- ഇതിന് <ns1:g id="APP">%1$s</ns1:g>-ൽ നിന്ന് വിവരങ്ങൾ വായിക്കാനാകും"</string>
+    <string msgid="7323565634860251794" name="abc_slice_permission_text_2">"- ഇതിന് <ns1:g id="APP">%1$s</ns1:g>-നുള്ളിൽ പ്രവർത്തനങ്ങൾ ചെയ്യാനാകും"</string>
+    <string msgid="4175332421259324948" name="abc_slice_permission_title">"<ns1:g id="APP_2">%2$s</ns1:g> സ്ലൈസുകൾ കാണിക്കാൻ <ns1:g id="APP_0">%1$s</ns1:g>-നെ അനുവദിക്കണോ?"</string>
+    <string msgid="3604847235923472451" name="abc_slices_permission_request">"<ns1:g id="APP_2">%2$s</ns1:g> സ്ലൈസുകൾ കാണിക്കാൻ <ns1:g id="APP_0">%1$s</ns1:g> താൽപ്പര്യപ്പെടുന്നു"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"ചുരുക്കുക"</string>
+    <string msgid="2277148124685870734" name="accessibility_close">"അടയ്ക്കൂ"</string>
+    <string name="accessibility_smartspace_page">%1$d പേജുകളിൽ %2$d-ാമത്തേത്</string>
+    <string msgid="215894119683164916" name="action_add_to_workspace">"ഹോം സ്‌ക്രീനിലേക്ക് ചേർക്കുക"</string>
+    <string msgid="282377193880900022" name="action_decrease_height">"ഉയരം കുറയ്‌ക്കുക"</string>
+    <string msgid="1374549771083094654" name="action_decrease_width">"വീതി കുറയ്‌ക്കുക"</string>
+    <string msgid="2864038805849372848" name="action_deep_shortcut">"കുറുക്കുവഴികൾ"</string>
+    <string msgid="5909461085055959187" name="action_dismiss_notification">"നിരസിക്കുക"</string>
+    <string msgid="459390020612501122" name="action_increase_height">"ഉയരം കൂട്ടുക"</string>
+    <string msgid="8773715375078513326" name="action_increase_width">"വീതി കൂട്ടുക"</string>
+    <string msgid="4339390619886385032" name="action_move">"ഇനം നീക്കുക"</string>
+    <string msgid="2170188780612570250" name="action_move_here">"ഇനം ഇവിടേക്ക് നീക്കുക"</string>
+    <string msgid="39528912300293768" name="action_move_to_workspace">"ഹോം സ്‌ക്രീനിലേക്ക് നീക്കുക"</string>
+    <string msgid="1802976324781771067" name="action_resize">"വലുപ്പംമാറ്റുക"</string>
+    <string msgid="7456344436509528827" name="activity_not_available">"അപ്ലിക്കേഷൻ ലഭ്യമല്ല"</string>
+    <string msgid="8071924732094499514" name="activity_not_found">"അപ്ലിക്കേഷൻ ഇൻസ്‌റ്റാളുചെ‌യ്‌തിട്ടില്ല."</string>
+    <string msgid="8730547755622776606" name="add_item_request_drag_hint">"ഹോം സ്‌ക്രീനിന് ചുറ്റും വിജറ്റ് നീക്കാൻ അതിൽ സ്‌പർശിച്ച് പിടിക്കുക"</string>
+    <string msgid="9040534766770853243" name="add_to_folder">"ഫോൾഡറിൽ ചേർക്കുക: <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="4534929978967147231" name="add_to_folder_with_app">"<ns1:g id="NAME">%1$s</ns1:g> ഉള്ള ഫോൾഡറിൽ ചേർക്കുക"</string>
+    <string msgid="9168649446635919791" name="add_to_home_screen">"ഹോം സ്‌ക്രീനിലേക്ക് ചേർക്കുക"</string>
+    <string msgid="4793259502305558003" name="added_to_folder">"ഫോൾഡറിൽ ഇനം ചേർത്തു"</string>
+    <string msgid="4451545765448884415" name="added_to_home_screen_accessibility_text">"<ns1:g id="WIDGET_NAME">%1$s</ns1:g> വിജറ്റ് ഹോം സ്‌ക്രീനിലേക്ക് ചേർത്തു"</string>
+    <string msgid="8130441508702294465" name="all_apps_button_label">"അപ്ലിക്കേഷനുകളുടെ ലിസ്‌റ്റ്"</string>
+    <string msgid="1315764287305224468" name="all_apps_button_personal_label">"വ്യക്തിഗത ആപ്പുകളുടെ ലിസ്റ്റ്"</string>
+    <string msgid="7270707118948892488" name="all_apps_button_work_label">"ഔദ്യോഗിക ആപ്പുകളുടെ ലിസ്റ്റ്"</string>
+    <string msgid="5015784846527570951" name="all_apps_label">"എല്ലാ ആപ്പുകളും"</string>
+    <string msgid="5813968043155271636" name="all_apps_loading_message">"ആപ്പുകൾ ലോഡുചെയ്യുന്നു..."</string>
+    <string msgid="3200346862396363786" name="all_apps_no_search_results">"\"<ns1:g id="QUERY">%1$s</ns1:g>\" എന്നതുമായി പൊരുത്തപ്പെടുന്ന ആപ്പുകളൊന്നും കണ്ടെത്തിയില്ല"</string>
+    <string msgid="4190252696685155002" name="all_apps_personal_tab">"വ്യക്തിപരം"</string>
+    <string msgid="1390553134053255246" name="all_apps_search_bar_hint">"ആപ്പുകൾ തിരയുക"</string>
+    <string msgid="5889367432531296759" name="all_apps_search_results">"തിരയൽ ഫലങ്ങൾ"</string>
+    <string msgid="4884822796154055118" name="all_apps_work_tab">"Work"</string>
+    <string msgid="8662546029078692509" name="allow_rotation_desc">"ഫോൺ തിരിച്ച നിലയിലായിരിക്കുമ്പോൾ"</string>
+    <string msgid="7222049633713050106" name="allow_rotation_title">"ഹോം സ്ക്രീൻ റൊട്ടേഷൻ അനുവദിക്കുക"</string>
+    <string msgid="8719607706653693137" name="androidx_compose_foundation_autofill">"സ്വയമേവ പൂരിപ്പിക്കൽ"</string>
+    <string msgid="1150566100598813236" name="androidx_compose_ui_autofill">"സ്വയമേവ പൂരിപ്പിക്കൽ"</string>
+    <string msgid="7717956158562544081" name="app_archived_title">"<ns1:g id="NAME">%1$s</ns1:g> ആർക്കൈവ് ചെയ്തു. ഡൗൺലോഡ് ചെയ്യാനും പുനഃസ്ഥാപിക്കാനും ടാപ്പ് ചെയ്യുക."</string>
+    <string msgid="8336702962104482644" name="app_downloading_title">"<ns1:g id="NAME">%1$s</ns1:g> ഡൗൺലോഡ് ചെയ്യുന്നു, <ns1:g id="PROGRESS">%2$s</ns1:g> പൂർത്തിയായി"</string>
+    <string msgid="692894985365717661" name="app_info_drop_target_label">"ആപ്പ് വിവരങ്ങൾ"</string>
+    <string msgid="5864044122733792085" name="app_installing_title">"<ns1:g id="NAME">%1$s</ns1:g> ഇൻസ്‌റ്റാൾ ചെയ്യുന്നു, <ns1:g id="PROGRESS">%2$s</ns1:g> പൂർത്തിയായി"</string>
+    <string msgid="4045241727446873529" name="app_pair_default_title">"<ns1:g id="APP1">%1$s</ns1:g> | <ns1:g id="APP2">%2$s</ns1:g>"</string>
+    <string msgid="8134106404716224054" name="app_pair_name_format">"ആപ്പ് ജോടി: <ns1:g id="APP1">%1$s</ns1:g>, <ns1:g id="APP2">%2$s</ns1:g>"</string>
+    <string msgid="4588897528143807002" name="app_pair_needs_unfold">"ഈ ആപ്പ് ജോടി ഉപയോഗിക്കാൻ ഉപകരണം അൺഫോൾഡ് ചെയ്യുക"</string>
+    <string msgid="3556767440808032031" name="app_pair_not_available">"ആപ്പ് ജോടി ലഭ്യമല്ല"</string>
+    <string msgid="3446551575502685376" name="app_pair_unlaunchable_at_screen_size">"ഈ ഉപകരണത്തിൽ ഈ ആപ്പ് ജോടിക്ക് പിന്തുണയില്ല"</string>
+    <string msgid="7053938513995617849" name="app_waiting_download_title">"ഇൻസ്റ്റാൾ ചെയ്യാൻ <ns1:g id="NAME">%1$s</ns1:g> കാക്കുന്നു"</string>
+    <string msgid="7117251166066978730" name="auto_add_shortcuts_description">"പുതിയ ആപ്പുകൾക്ക്"</string>
+    <string msgid="4926805029653694105" name="auto_add_shortcuts_label">"ഹോം സ്‌ക്രീനിലേക്ക് ആപ്പ് ഐക്കണുകൾ ചേർക്കുക"</string>
+    <string name="bottomsheet_action_collapse">ചുരുക്കുക</string>
+    <string name="bottomsheet_action_collapse_description">ബോട്ടം ഷീറ്റ് ചുരുക്കുക</string>
+    <string name="bottomsheet_action_expand">വികസിപ്പിക്കുക</string>
+    <string name="bottomsheet_action_expand_description">ബോട്ടം ഷീറ്റ് വികസിപ്പിക്കുക</string>
+    <string name="bottomsheet_action_expand_halfway">മുഴുവനായി വികസിപ്പിക്കുക</string>
+    <string name="bottomsheet_action_half_expand_description">ബോട്ടം ഷീറ്റ് പകുതി വികസിപ്പിക്കുക</string>
+    <string name="bottomsheet_drag_handle_content_description">വലിച്ചിടുന്നതിനുള്ള ഹാൻഡിൽ</string>
+    <string name="bottomsheet_state_collapsed">ചുരുക്കി</string>
+    <string name="bottomsheet_state_expanded">വികസിപ്പിച്ചു</string>
+    <string name="bottomsheet_state_half_expanded">പകുതി വികസിപ്പിക്കുക</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"മറുപടി നൽകുക"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"വീഡിയോ"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"നിരസിക്കുക"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"കോൾ നിർത്തുക"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"ഇൻകമിംഗ് കോൾ"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"സജീവമായ കോൾ"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"ഇൻകമിംഗ് കോൾ സ്‌ക്രീൻ ചെയ്യുന്നു"</string>
+    <string name="character_counter_content_description">%2$d-ൽ %1$d പ്രതീകങ്ങൾ നൽകി</string>
+    <string name="character_counter_overflowed_content_description">അക്ഷര പരിധി, %2$d-ൽ %1$d കവിഞ്ഞു</string>
+    <string name="clear_text_end_icon_content_description">ടെക്‌സ്‌റ്റ് മായ്‌ക്കുക</string>
+    <string msgid="406453423630273620" name="close_drawer">"നാവിഗേഷൻ മെനു അടയ്‌ക്കുക"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"ഷീറ്റ് അടയ്ക്കുക"</string>
+    <string msgid="6083905920877235314" name="copy">"പകർത്തുക"</string>
+    <string msgid="4050141361160214248" name="create_folder_with">"ഇതുപയോഗിച്ച് ഫോൾഡർ സൃഷ്‌ടിക്കുക: <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="8038256446254964252" name="default_error_message">"ഇൻപുട്ട് അസാധുവാണ്"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"പോപ്പ്-അപ്പ് വിൻഡോ"</string>
+    <string msgid="7475544710230993317" name="default_scroll_format">"പേജ് %1$d / %2$d"</string>
+    <string msgid="5896817443635989056" name="developer_options_filter_hint">"ഫിൽട്ടർ ചെയ്യുക"</string>
+    <string msgid="700788437593726194" name="developer_options_title">"ഡെവലപ്പർ ഓപ്‌ഷനുകൾ"</string>
+    <string msgid="6510806469849709407" name="dialog_remove">"നീക്കം ചെയ്യുക"</string>
+    <string msgid="2178028071796141234" name="dialog_update">"അപ്ഡേറ്റ് ചെയ്യുക"</string>
+    <string msgid="4176784553982226114" name="dialog_update_message">"ഈ ഐക്കണിനുള്ള ആപ്പ് അപ്‌ഡേറ്റ് ചെയ്തിട്ടില്ല. ഈ കുറുക്കുവഴി വീണ്ടും പ്രവർത്തനക്ഷമമാക്കാൻ നിങ്ങൾക്ക് നേരിട്ട് അപ്‌ഡേറ്റ് ചെയ്യാം അല്ലെങ്കിൽ ഐക്കൺ നീക്കം ചെയ്യാം."</string>
+    <string msgid="114234265740994042" name="dialog_update_title">"ആപ്പ് അപ്‌ഡേറ്റ് ചെയ്യേണ്ടതുണ്ട്"</string>
+    <string msgid="6673129024321402780" name="disabled_app_label">"<ns1:g id="APP_NAME">%1$s</ns1:g> പ്രവർത്തനരഹിതമാക്കി"</string>
+    <string msgid="3357562989568808658" name="dismiss_prediction_label">"ആപ്പ് നിർദ്ദേശിക്കേണ്ട"</string>
+    <string msgid="1865617679843363410" name="dotted_app_label">"{count,plural, =1{{app_name} ആപ്പിന് # അറിയിപ്പുണ്ട്}other{{app_name} ആപ്പിന് # അറിയിപ്പുകളുണ്ട്}}"</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"ഡ്രോപ്പ്‌ഡൗൺ മെനു"</string>
+    <string msgid="8947858375782098427" name="edit_home_screen">"ഹോം സ്‌ക്രീൻ എഡിറ്റ് ചെയ്യുക"</string>
+    <string msgid="3973107268630717874" name="entertainment_widget_recommendation_category_label">"വിനോദം"</string>
+    <string name="error_a11y_label">പിശക്: അസാധുവാണ്</string>
+    <string name="error_icon_content_description">പിശക്</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"വിപുലമായത്"</string>
+    <string name="exposed_dropdown_menu_content_description">ഡ്രോപ്പ്‌ ഡൗൺ മെനു കാണിക്കുക</string>
+    <string msgid="4100806530910930934" name="folder_closed">"ഫോൾഡർ അടച്ചു"</string>
+    <string msgid="6409794597405184510" name="folder_created">"ഫോൾഡർ സൃഷ്‌ടിച്ചു"</string>
+    <string msgid="5174843001373488816" name="folder_hint_text">"പേര് എഡിറ്റ് ചെയ്യുക"</string>
+    <string msgid="8626242716117004803" name="folder_name_format_exact">"ഫോൾഡർ: <ns1:g id="NAME">%1$s</ns1:g>, <ns1:g id="SIZE">%2$d</ns1:g> ഇനങ്ങൾ"</string>
+    <string msgid="4270108890534995199" name="folder_name_format_overflow">"ഫോൾഡർ: <ns1:g id="NAME">%1$s</ns1:g>, <ns1:g id="SIZE">%2$d</ns1:g> അല്ലെങ്കിൽ അതിലധികം ഇനങ്ങൾ"</string>
+    <string msgid="94695026776264709" name="folder_opened">"ഫോൾഡർ തുറന്നു, <ns1:g id="WIDTH">%1$d</ns1:g> / <ns1:g id="HEIGHT">%2$d</ns1:g>"</string>
+    <string msgid="1794088362165669656" name="folder_renamed">"ഫോൾഡറിന്റെ പേര് <ns1:g id="NAME">%1$s</ns1:g> എന്നായി മാറ്റി"</string>
+    <string msgid="4625795376335528256" name="folder_tap_to_close">"ഫോൾഡർ അടയ്ക്കുന്നതിന് ടാപ്പുചെയ്യുക"</string>
+    <string msgid="4017685068016979677" name="folder_tap_to_rename">"പേരുമാറ്റം സംരക്ഷിക്കുന്നതിന് ടാപ്പുചെയ്യുക"</string>
+    <string msgid="309040266978007925" name="gadget_complete_setup_text">"സജ്ജീകരണം പൂർത്തിയാക്കാൻ ടാപ്പ് ചെയ്യുക"</string>
+    <string msgid="740356548025791839" name="gadget_error_text">"വിജറ്റ് ലോഡ് ചെയ്യാനാകുന്നില്ല"</string>
+    <string msgid="8348374825537681407" name="gadget_setup_text">"വിജറ്റ് ക്രമീകരണം"</string>
+    <string name="generic_smartspace_concatenated_desc">%1$s, %2$s</string>
+    <string msgid="5629429142036709174" name="home_screen">"ഹോം"</string>
+    <string msgid="7448809638125333693" name="hotseat_out_of_space">"പ്രിയപ്പെട്ടവയുടെ ട്രേയിൽ ഒഴിവൊന്നുമില്ല"</string>
+    <string name="icon_content_description">ഡയലോഗ് ഐക്കൺ</string>
+    <string msgid="6827826412747255547" name="in_progress">"പുരോഗമിക്കുന്നു"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"ഭാഗികമായി ചെക്ക് മാർക്കിട്ടു"</string>
+    <string msgid="2539096853673231757" name="install_drop_target_label">"ഇൻസ്‌റ്റാൾ ചെയ്യുക"</string>
+    <string msgid="1616889277073184841" name="install_private_system_shortcut_label">"സ്വകാര്യമായി ഇൻസ്റ്റാൾ ചെയ്യൂ"</string>
+    <string msgid="4211073925752213539" name="item_added_to_workspace">"ഹോം സ്‌ക്രീനിൽ ഇനം ചേർത്തു"</string>
+    <string msgid="4606538322571412879" name="item_moved">"ഇനം നീക്കി"</string>
+    <string msgid="851119963877842327" name="item_removed">"ഇനം നീക്കംചെയ്‌തു"</string>
+    <string name="item_view_role_description">ടാബ്</string>
+    <string msgid="8531721983832654978" name="label_application">"ആപ്പ്"</string>
+    <string msgid="649227358658669779" name="launcher3_app_name">"ലോഞ്ചർ3"</string>
+    <string msgid="2733588281439571974" name="long_accessible_way_to_add">"വിജറ്റ് നീക്കാൻ ഡബിൾ ടാപ്പ് ചെയ്യൂ, ഹോൾഡ് ചെയ്യൂ അല്ലെങ്കിൽ ഇഷ്‌ടാനുസൃത പ്രവർത്തനങ്ങൾ ഉപയോഗിക്കൂ."</string>
+    <string msgid="2199537273817090740" name="long_accessible_way_to_add_shortcut">"കുറുക്കുവഴി നീക്കാൻ ഡബിൾ ടാപ്പ് ചെയ്യൂ, ഹോൾഡ് ചെയ്യൂ അല്ലെങ്കിൽ ഇഷ്‌ടാനുസൃത പ്രവർത്തനങ്ങൾ ഉപയോഗിക്കൂ."</string>
+    <string msgid="5405328730817637737" name="long_press_shortcut_to_add">"കുറുക്കുവഴി നീക്കാൻ സ്‌പർശിച്ച് പിടിക്കുക."</string>
+    <string msgid="3587712543577675817" name="long_press_widget_to_add">"വിജറ്റ് നീക്കാൻ സ്‌പർശിച്ച് പിടിക്കുക."</string>
+    <string name="m3_loading_indicator_content_description">ലോഡ് ചെയ്യുന്നു</string>
+    <string name="m3_overflow_linear_layout_button_content_description">ഓവർഫ്ലോ മെനു</string>
+    <string name="m3_overflow_linear_layout_button_tooltip_text">കൂടുതൽ ഓപ്ഷനുകൾ</string>
+    <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"ബോട്ടം ഷീറ്റ് ചുരുക്കുക"</string>
+    <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"ബോട്ടം ഷീറ്റ് ഡിസ്മിസ് ചെയ്യുക"</string>
+    <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"വലിച്ചിടുന്നതിനുള്ള ഹാൻഡിൽ"</string>
+    <string msgid="6670819569745899763" name="m3c_bottom_sheet_expand_description">"ബോട്ടം ഷീറ്റ് വികസിപ്പിക്കുക"</string>
+    <string msgid="3010635850035863127" name="m3c_bottom_sheet_pane_title">"ബോട്ടം ഷീറ്റ്"</string>
+    <string msgid="8166741421776570875" name="m3c_date_input_headline">"നൽകിയ തീയതി"</string>
+    <string msgid="229313757840775812" name="m3c_date_input_headline_description">"നൽകിയ തീയതി: %1$s"</string>
+    <string msgid="6116910750161463197" name="m3c_date_input_invalid_for_pattern">"പ്രതീക്ഷിച്ച പാറ്റേണുമായി തീയതി പൊരുത്തപ്പെടുന്നില്ല: %1$s"</string>
+    <string msgid="2521768508935305279" name="m3c_date_input_invalid_not_allowed">"തീയതി അനുവദനീയമല്ല: %1$s"</string>
+    <string msgid="7052898923934555305" name="m3c_date_input_invalid_year_range">"പ്രതീക്ഷിക്കുന്ന കാലയളവിലെ വർഷമല്ല നൽകിയ തീയതിയുടേത് %1$s - %2$s"</string>
+    <string msgid="2895559812010326913" name="m3c_date_input_label">"തീയതി"</string>
+    <string msgid="1237013946323089826" name="m3c_date_input_no_input_description">"ഒന്നുമില്ല"</string>
+    <string msgid="7306227249789210568" name="m3c_date_input_title">"തീയതി തിരഞ്ഞെടുക്കുക"</string>
+    <string msgid="7605002211875882969" name="m3c_date_picker_headline">"തിരഞ്ഞെടുത്ത തീയതി"</string>
+    <string msgid="3664277305226978227" name="m3c_date_picker_headline_description">"നിലവിലെ തിരഞ്ഞെടുപ്പ്: %1$s"</string>
+    <string msgid="8436650776581492840" name="m3c_date_picker_navigate_to_year_description">"%1$s എന്ന വർഷത്തിലേക്ക് പോകുക"</string>
+    <string msgid="5811000998184572395" name="m3c_date_picker_no_selection_description">"ഒന്നുമില്ല"</string>
+    <string msgid="7813882352367152251" name="m3c_date_picker_scroll_to_earlier_years">"മുൻ വർഷങ്ങൾ കാണിക്കാൻ സ്ക്രോൾ ചെയ്യുക"</string>
+    <string msgid="5727367015496556177" name="m3c_date_picker_scroll_to_later_years">"പിന്നീടുള്ള വർഷങ്ങൾ കാണിക്കാൻ സ്ക്രോൾ ചെയ്യുക"</string>
+    <string msgid="1804346892470238807" name="m3c_date_picker_switch_to_calendar_mode">"കലണ്ടർ ഇൻപുട്ട് മോഡിലേക്ക് മാറുക"</string>
+    <string msgid="395627960681594326" name="m3c_date_picker_switch_to_day_selection">"വർഷം തിരഞ്ഞെടുക്കാൻ സ്വൈപ്പ് ചെയ്യുക അല്ലെങ്കിൽ ദിവസം തിരഞ്ഞെടുക്കുന്നതിലേക്ക് തിരികെ പോകാൻ ടാപ്പ് ചെയ്യുക"</string>
+    <string msgid="2219746470065162704" name="m3c_date_picker_switch_to_input_mode">"ടെക്‌സ്‌റ്റ് ഇൻപുട്ട് മോഡിലേക്ക് മാറുക"</string>
+    <string msgid="7142101321095356500" name="m3c_date_picker_switch_to_next_month">"അടുത്ത മാസത്തിലേക്ക് മാറ്റുക"</string>
+    <string msgid="228438865139394590" name="m3c_date_picker_switch_to_previous_month">"മുമ്പത്തെ മാസത്തിലേക്ക് മാറ്റുക"</string>
+    <string msgid="791651718641787594" name="m3c_date_picker_switch_to_year_selection">"വർഷം തിരഞ്ഞെടുക്കുന്നതിലേക്ക് മാറുക"</string>
+    <string msgid="7430790972741451689" name="m3c_date_picker_title">"തീയതി തിരഞ്ഞെടുക്കുക"</string>
+    <string msgid="3199387177749801575" name="m3c_date_picker_today_description">"ഇന്ന്"</string>
+    <string msgid="2068382232816991922" name="m3c_date_picker_year_picker_pane_title">"വർഷ പിക്കർ ദൃശ്യമാണ്"</string>
+    <string msgid="3190049423327661366" name="m3c_date_range_input_invalid_range_input">"തീയതി ശ്രേണി ഇൻപുട്ട് അസാധുവാണ്"</string>
+    <string msgid="3148384720560189467" name="m3c_date_range_input_title">"തീയതികൾ നൽകുക"</string>
+    <string msgid="2138321128465719402" name="m3c_date_range_picker_day_in_range">"പരിധിയിൽ"</string>
+    <string msgid="4947636797751277713" name="m3c_date_range_picker_end_headline">"അവസാനിക്കുന്ന തീയതി"</string>
+    <string msgid="602077859540990149" name="m3c_date_range_picker_scroll_to_next_month">"അടുത്ത മാസം കാണിക്കാൻ സ്ക്രോൾ ചെയ്യുക"</string>
+    <string msgid="4592174524846109496" name="m3c_date_range_picker_scroll_to_previous_month">"മുമ്പത്തെ മാസം കാണിക്കാൻ സ്ക്രോൾ ചെയ്യുക"</string>
+    <string msgid="4665981448952749820" name="m3c_date_range_picker_start_headline">"ആരംഭിക്കുന്ന തീയതി"</string>
+    <string msgid="3134165431120340385" name="m3c_date_range_picker_title">"തീയതികൾ തിരഞ്ഞെടുക്കുക"</string>
+    <string msgid="7617233117134790350" name="m3c_dialog">"ഡയലോഗ്"</string>
+    <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"ചുരുക്കിയത്"</string>
+    <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"വിപുലീകരിച്ചത്"</string>
+    <string msgid="8687821690726149911" name="m3c_dropdown_menu_toggle">"ഡ്രോപ്പ്ഡൗൺ മെനു ടോഗിൾ ചെയ്യുക"</string>
+    <string msgid="6152806324422087846" name="m3c_search_bar_search">"തിരയുക"</string>
+    <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"ഡിസ്‌മിസ് ചെയ്യുക"</string>
+    <string msgid="7655536806087401899" name="m3c_suggestions_available">"നിദ്ദേശങ്ങൾ ചുവടെയുണ്ട്"</string>
+    <string msgid="2786685010796619560" name="m3c_time_picker_am">"AM"</string>
+    <string msgid="2349193472625211372" name="m3c_time_picker_hour">"മണിക്കൂർ"</string>
+    <string msgid="9179527532316922345" name="m3c_time_picker_hour_24h_suffix">"%1$d മ."</string>
+    <string msgid="8876759303332837035" name="m3c_time_picker_hour_selection">"മണിക്കൂർ തിരഞ്ഞെടുക്കുക"</string>
+    <string msgid="3458167507790628988" name="m3c_time_picker_hour_suffix">"%1$d മണി"</string>
+    <string msgid="6973808109666874069" name="m3c_time_picker_hour_text_field">"മണിക്കൂർ നേരത്തേക്ക്"</string>
+    <string msgid="4313071914266462005" name="m3c_time_picker_minute">"മിനിറ്റ്"</string>
+    <string msgid="4699133535056739733" name="m3c_time_picker_minute_selection">"മിനിറ്റ് തിരഞ്ഞെടുക്കുക"</string>
+    <string msgid="5064177921781937179" name="m3c_time_picker_minute_suffix">"%1$d മിനിറ്റ്"</string>
+    <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"മിനിറ്റ് നേരത്തേക്ക്"</string>
+    <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"AM അല്ലെങ്കിൽ PM തിരഞ്ഞെടുക്കുക"</string>
+    <string msgid="6616362054113087709" name="m3c_time_picker_pm">"PM"</string>
+    <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"ടൂൾടിപ്പ് കാണിക്കുക"</string>
+    <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"ടൂൾടിപ്പ്"</string>
+    <string name="material_clock_toggle_content_description">AM അല്ലെങ്കിൽ PM തിരഞ്ഞെടുക്കുക</string>
+    <string name="material_hour_24h_suffix">%1$s മണി</string>
+    <string name="material_hour_selection">മണിക്കൂർ തിരഞ്ഞെടുക്കുക</string>
+    <string name="material_hour_suffix">%1$s മണി</string>
+    <string name="material_minute_selection">മിനിറ്റ് തിരഞ്ഞെടുക്കുക</string>
+    <string name="material_minute_suffix">%1$s മിനിറ്റ്</string>
+    <string name="material_slider_range_end">ശ്രേണിയുടെ അവസാനം</string>
+    <string name="material_slider_range_start">ശ്രേണിയുടെ ആരംഭം</string>
+    <string name="material_slider_value">മൂല്യം</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">‌സമയം നൽകുന്നതിന് ക്ലോക്ക് മോഡിലേക്ക് ‌മാറുക.</string>
+    <string name="material_timepicker_clock_mode_tooltip">ക്ലോക്ക് മോഡിലേക്ക് മാറുക</string>
+    <string name="material_timepicker_hour">മണിക്കൂര്‍</string>
+    <string name="material_timepicker_hour_error">മണിക്കൂർ 1–12 ആയിരിക്കണം</string>
+    <string name="material_timepicker_hour_error_24h">മണിക്കൂർ 0–23 ആയിരിക്കണം</string>
+    <string name="material_timepicker_minute">മിനിറ്റ്</string>
+    <string name="material_timepicker_minute_error">മിനിറ്റ് 0–59 ആയിരിക്കണം</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">സമയം തിരഞ്ഞെടുക്കുക</string>
+    <string name="material_timepicker_text_input_mode_description">സമയം നൽകുന്നതിന് ടെക്സ്റ്റ് ഇൻപുട്ട് ‌മോ‌ഡിലേക്ക് ‌മാറുക.</string>
+    <string name="material_timepicker_text_input_mode_tooltip">ടെക്‌സ്‌റ്റ് ഇൻപുട്ട് മോഡിലേക്ക് മാറുക</string>
+    <string msgid="5254852678218206889" name="move_to_empty_cell_description">"<ns1:g id="STRING">%3$s</ns1:g> എന്നതിലെ <ns1:g id="NUMBER_1">%2$s</ns1:g>-ാം കോളത്തിലെ <ns1:g id="NUMBER_0">%1$s</ns1:g>-ാം വരിയിലേക്ക് നീക്കുക"</string>
+    <string msgid="6295412897075147808" name="move_to_hotseat_position">"ഇഷ്‌ടമുള്ള <ns1:g id="NUMBER">%1$s</ns1:g> സ്ഥാനത്തേക്ക് നീക്കുക"</string>
+    <string msgid="6750008980455459790" name="move_to_position">"<ns1:g id="NUMBER">%1$s</ns1:g>-ലേക്ക് നീക്കുക"</string>
+    <string msgid="6898038085516271325" name="msg_disabled_by_admin">"അഡ്മിൻ പ്രവർത്തനരഹിതമാക്കിയിരിക്കുന്നു"</string>
+    <string msgid="281113995110910548" name="msg_missing_notification_access">"അറിയിപ്പ് ഡോട്ടുകൾ കാണിക്കുന്നതിന്, <ns1:g id="NAME">%1$s</ns1:g> എന്നയാളിനായുള്ള ആപ്പ് അറിയിപ്പുകൾ ഓണാക്കുക"</string>
+    <string name="mtrl_badge_numberless_content_description">പുതിയ അറിയിപ്പ്</string>
+    <string name="mtrl_button_collapsed_content_description">ചുരുക്കി</string>
+    <string name="mtrl_button_expanded_content_description">വിപുലീകരിച്ചു</string>
+    <string name="mtrl_button_overflow_icon_content_description">ഓവർഫ്ലോ മെനു</string>
+    <string name="mtrl_button_snackbar_close_content_description">അടയ്ക്കുക</string>
+    <string name="mtrl_checkbox_state_description_checked">ചെക്ക് മാർക്കിട്ടു</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">ഭാഗികമായി ചെക്ക് മാർക്കിട്ടു</string>
+    <string name="mtrl_checkbox_state_description_unchecked">ചെക്ക് മാർക്കിട്ടിട്ടില്ല</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s നീക്കം ചെയ്യുക</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">%1$d-ലധികം പുതിയ അറിയിപ്പുകൾ</string>
+    <string name="mtrl_picker_a11y_next_month">അടുത്ത മാസത്തിലേക്ക് മാറ്റുക</string>
+    <string name="mtrl_picker_a11y_prev_month">മുമ്പത്തെ മാസത്തിലേക്ക് മാറ്റുക</string>
+    <string name="mtrl_picker_announce_current_range_selection">തിരഞ്ഞെടുത്ത ആരംഭിക്കുന്ന തീയതി: %1$s – തിരഞ്ഞെടുത്ത അവസാനിക്കുന്ന തീയതി: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">നിലവിൽ തിരഞ്ഞെടുത്തത്: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">ഒന്നുമില്ല</string>
+    <string name="mtrl_picker_cancel">റദ്ദാക്കുക</string>
+    <string name="mtrl_picker_confirm">ശരി</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">തീയതി തിരഞ്ഞെടുക്കുക</string>
+    <string name="mtrl_picker_date_header_unselected">തിരഞ്ഞെടുത്ത തീയതി</string>
+    <string name="mtrl_picker_day_of_week_column_header">%1$s</string>
+    <string name="mtrl_picker_end_date_description">അവസാനിക്കുന്ന തീയതി: %1$s</string>
+    <string name="mtrl_picker_invalid_format">അസാധുവായ ഫോർമാറ്റ്.</string>
+    <string name="mtrl_picker_invalid_format_example">ഉദാഹരണം: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">%1$s ഉപയോഗിക്കുക</string>
+    <string name="mtrl_picker_invalid_range">അസാധുവായ ശ്രേണി.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">നിലവിലെ വർഷം %1$d-ലേക്ക് മാറ്റുക</string>
+    <string name="mtrl_picker_navigate_to_year_description">%1$d വർഷത്തിലേക്ക് നാവിഗേറ്റ് ചെയ്യുക</string>
+    <string name="mtrl_picker_next_month_tooltip">അടുത്ത മാസം</string>
+    <string name="mtrl_picker_out_of_range">ശ്രേണിക്ക് പുറത്താണ്: %1$s</string>
+    <string name="mtrl_picker_pane_title_calendar_view">കലണ്ടർ കാഴ്‌ച</string>
+    <string name="mtrl_picker_pane_title_year_view">വർഷ കാഴ്‌ച</string>
+    <string name="mtrl_picker_prev_month_tooltip">മുമ്പത്തെ മാസം</string>
+    <string name="mtrl_picker_range_header_only_end_selected">ആരംഭിക്കുന്ന തീയതി – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – അവസാനിക്കുന്ന തീയതി</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">ശ്രേണി തിരഞ്ഞെടുക്കുക</string>
+    <string name="mtrl_picker_range_header_unselected">ആരംഭിക്കുന്ന തീയതി – അവസാനിക്കുന്ന തീയതി</string>
+    <string name="mtrl_picker_save">സംരക്ഷിക്കുക</string>
+    <string name="mtrl_picker_start_date_description">ആരംഭിക്കുന്ന തീയതി: %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">തീയതി</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">അവസാനിക്കുന്ന തീയതി</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">ആരംഭിക്കുന്ന തീയതി</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
+    <string name="mtrl_picker_today_description">ഇന്ന് %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">കലണ്ടർ ഇൻപുട്ട് മോഡിലേക്ക് മാറുക</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode_tooltip">കലണ്ടറിലേക്ക് മാറുക</string>
+    <string name="mtrl_picker_toggle_to_day_selection">കലണ്ടർ കാഴ്‌ചയിലേക്ക് മാറുക</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">ടെക്‌സ്‌റ്റ് ഇൻപുട്ട് മോഡിലേക്ക് മാറുക</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode_tooltip">ടെക്സ്റ്റ് ഇൻപുട്ടിലേക്ക് മാറുക</string>
+    <string name="mtrl_picker_toggle_to_year_selection">വർഷ കാഴ്‌ചയിലേക്ക് മാറുക</string>
+    <string name="mtrl_timepicker_cancel">റദ്ദാക്കുക</string>
+    <string name="mtrl_timepicker_confirm">ശരി</string>
+    <string msgid="542007171693138492" name="navigation_menu">"നാവിഗേഷൻ മെനു"</string>
+    <string msgid="6756167867113741310" name="news_widget_recommendation_category_label">"വാർത്തകളും മാസികകളും"</string>
+    <string msgid="3787956167293097509" name="no_search_results">"വിജറ്റുകളോ കുറുക്കുവഴികളോ കണ്ടെത്തിയില്ല"</string>
+    <string msgid="4337693382501046170" name="no_widgets_available">"വിജറ്റുകളും കുറുക്കുവഴികളും ലഭ്യമല്ല"</string>
+    <string msgid="6610465462668679431" name="not_selected">"തിരഞ്ഞെടുത്തില്ല"</string>
+    <string msgid="6573031135582639649" name="not_set">"സജ്ജീകരിച്ചിട്ടില്ല"</string>
+    <string msgid="1760796511504341095" name="notification_dots_desc_off">"ഓഫാണ്"</string>
+    <string msgid="1679848116452218908" name="notification_dots_desc_on">"ഓണാണ്"</string>
+    <string msgid="4284221181793592871" name="notification_dots_service_title">"അറിയിപ്പ് ഡോട്ടുകൾ കാണിക്കുക"</string>
+    <string msgid="9062440428204120317" name="notification_dots_title">"അറിയിപ്പ് ഡോട്ടുകൾ"</string>
+    <string msgid="1404149926117359025" name="notifications_header">"അറിയിപ്പുകൾ"</string>
+    <string msgid="5555987036267226245" name="others_widget_recommendation_category_label">"നിങ്ങൾക്കായി നിർദ്ദേശിച്ചവ"</string>
+    <string msgid="6455557115204099579" name="out_of_space">"ഈ ഹോം സ്ക്രീനിൽ ഇടമില്ല"</string>
+    <string msgid="7592128424511031410" name="package_state_unknown">"അജ്ഞാതം"</string>
+    <string name="password_toggle_content_description">പാസ്‌വേഡ് കാണിക്കുക</string>
+    <string msgid="923466509822011139" name="permdesc_install_shortcut">"ഉപയോക്തൃ ഇടപെടൽ ഇല്ലാതെ കുറുക്കുവഴികൾ ചേർക്കാൻ അപ്ലിക്കേഷനെ അനുവദിക്കുന്നു."</string>
+    <string msgid="4208061150510996676" name="permdesc_read_settings">"ഹോമിലെ ക്രമീകരണങ്ങളും കുറുക്കുവഴികളും വായിക്കാൻ ആപ്പിനെ അനുവദിക്കുന്നു."</string>
+    <string msgid="726859348127868466" name="permdesc_write_settings">"ഹോമിലെ ക്രമീകരണങ്ങളും കുറുക്കുവഴികളും മാറ്റാൻ ആപ്പിനെ അനുവദിക്കുന്നു."</string>
+    <string msgid="5632423390354674437" name="permlab_install_shortcut">"കുറുക്കുവഴികൾ ഇൻസ്റ്റാളുചെയ്യുക"</string>
+    <string msgid="5136500343007704955" name="permlab_read_settings">"ഹോം ക്രമീകരണവും കുറുക്കുവഴികളും വായിക്കുക"</string>
+    <string msgid="4820028712156303762" name="permlab_write_settings">"ഹോം ക്രമീകരണവും കുറുക്കുവഴികളും എഴുതുക"</string>
+    <string msgid="4196423321649756498" name="pin_prediction">"പ്രവചനം പിൻ ചെയ്യുക"</string>
+    <string msgid="6685851473431805375" name="preference_copied">"\"<ns1:g id="SUMMARY">%1$s</ns1:g>\" ക്ലിപ്‌ബോർഡിലേക്ക് പകർത്തി."</string>
+    <string msgid="2359721649407947001" name="private_space_label">"സ്വകാര്യ സ്പേസ്"</string>
+    <string msgid="9203933341714508907" name="private_space_secondary_label">"സജ്ജീകരിക്കാനോ തുറക്കാനോ ടാപ്പ് ചെയ്യുക"</string>
+    <string msgid="3811812719618323750" name="productivity_widget_recommendation_category_label">"ആവശ്യമായവ"</string>
+    <string msgid="3254274107740952556" name="ps_add_button_content_description">"സ്വകാര്യ സ്പേസിലേക്ക് ആപ്പുകൾ ഇൻസ്റ്റാൾ ചെയ്യുക"</string>
+    <string msgid="8127988716897128773" name="ps_add_button_label">"ഇൻസ്റ്റാൾ ചെയ്യുക"</string>
+    <string msgid="5961993384382649530" name="ps_container_lock_button_content_description">"സ്വകാര്യം, ലോക്ക് ചെയ്തു."</string>
+    <string msgid="2640257399982364682" name="ps_container_lock_title">"ലോക്ക് ചെയ്യുക"</string>
+    <string msgid="6059734123353320479" name="ps_container_settings">"സ്വകാര്യ സ്‌പേസ് ക്രമീകരണം"</string>
+    <string msgid="4391796149519594205" name="ps_container_title">"സ്വകാര്യം"</string>
+    <string msgid="8667331812048014412" name="ps_container_transition">"പ്രൈവറ്റ് സ്‌പേസ് ട്രാൻസിഷനിംഗ്"</string>
+    <string msgid="9181551784092204234" name="ps_container_unlock_button_content_description">"സ്വകാര്യം, അൺലോക്ക് ചെയ്തിരിക്കുന്നു."</string>
+    <string msgid="5941395253238309765" name="range_end">"ശ്രേണിയുടെ അവസാനം"</string>
+    <string msgid="7097486360902471446" name="range_start">"ശ്രേണിയുടെ ആരംഭം"</string>
+    <string msgid="6690461455618725183" name="recent_task_option_split_screen">"സ്‌ക്രീൻ വിഭജന മോഡ്"</string>
+    <string msgid="6336962690888067057" name="reconfigurable_widget_education_tip">"വിജറ്റ് ക്രമീകരണം മാറ്റാൻ ടാപ്പ് ചെയ്യുക"</string>
+    <string msgid="1383965239183576790" name="remote_action_failed">"പരാജയപ്പെട്ടു: <ns1:g id="WHAT">%1$s</ns1:g>"</string>
+    <string msgid="7812859488053230776" name="remove_drop_target_label">"നീക്കംചെയ്യുക"</string>
+    <string msgid="9160126848219158407" name="safemode_shortcut_error">"ഡൗൺലോഡുചെയ്‌ത അപ്ലിക്കേഷൻ സുരക്ഷാ മോഡിൽ പ്രവർത്തനരഹിതമാക്കി"</string>
+    <string msgid="4863470563535682004" name="safemode_widget_error">"സുരക്ഷിത മോഡിൽ വിജറ്റുകൾ പ്രവർത്തനരഹിതമാക്കി"</string>
+    <string msgid="5647523853662686243" name="save_app_pair">"ആപ്പ് ജോടി സംരക്ഷിക്കുക"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"തിരയുക"</string>
+    <string name="searchview_clear_text_content_description">ടെക്‌സ്‌റ്റ് മായ്‌ക്കുക</string>
+    <string name="searchview_navigation_content_description">മടങ്ങുക</string>
+    <string msgid="6043586758067023" name="selected">"തിരഞ്ഞെടുത്തു"</string>
+    <string msgid="5808906607627586381" name="set_default_home_app">"ക്രമീകരണത്തിൽ <ns1:g id="LAUNCHER_NAME">%1$s</ns1:g> എന്നത് ഡിഫോൾട്ട് ഹോം ആപ്പായി സജ്ജീകരിക്കുക"</string>
+    <string msgid="8873672322605444408" name="settings_button_text">"ക്രമീകരണം"</string>
+    <string msgid="2536503539825726397" name="shortcut_not_available">"കുറുക്കുവഴി ലഭ്യമല്ല"</string>
+    <string msgid="8471715556199592381" name="shortcuts_count">"{count,plural, =1{# കുറുക്കുവഴി}other{# കുറുക്കുവഴികൾ}}"</string>
+    <string name="side_sheet_accessibility_pane_title">സൈഡ് ഷീറ്റ്</string>
+    <string msgid="2792228137354697160" name="snackbar_pane_title">"മുന്നറിയിപ്പ്"</string>
+    <string msgid="689147679536384717" name="social_widget_recommendation_category_label">"സാമൂഹികം"</string>
+    <string msgid="5475288491241414932" name="split_app_info_accessibility">"%1$s എന്നതിന്റെ ആപ്പ് വിവരങ്ങൾ"</string>
+    <string msgid="7214375263347964093" name="split_app_usage_settings">"%1$s എന്നതിനുള്ള ഉപയോഗ ക്രമീകരണം"</string>
+    <string msgid="4139871816613051306" name="state_empty">"ശൂന്യം"</string>
+    <string msgid="5834637030682409883" name="state_off">"ഓഫാണ്"</string>
+    <string msgid="1490883874751719580" name="state_on">"ഓണാണ്"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="8216961355289236794" name="styles_wallpaper_button_text">"വാൾപേപ്പറും സ്‌റ്റൈലും"</string>
+    <string msgid="1844314680798145222" name="suggested_widgets_header_title">"നിർദ്ദേശങ്ങൾ"</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string msgid="2561197295334830845" name="switch_role">"മാറുക"</string>
+    <string msgid="1672349317127674378" name="tab">"ടാബ്"</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g> ശതമാനം."</string>
+    <string msgid="1376365968844349552" name="title_change_settings">"ക്രമീകരണം മാറ്റുക"</string>
+    <string msgid="7503287056163941064" name="title_missing_notification_access">"അറിയിപ്പിനായുള്ള ആക്‌സസ് ആവശ്യമാണ്"</string>
+    <string msgid="3765533235322692011" name="tooltip_description">"ടൂൾടിപ്പ്"</string>
+    <string msgid="3124740595719787496" name="tooltip_label">"ടൂൾടിപ്പ് കാണിക്കുക"</string>
+    <string msgid="4151576204245173321" name="undo">"പഴയപടിയാക്കുക"</string>
+    <string msgid="4722034217958379417" name="uninstall_drop_target_label">"അൺഇൻസ്റ്റാൾ"</string>
+    <string msgid="8423460530441627982" name="uninstall_private_system_shortcut_label">"ആപ്പ് അൺഇൻസ്റ്റാൾ ചെയ്യുക"</string>
+    <string msgid="4172046090762920660" name="uninstall_system_app_text">"ഇതൊരു സിസ്‌റ്റം അപ്ലിക്കേഷനായതിനാൽ അൺഇൻസ്‌റ്റാളുചെയ്യാനാവില്ല."</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"ഓഫാണ്"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"ഓൺ"</string>
+    <string msgid="3640149169885301790" name="widget_accessible_dims_format">"%1$d വീതിയും %2$d ഉയരവും"</string>
+    <string msgid="1810530016360039643" name="widget_add_button_content_description">"<ns1:g id="WIDGET_NAME">%1$s</ns1:g> വിജറ്റ് ചേർക്കുക"</string>
+    <string msgid="2761267068711937179" name="widget_add_button_label">"ചേർക്കുക"</string>
+    <string msgid="2880537293434387943" name="widget_button_text">"വിജറ്റുകൾ"</string>
+    <string msgid="8894438636213590446" name="widget_category_conversations">"സംഭാഷണങ്ങൾ"</string>
+    <string msgid="3469689394504266039" name="widget_category_note_taking">"കുറിപ്പ് രേഖപ്പെടുത്തൽ"</string>
+    <string msgid="2370757736025621599" name="widget_dims_format">"%1$d × %2$d"</string>
+    <string msgid="1673313931455067502" name="widget_picker_right_pane_accessibility_title">"വലതുവശത്ത് <ns1:g id="SELECTED_HEADER">%1$s</ns1:g> വിജറ്റുകളും ഇടതുവശത്ത് തിരയൽ, ഓപ്ഷനുകൾ എന്നിവയും"</string>
+    <string msgid="9045841361655787574" name="widget_preview_context_description">"<ns1:g id="WIDGET_NAME">%1$s</ns1:g> വിജറ്റ്"</string>
+    <string msgid="8489038126122831595" name="widget_preview_name_and_dims_content_description">"<ns1:g id="WIDGET_NAME">%1$s</ns1:g> വിജറ്റ്, %2$d വീതി %3$d ഉയരം"</string>
+    <string msgid="8811472721881205250" name="widget_reconfigure_button_content_description">"വിജറ്റ് ക്രമീകരണം മാറ്റുക"</string>
+    <string msgid="9130327887929620" name="widget_resized">"വീതി <ns1:g id="NUMBER_0">%1$s</ns1:g> ഉയരം <ns1:g id="NUMBER_1">%2$s</ns1:g>-ലേക്ക് വിഡ്‌ജെറ്റിന്റെ വലുപ്പം മാറ്റി"</string>
+    <string msgid="7209136747878365116" name="widgets_and_shortcuts_count">"<ns1:g id="WIDGETS_COUNT">%1$s</ns1:g>, <ns1:g id="SHORTCUTS_COUNT">%2$s</ns1:g>"</string>
+    <string msgid="6467746476364652096" name="widgets_count">"{count,plural, =1{# വിജറ്റ്}other{# വിജറ്റുകൾ}}"</string>
+    <string msgid="5766167035728653605" name="widgets_full_sheet_cancel_button_description">"സെർച്ച് ബോക്‌സിൽ നിന്ന് ടെക്‌സ്‌റ്റ് മായ്‌ക്കുക"</string>
+    <string msgid="2743540105607120182" name="widgets_full_sheet_personal_tab">"വ്യക്തിപരം"</string>
+    <string msgid="8484659090860596457" name="widgets_full_sheet_search_bar_hint">"തിരയുക"</string>
+    <string msgid="3767150027110633765" name="widgets_full_sheet_work_tab">"ജോലി"</string>
+    <string msgid="796804551140113767" name="widgets_list">"വിജറ്റുകളുടെ ലിസ്‌റ്റ്"</string>
+    <string msgid="6141506579418771922" name="widgets_list_closed">"വിജറ്റുകളുടെ ലിസ്‌റ്റ് അവസാനിപ്പിച്ചു"</string>
+    <string msgid="1736198302467317371" name="work_apps_enable_btn_text">"താൽക്കാലികമായി നിർത്തിയത് മാറ്റുക"</string>
+    <string msgid="4669288269140620646" name="work_apps_pause_btn_text">"ഔദ്യോഗിക ആപ്പുകൾ താൽക്കാലികമായി നിർത്തുക"</string>
+    <string msgid="261634750995824906" name="work_apps_paused_body">"നിങ്ങൾക്ക് അറിയിപ്പുകൾ അയയ്ക്കാനോ ബാറ്ററി ഉപയോഗിക്കാനോ ലൊക്കേഷൻ ആക്‌സസ് ചെയ്യാനോ നിങ്ങളുടെ ഔദ്യോഗിക ആപ്പുകൾക്ക് കഴിയില്ല"</string>
+    <string msgid="6377476824357318532" name="work_apps_paused_edu_accept">"മനസ്സിലായി"</string>
+    <string msgid="8872412121608402058" name="work_apps_paused_edu_banner">"ഔദ്യോഗിക ആപ്പുകൾക്ക് ബാഡ്‌ജ് നൽകിയിരിക്കുന്നു, അവ നിങ്ങളുടെ ഐടി അഡ്‌മിന് കാണാനും കഴിയും"</string>
+    <string msgid="1687828929959237477" name="work_apps_paused_info_body">"ഔദ്യോഗിക ആപ്പുകളിൽ നിന്ന് നിങ്ങൾക്ക് അറിയിപ്പുകളൊന്നും ലഭിക്കില്ല"</string>
+    <string msgid="8358872357502756790" name="work_apps_paused_telephony_unavailable_body">"വർക്ക് ആപ്പുകളിൽ നിന്ന് നിങ്ങൾക്ക് ഫോൺ കോളുകളും ടെക്സ്റ്റ് മെസേജുകളും അറിയിപ്പുകളും ലഭിക്കില്ല"</string>
+    <string msgid="3040901117349444598" name="work_apps_paused_title">"ഔദ്യോഗിക ആപ്പുകൾ തൽക്കാലം നിർത്തിയിരിക്കുന്നു"</string>
+    <string msgid="3753320833950115786" name="work_folder_name">"ഔദ്യോഗികം"</string>
+    <string msgid="6069788082535149071" name="work_profile_edu_accept">"മനസ്സിലായി"</string>
+    <string msgid="7895468576497746520" name="work_profile_edu_work_apps">"ഔദ്യോഗിക ആപ്പുകൾക്ക് ബാഡ്‌ജ് നൽകിയിരിക്കുന്നു, അവ നിങ്ങളുടെ ഐടി അഡ്‌മിന് കാണാനുമാകും"</string>
+    <string msgid="3081029915775481146" name="work_profile_toggle_label">"ഔദ്യോഗിക പ്രൊഫൈൽ"</string>
+    <string msgid="257366611030256142" name="workspace_new_page">"പുതിയ ഹോം സ്ക്രീൻ പേജ്"</string>
+    <string msgid="8458889198184077399" name="workspace_scroll_format">"ഹോം സ്‌ക്രീൻ %1$d / %2$d"</string>
+</resources>

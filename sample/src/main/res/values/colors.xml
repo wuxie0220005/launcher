@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="sample_app_bg">#FFF4F6FB</color>
+    <color name="launcher_icon_bg">#FF5E78FF</color>
+    <color name="desktop_scan">#FF4C6FFF</color>
+    <color name="desktop_text">#FF2BB673</color>
+    <color name="desktop_sign">#FFFF8A3D</color>
+    <color name="desktop_id">#FF7B61FF</color>
+</resources>

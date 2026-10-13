@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="desktop_id">#FF7B61FF</color>
+    <color name="desktop_scan">#FF4C6FFF</color>
+    <color name="desktop_sign">#FFFF8A3D</color>
+    <color name="desktop_text">#FF2BB673</color>
+    <color name="launcher_icon_bg">#FF5E78FF</color>
+    <color name="sample_app_bg">#FFF4F6FB</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name"> Launcher Sample</string>
+    <string name="back_home">Back to home</string>
+    <string name="desktop_promotion_1">Promotion 1</string>
+    <string name="desktop_promotion_2">Promotion 2</string>
+    <string name="desktop_promotion_3">Promotion 3</string>
+    <string name="desktop_promotion_4">Promotion 4</string>
+    <string name="desktop_shortcut_1">Shortcut 1</string>
+    <string name="desktop_shortcut_2">Shortcut 2</string>
+    <string name="desktop_shortcut_3">Shortcut 3</string>
+    <string name="desktop_shortcut_4">Shortcut 4</string>
+    <string name="detail_body">Do not call setOnAppHome. Home key opens desktop and finishes this page.</string>
+    <string name="detail_title">Second Activity</string>
+    <string name="drawer_background_custom">Custom All Apps background applied</string>
+    <string name="drawer_background_default">All Apps background follows the theme</string>
+    <string name="guide_body">Swipe right to open App.\nSwipe up for All Apps.\nTap, Got it, or Back to stay on desktop.</string>
+    <string name="guide_got_it">Got it</string>
+    <string name="guide_title">Desktop guide</string>
+    <string name="home_held">Already default home. Swipe left or tap below to open desktop.</string>
+    <string name="home_not_held">Set this app as Home to use the custom desktop.</string>
+    <string name="in_page_body">Same Activity. Route listener turns off desktop swipe; back pops home.</string>
+    <string name="in_page_title">In-app second page</string>
+    <string name="last_jump">Last jump: %1$s</string>
+    <string name="last_shortcut">Last desktop shortcut: %1$s</string>
+    <string name="launcher_component" translatable="false">com.fhdfh.launcher.sample/com.fhdfh.launcher.sample.SampleHostActivity</string>
+    <string name="open_desktop">Open desktop</string>
+    <string name="open_detail_activity">Open second Activity</string>
+    <string name="open_in_page">Open in-app second page</string>
+    <string name="placeholder_all_apps_ad">All Apps native ad placeholder</string>
+    <string name="placeholder_desktop_ad">Desktop native ad placeholder</string>
+    <string name="replay_desktop_guide">Replay desktop guide</string>
+    <string name="sample_title_compose">Launcher sample host (Compose)</string>
+    <string name="sample_title_view">Launcher sample host (View)</string>
+    <string name="set_as_home">Set as default home</string>
+    <string name="simulate_notify">Simulate notification</string>
+    <string name="switch_to_compose">Switch to Compose UI</string>
+    <string name="switch_to_view">Switch to View UI</string>
+    <string name="toast_guide_need_home">Set as default home first</string>
+    <string name="toast_home_already">Already default home</string>
+    <string name="toast_home_granted">Default home granted</string>
+    <string name="toast_notify">Opened from notification extra</string>
+    <string name="toast_open_self">Opened host app from All Apps</string>
+    <string name="toast_shortcut">Desktop shortcut: %1$s</string>
+    <string name="toggle_drawer_background">Toggle All Apps background</string>
+    <style name="AppLaunchTheme" parent="@style/LauncherTheme">
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:windowShowWallpaper">false</item>
+        <item name="android:windowIsTranslucent">false</item>
+    </style>
+    <style name="Theme.SampleHost" parent="Theme.Material3.DayNight.NoActionBar"/>
+</resources>

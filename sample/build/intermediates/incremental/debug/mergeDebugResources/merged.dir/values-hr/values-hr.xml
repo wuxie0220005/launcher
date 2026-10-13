@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d nova obavijest</item>
+    <item quantity="few">%d nove obavijesti</item>
+    <item quantity="other">%d novih obavijesti</item>
+  </plurals>
+    <string msgid="7610119707847920412" name="abandoned_clean_this">"Ukloni"</string>
+    <string msgid="3990027586878167529" name="abandoned_promise_explanation">"Aplikacija ove ikone nije instalirana. Možete je ukloniti ili potražiti aplikaciju i instalirati je ručno."</string>
+    <string msgid="7096178467971716750" name="abandoned_promises_title">"Ta aplikacija nije instalirana"</string>
+    <string msgid="891119232568284442" name="abandoned_search">"Traži"</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Idi na početnu"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Natrag"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Više opcija"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Gotovo"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Prikaži sve"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Odabir aplikacije"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"ISKLJUČENO"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"UKLJUČENO"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"svemir"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Pretražite…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Izbriši upit"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Upit za pretraživanje"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Pretraži"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Pošalji upit"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Glasovno pretraživanje"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Dijeli s"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Dijeli putem aplikacije <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="5024599872061409708" name="abc_slice_permission_allow">"Dopusti"</string>
+    <string msgid="5696872682700058611" name="abc_slice_permission_checkbox">"Dopusti aplikaciji <ns1:g id="APP">%1$s</ns1:g> da prikazuje isječke iz bilo koje aplikacije"</string>
+    <string msgid="3819478292430407705" name="abc_slice_permission_deny">"Odbij"</string>
+    <string msgid="4525743640399572811" name="abc_slice_permission_text_1">"– može čitati informacije aplikacije <ns1:g id="APP">%1$s</ns1:g>"</string>
+    <string msgid="7323565634860251794" name="abc_slice_permission_text_2">"– može vršiti radnje u aplikaciji <ns1:g id="APP">%1$s</ns1:g>"</string>
+    <string msgid="4175332421259324948" name="abc_slice_permission_title">"Želite li dopustiti aplikaciji <ns1:g id="APP_0">%1$s</ns1:g> da prikazuje isječke aplikacije <ns1:g id="APP_2">%2$s</ns1:g>?"</string>
+    <string msgid="3604847235923472451" name="abc_slices_permission_request">"<ns1:g id="APP_0">%1$s</ns1:g> želi prikazivati isječke aplikacije <ns1:g id="APP_2">%2$s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Sažmi"</string>
+    <string msgid="2277148124685870734" name="accessibility_close">"Zatvori"</string>
+    <string name="accessibility_smartspace_page">Stranica %1$d od %2$d</string>
+    <string msgid="215894119683164916" name="action_add_to_workspace">"Dodajte na početni zaslon"</string>
+    <string msgid="282377193880900022" name="action_decrease_height">"Smanjenje visine"</string>
+    <string msgid="1374549771083094654" name="action_decrease_width">"Smanjenje širine"</string>
+    <string msgid="2864038805849372848" name="action_deep_shortcut">"Prečaci"</string>
+    <string msgid="5909461085055959187" name="action_dismiss_notification">"Odbaci"</string>
+    <string msgid="459390020612501122" name="action_increase_height">"Povećanje visine"</string>
+    <string msgid="8773715375078513326" name="action_increase_width">"Povećanje širine"</string>
+    <string msgid="4339390619886385032" name="action_move">"Premještanje stavke"</string>
+    <string msgid="2170188780612570250" name="action_move_here">"Premjesti stavku ovdje"</string>
+    <string msgid="39528912300293768" name="action_move_to_workspace">"Premjestite na početni zaslon"</string>
+    <string msgid="1802976324781771067" name="action_resize">"Promjena veličine"</string>
+    <string msgid="7456344436509528827" name="activity_not_available">"Aplikacija nije dostupna"</string>
+    <string msgid="8071924732094499514" name="activity_not_found">"Aplikacija nije instalirana."</string>
+    <string msgid="8730547755622776606" name="add_item_request_drag_hint">"Dodirnite i zadržite widget da biste ga pomicali po početnom zaslonu"</string>
+    <string msgid="9040534766770853243" name="add_to_folder">"Dodavanje u mapu: <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="4534929978967147231" name="add_to_folder_with_app">"Dodavanje u mapu s aplikacijom <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="9168649446635919791" name="add_to_home_screen">"Dodaj na početni zaslon"</string>
+    <string msgid="4793259502305558003" name="added_to_folder">"Stavka dodana u mapu"</string>
+    <string msgid="4451545765448884415" name="added_to_home_screen_accessibility_text">"Widget <ns1:g id="WIDGET_NAME">%1$s</ns1:g> dodan je na početni zaslon"</string>
+    <string msgid="8130441508702294465" name="all_apps_button_label">"Popis aplikacija"</string>
+    <string msgid="1315764287305224468" name="all_apps_button_personal_label">"Popis osobnih aplikacija"</string>
+    <string msgid="7270707118948892488" name="all_apps_button_work_label">"Popis radnih aplikacija"</string>
+    <string msgid="5015784846527570951" name="all_apps_label">"Sve aplikacije"</string>
+    <string msgid="5813968043155271636" name="all_apps_loading_message">"Učitavanje aplikacija…"</string>
+    <string msgid="3200346862396363786" name="all_apps_no_search_results">"Nema aplikacija podudarnih s upitom \"<ns1:g id="QUERY">%1$s</ns1:g>\""</string>
+    <string msgid="4190252696685155002" name="all_apps_personal_tab">"Osobno"</string>
+    <string msgid="1390553134053255246" name="all_apps_search_bar_hint">"Pretraži aplikacije"</string>
+    <string msgid="5889367432531296759" name="all_apps_search_results">"Rezultati pretraživanja"</string>
+    <string msgid="4884822796154055118" name="all_apps_work_tab">"Posao"</string>
+    <string msgid="8662546029078692509" name="allow_rotation_desc">"Kada se telefon zakrene"</string>
+    <string msgid="7222049633713050106" name="allow_rotation_title">"Dopusti zakretanje početnog zaslona"</string>
+    <string msgid="8719607706653693137" name="androidx_compose_foundation_autofill">"Automatsko popunjavanje"</string>
+    <string msgid="1150566100598813236" name="androidx_compose_ui_autofill">"Automatsko popunjavanje"</string>
+    <string msgid="7717956158562544081" name="app_archived_title">"Aplikacija <ns1:g id="NAME">%1$s</ns1:g> je arhivirana. Dodirnite da biste je preuzeli i vratili."</string>
+    <string msgid="8336702962104482644" name="app_downloading_title">"Preuzimanje aplikacije <ns1:g id="NAME">%1$s</ns1:g>, dovršeno <ns1:g id="PROGRESS">%2$s</ns1:g>"</string>
+    <string msgid="692894985365717661" name="app_info_drop_target_label">"Podaci o aplikaciji"</string>
+    <string msgid="5864044122733792085" name="app_installing_title">"Instaliranje aplikacije <ns1:g id="NAME">%1$s</ns1:g>, <ns1:g id="PROGRESS">%2$s</ns1:g> dovršeno"</string>
+    <string msgid="4045241727446873529" name="app_pair_default_title">"<ns1:g id="APP1">%1$s</ns1:g> | <ns1:g id="APP2">%2$s</ns1:g>"</string>
+    <string msgid="8134106404716224054" name="app_pair_name_format">"Par aplikacija: <ns1:g id="APP1">%1$s</ns1:g> i <ns1:g id="APP2">%2$s</ns1:g>"</string>
+    <string msgid="4588897528143807002" name="app_pair_needs_unfold">"Otvorite uređaj da biste upotrebljavali ovaj par aplikacija"</string>
+    <string msgid="3556767440808032031" name="app_pair_not_available">"Par aplikacija nije dostupan"</string>
+    <string msgid="3446551575502685376" name="app_pair_unlaunchable_at_screen_size">"Taj par aplikacija nije podržan na ovom uređaju"</string>
+    <string msgid="7053938513995617849" name="app_waiting_download_title">"Čekanje na instaliranje aplikacije <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="7117251166066978730" name="auto_add_shortcuts_description">"Za nove aplikacije"</string>
+    <string msgid="4926805029653694105" name="auto_add_shortcuts_label">"Dodaj ikone aplikacija na početni zaslon"</string>
+    <string name="bottomsheet_action_collapse">Sažmi</string>
+    <string name="bottomsheet_action_collapse_description">Sažmite donju tablicu</string>
+    <string name="bottomsheet_action_expand">Proširi</string>
+    <string name="bottomsheet_action_expand_description">Proširite donju tablicu</string>
+    <string name="bottomsheet_action_expand_halfway">Proširi donju polovicu</string>
+    <string name="bottomsheet_action_half_expand_description">Djelomično proširite donju tablicu</string>
+    <string name="bottomsheet_drag_handle_content_description">Marker za povlačenje</string>
+    <string name="bottomsheet_state_collapsed">Sažeto</string>
+    <string name="bottomsheet_state_expanded">Prošireno</string>
+    <string name="bottomsheet_state_half_expanded">Pola prošireno</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Odgovori"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Videozapis"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Odbij"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Prekini"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Dolazni poziv"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Poziv u tijeku"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Filtriranje dolaznog poziva"</string>
+    <string name="character_counter_content_description">Uneseno znakova: %1$d od %2$d</string>
+    <string name="character_counter_overflowed_content_description">Premašeno je ograničenje broja znakova: %1$d od %2$d</string>
+    <string name="clear_text_end_icon_content_description">Brisanje teksta</string>
+    <string msgid="406453423630273620" name="close_drawer">"Zatvaranje izbornika za navigaciju"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"Zatvaranje lista"</string>
+    <string msgid="6083905920877235314" name="copy">"Kopiraj"</string>
+    <string msgid="4050141361160214248" name="create_folder_with">"Izrada mape pomoću stavke: <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="8038256446254964252" name="default_error_message">"Nevažeći unos"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"Skočni prozor"</string>
+    <string msgid="7475544710230993317" name="default_scroll_format">"Stranica %1$d od %2$d"</string>
+    <string msgid="5896817443635989056" name="developer_options_filter_hint">"Filtrirajte"</string>
+    <string msgid="700788437593726194" name="developer_options_title">"Opcije za razvojne programere"</string>
+    <string msgid="6510806469849709407" name="dialog_remove">"Ukloni"</string>
+    <string msgid="2178028071796141234" name="dialog_update">"Ažuriraj"</string>
+    <string msgid="4176784553982226114" name="dialog_update_message">"Aplikacija ove ikone nije ažurirana. Možete ručno ažurirati da biste ponovo omogućili ovaj prečac ili uklonite ikonu."</string>
+    <string msgid="114234265740994042" name="dialog_update_title">"Aplikacija se treba ažurirati"</string>
+    <string msgid="6673129024321402780" name="disabled_app_label">"Aplikacija <ns1:g id="APP_NAME">%1$s</ns1:g> onemogućena"</string>
+    <string msgid="3357562989568808658" name="dismiss_prediction_label">"Ne predlaži aplikaciju"</string>
+    <string msgid="1865617679843363410" name="dotted_app_label">"{count,plural, =1{Aplikacija {app_name} ima # obavijest}one{Aplikacija {app_name} ima # obavijest}few{Aplikacija {app_name} ima # obavijesti}other{Aplikacija {app_name} ima # obavijesti}}"</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"Padajući izbornik"</string>
+    <string msgid="8947858375782098427" name="edit_home_screen">"Uredi početni zaslon"</string>
+    <string msgid="3973107268630717874" name="entertainment_widget_recommendation_category_label">"Zabava"</string>
+    <string name="error_a11y_label">Pogreška: nije važeće</string>
+    <string name="error_icon_content_description">Pogreška</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"Napredno"</string>
+    <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
+    <string msgid="4100806530910930934" name="folder_closed">"Mapa je zatvorena"</string>
+    <string msgid="6409794597405184510" name="folder_created">"Mapa izrađena"</string>
+    <string msgid="5174843001373488816" name="folder_hint_text">"Uređivanje naziva"</string>
+    <string msgid="8626242716117004803" name="folder_name_format_exact">"Mapa: <ns1:g id="NAME">%1$s</ns1:g>, <ns1:g id="SIZE">%2$d</ns1:g> stavke"</string>
+    <string msgid="4270108890534995199" name="folder_name_format_overflow">"Mapa: <ns1:g id="NAME">%1$s</ns1:g>, <ns1:g id="SIZE">%2$d</ns1:g> ili više stavki"</string>
+    <string msgid="94695026776264709" name="folder_opened">"Mapa je otvorena, <ns1:g id="WIDTH">%1$d</ns1:g> x <ns1:g id="HEIGHT">%2$d</ns1:g>"</string>
+    <string msgid="1794088362165669656" name="folder_renamed">"Mapa je preimenovana u <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="4625795376335528256" name="folder_tap_to_close">"Dodirnite da biste zatvorili mapu"</string>
+    <string msgid="4017685068016979677" name="folder_tap_to_rename">"Dodirnite da biste spremili promijenjeni naziv"</string>
+    <string msgid="309040266978007925" name="gadget_complete_setup_text">"Dodirnite da biste dovršili postavljanje"</string>
+    <string msgid="740356548025791839" name="gadget_error_text">"Widget se ne može učitati"</string>
+    <string msgid="8348374825537681407" name="gadget_setup_text">"Postavke widgeta"</string>
+    <string name="generic_smartspace_concatenated_desc">%1$s, %2$s</string>
+    <string msgid="5629429142036709174" name="home_screen">"Početni zaslon"</string>
+    <string msgid="7448809638125333693" name="hotseat_out_of_space">"Nema više prostora na traci Favoriti"</string>
+    <string name="icon_content_description">Ikona dijaloga</string>
+    <string msgid="6827826412747255547" name="in_progress">"U tijeku"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"Djelomično potvrđeno"</string>
+    <string msgid="2539096853673231757" name="install_drop_target_label">"Instaliraj"</string>
+    <string msgid="1616889277073184841" name="install_private_system_shortcut_label">"Instaliraj u privatno"</string>
+    <string msgid="4211073925752213539" name="item_added_to_workspace">"Stavka je dodana na početni zaslon"</string>
+    <string msgid="4606538322571412879" name="item_moved">"Stavka premještena"</string>
+    <string msgid="851119963877842327" name="item_removed">"Stavka je uklonjena"</string>
+    <string name="item_view_role_description">Kartica</string>
+    <string msgid="8531721983832654978" name="label_application">"Aplikacija"</string>
+    <string msgid="649227358658669779" name="launcher3_app_name">"Launcher3"</string>
+    <string msgid="2733588281439571974" name="long_accessible_way_to_add">"Dvaput dodirnite i zadržite pritisak da biste premjestili widget ili upotrijebite prilagođene radnje"</string>
+    <string msgid="2199537273817090740" name="long_accessible_way_to_add_shortcut">"Dvaput dodirnite i zadržite pritisak da biste premjestili prečac ili upotrijebite prilagođene radnje."</string>
+    <string msgid="5405328730817637737" name="long_press_shortcut_to_add">"Dodirnite i zadržite da biste premjestili prečac."</string>
+    <string msgid="3587712543577675817" name="long_press_widget_to_add">"Dodirnite i zadržite da biste premjestili widget."</string>
+    <string name="m3_loading_indicator_content_description">Učitavanje</string>
+    <string name="m3_overflow_linear_layout_button_content_description">Dodatni izbornik</string>
+    <string name="m3_overflow_linear_layout_button_tooltip_text">Više opcija</string>
+    <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"Sažimanje donje tablice"</string>
+    <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"Odbacivanje donje tablice"</string>
+    <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"Marker za povlačenje"</string>
+    <string msgid="6670819569745899763" name="m3c_bottom_sheet_expand_description">"Proširivanje donje tablice"</string>
+    <string msgid="3010635850035863127" name="m3c_bottom_sheet_pane_title">"Donja tablica"</string>
+    <string msgid="8166741421776570875" name="m3c_date_input_headline">"Datum unosa"</string>
+    <string msgid="229313757840775812" name="m3c_date_input_headline_description">"Datum unosa: %1$s"</string>
+    <string msgid="6116910750161463197" name="m3c_date_input_invalid_for_pattern">"Datum se ne podudara s očekivanim uzorkom: %1$s"</string>
+    <string msgid="2521768508935305279" name="m3c_date_input_invalid_not_allowed">"Datum nije dopušten: %1$s"</string>
+    <string msgid="7052898923934555305" name="m3c_date_input_invalid_year_range">"Datum je izvan očekivanog raspona godine %1$s – %2$s"</string>
+    <string msgid="2895559812010326913" name="m3c_date_input_label">"Datum"</string>
+    <string msgid="1237013946323089826" name="m3c_date_input_no_input_description">"Ništa"</string>
+    <string msgid="7306227249789210568" name="m3c_date_input_title">"Odaberite datum"</string>
+    <string msgid="7605002211875882969" name="m3c_date_picker_headline">"Odabrani datum"</string>
+    <string msgid="3664277305226978227" name="m3c_date_picker_headline_description">"Trenutačni odabir: %1$s"</string>
+    <string msgid="8436650776581492840" name="m3c_date_picker_navigate_to_year_description">"Prelazak u godinu %1$s"</string>
+    <string msgid="5811000998184572395" name="m3c_date_picker_no_selection_description">"Ništa"</string>
+    <string msgid="7813882352367152251" name="m3c_date_picker_scroll_to_earlier_years">"Pomaknite se za prikaz ranijih godina"</string>
+    <string msgid="5727367015496556177" name="m3c_date_picker_scroll_to_later_years">"Pomaknite se za prikaz kasnijih godina"</string>
+    <string msgid="1804346892470238807" name="m3c_date_picker_switch_to_calendar_mode">"Prijelaz na način unosa u Kalendaru"</string>
+    <string msgid="395627960681594326" name="m3c_date_picker_switch_to_day_selection">"Pomaknite se za odabir godine ili dodirnite za povratak na odabir dana"</string>
+    <string msgid="2219746470065162704" name="m3c_date_picker_switch_to_input_mode">"Prijelaz na način unosa teksta"</string>
+    <string msgid="7142101321095356500" name="m3c_date_picker_switch_to_next_month">"Pomicanje na sljedeći mjesec"</string>
+    <string msgid="228438865139394590" name="m3c_date_picker_switch_to_previous_month">"Pomicanje na prethodni mjesec"</string>
+    <string msgid="791651718641787594" name="m3c_date_picker_switch_to_year_selection">"Prijelaz na odabir godine"</string>
+    <string msgid="7430790972741451689" name="m3c_date_picker_title">"Odaberite datum"</string>
+    <string msgid="3199387177749801575" name="m3c_date_picker_today_description">"Danas"</string>
+    <string msgid="2068382232816991922" name="m3c_date_picker_year_picker_pane_title">"Vidljiv je alat za odabir godine"</string>
+    <string msgid="3190049423327661366" name="m3c_date_range_input_invalid_range_input">"Unos datumskog raspona nije važeći"</string>
+    <string msgid="3148384720560189467" name="m3c_date_range_input_title">"Unos datuma"</string>
+    <string msgid="2138321128465719402" name="m3c_date_range_picker_day_in_range">"U dometu"</string>
+    <string msgid="4947636797751277713" name="m3c_date_range_picker_end_headline">"Datum završetka"</string>
+    <string msgid="602077859540990149" name="m3c_date_range_picker_scroll_to_next_month">"Pomaknite se za prikaz sljedećeg mjeseca"</string>
+    <string msgid="4592174524846109496" name="m3c_date_range_picker_scroll_to_previous_month">"Pomaknite se za prikaz prethodnog mjeseca"</string>
+    <string msgid="4665981448952749820" name="m3c_date_range_picker_start_headline">"Datum početka"</string>
+    <string msgid="3134165431120340385" name="m3c_date_range_picker_title">"Odabir datuma"</string>
+    <string msgid="7617233117134790350" name="m3c_dialog">"Dijaloški okvir"</string>
+    <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"Sažeto"</string>
+    <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"Prošireno"</string>
+    <string msgid="8687821690726149911" name="m3c_dropdown_menu_toggle">"Prekidač za padajući izbornik"</string>
+    <string msgid="6152806324422087846" name="m3c_search_bar_search">"Pretraživanje"</string>
+    <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"Odbaci"</string>
+    <string msgid="7655536806087401899" name="m3c_suggestions_available">"Prijedlozi su u nastavku"</string>
+    <string msgid="2786685010796619560" name="m3c_time_picker_am">"Prijepodne"</string>
+    <string msgid="2349193472625211372" name="m3c_time_picker_hour">"Sat"</string>
+    <string msgid="9179527532316922345" name="m3c_time_picker_hour_24h_suffix">"%1$d h"</string>
+    <string msgid="8876759303332837035" name="m3c_time_picker_hour_selection">"Odabir sata"</string>
+    <string msgid="3458167507790628988" name="m3c_time_picker_hour_suffix">"%1$d h"</string>
+    <string msgid="6973808109666874069" name="m3c_time_picker_hour_text_field">"za sat"</string>
+    <string msgid="4313071914266462005" name="m3c_time_picker_minute">"Minuta"</string>
+    <string msgid="4699133535056739733" name="m3c_time_picker_minute_selection">"Odaberite minute"</string>
+    <string msgid="5064177921781937179" name="m3c_time_picker_minute_suffix">"%1$d min"</string>
+    <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"za minute"</string>
+    <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"Odaberite prijepodne ili poslijepodne"</string>
+    <string msgid="6616362054113087709" name="m3c_time_picker_pm">"Poslijepodne"</string>
+    <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"Prikaži opis"</string>
+    <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"Opis"</string>
+    <string name="material_clock_toggle_content_description">Odaberite prijepodne ili poslijepodne</string>
+    <string name="material_hour_24h_suffix">%1$s h</string>
+    <string name="material_hour_selection">Odaberite sat</string>
+    <string name="material_hour_suffix">%1$s h</string>
+    <string name="material_minute_selection">Odaberite minute</string>
+    <string name="material_minute_suffix">%1$s min</string>
+    <string name="material_slider_range_end">Kraj raspona</string>
+    <string name="material_slider_range_start">Početak raspona</string>
+    <string name="material_slider_value">Vrijednost</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Prijeđite na način rada sata da biste unijeli vrijeme.</string>
+    <string name="material_timepicker_clock_mode_tooltip">Prijeđite na način rada sata</string>
+    <string name="material_timepicker_hour">Sat</string>
+    <string name="material_timepicker_hour_error">Sat mora biti 1 – 12</string>
+    <string name="material_timepicker_hour_error_24h">Sat mora biti 0 – 23</string>
+    <string name="material_timepicker_minute">Minuta</string>
+    <string name="material_timepicker_minute_error">Minuta mora biti 0 – 59</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Odabir vremena</string>
+    <string name="material_timepicker_text_input_mode_description">Prijeđite na način unosa teksta da biste unijeli vrijeme.</string>
+    <string name="material_timepicker_text_input_mode_tooltip">Prijeđite na način unosa teksta</string>
+    <string msgid="5254852678218206889" name="move_to_empty_cell_description">"Premjesti u redak <ns1:g id="NUMBER_0">%1$s</ns1:g> stupac <ns1:g id="NUMBER_1">%2$s</ns1:g> na <ns1:g id="STRING">%3$s</ns1:g>"</string>
+    <string msgid="6295412897075147808" name="move_to_hotseat_position">"Premještanje na položaj favorita <ns1:g id="NUMBER">%1$s</ns1:g>"</string>
+    <string msgid="6750008980455459790" name="move_to_position">"Premještanje na položaj <ns1:g id="NUMBER">%1$s</ns1:g>"</string>
+    <string msgid="6898038085516271325" name="msg_disabled_by_admin">"Onemogućio administrator"</string>
+    <string msgid="281113995110910548" name="msg_missing_notification_access">"Za prikaz točaka obavijesti uključite obavijesti aplikacije <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string name="mtrl_badge_numberless_content_description">Nova obavijest</string>
+    <string name="mtrl_button_collapsed_content_description">Sažeto</string>
+    <string name="mtrl_button_expanded_content_description">Prošireno</string>
+    <string name="mtrl_button_overflow_icon_content_description">Dodatni izbornik</string>
+    <string name="mtrl_button_snackbar_close_content_description">Zatvori</string>
+    <string name="mtrl_checkbox_state_description_checked">Potvrđeno</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Djelomično potvrđeno</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Nije potvrđeno</string>
+    <string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Više od %1$d novih obavijesti</string>
+    <string name="mtrl_picker_a11y_next_month">Prijelaz na sljedeći mjesec</string>
+    <string name="mtrl_picker_a11y_prev_month">Pomicanje na prethodni mjesec</string>
+    <string name="mtrl_picker_announce_current_range_selection">Odabir datuma početka: %1$s – Odabir datuma završetka: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">Trenutačan odabir: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">ništa</string>
+    <string name="mtrl_picker_cancel">Odustani</string>
+    <string name="mtrl_picker_confirm">U redu</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Odaberite datum</string>
+    <string name="mtrl_picker_date_header_unselected">Odabrani datum</string>
+    <string name="mtrl_picker_day_of_week_column_header">%1$s</string>
+    <string name="mtrl_picker_end_date_description">Datum završetka %1$s</string>
+    <string name="mtrl_picker_invalid_format">Nevažeći format.</string>
+    <string name="mtrl_picker_invalid_format_example">Primjer: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Koristi format: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Raspon nije važeći.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Idi na trenutačnu godinu %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">Prijelaz na godinu %1$d</string>
+    <string name="mtrl_picker_next_month_tooltip">Sljedeći mjesec</string>
+    <string name="mtrl_picker_out_of_range">Izvan raspona: %1$s</string>
+    <string name="mtrl_picker_pane_title_calendar_view">Prikaz kalendara</string>
+    <string name="mtrl_picker_pane_title_year_view">Prikaz godine</string>
+    <string name="mtrl_picker_prev_month_tooltip">Prethodni mjesec</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Datum početka – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Datum završetka</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Odaberite raspon</string>
+    <string name="mtrl_picker_range_header_unselected">Datum početka – Datum završetka</string>
+    <string name="mtrl_picker_save">Spremi</string>
+    <string name="mtrl_picker_start_date_description">Datum početka %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">Datum</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Datum završetka</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Datum početka</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">g</string>
+    <string name="mtrl_picker_today_description">Danas: %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Prijelaz na način unosa u Kalendaru</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode_tooltip">Prelazak na kalendar</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Prelazak na prikaz kalendara</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Prijelaz na način unosa teksta</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode_tooltip">Prelazak na unos teksta</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Prebacite se na prikaz godine</string>
+    <string name="mtrl_timepicker_cancel">Odustani</string>
+    <string name="mtrl_timepicker_confirm">U redu</string>
+    <string msgid="542007171693138492" name="navigation_menu">"Navigacijski izbornik"</string>
+    <string msgid="6756167867113741310" name="news_widget_recommendation_category_label">"Vijesti i časopisi"</string>
+    <string msgid="3787956167293097509" name="no_search_results">"Nema widgeta ili prečaca"</string>
+    <string msgid="4337693382501046170" name="no_widgets_available">"Widgeti i prečaci nisu dostupni"</string>
+    <string msgid="6610465462668679431" name="not_selected">"Nije odabrano"</string>
+    <string msgid="6573031135582639649" name="not_set">"Nije postavljeno"</string>
+    <string msgid="1760796511504341095" name="notification_dots_desc_off">"Isključeno"</string>
+    <string msgid="1679848116452218908" name="notification_dots_desc_on">"Uključeno"</string>
+    <string msgid="4284221181793592871" name="notification_dots_service_title">"Prikaži točke obavijesti"</string>
+    <string msgid="9062440428204120317" name="notification_dots_title">"Točke obavijesti"</string>
+    <string msgid="1404149926117359025" name="notifications_header">"Obavijesti"</string>
+    <string msgid="5555987036267226245" name="others_widget_recommendation_category_label">"Prijedlozi za vas"</string>
+    <string msgid="6455557115204099579" name="out_of_space">"Na ovom početnom zaslonu više nema mjesta."</string>
+    <string msgid="7592128424511031410" name="package_state_unknown">"Nepoznato"</string>
+    <string name="password_toggle_content_description">Prikaži zaporku</string>
+    <string msgid="923466509822011139" name="permdesc_install_shortcut">"Aplikaciji omogućuje dodavanje prečaca bez intervencije korisnika."</string>
+    <string msgid="4208061150510996676" name="permdesc_read_settings">"Aplikaciji omogućuje čitanje postavki i prečaca na početnom zaslonu."</string>
+    <string msgid="726859348127868466" name="permdesc_write_settings">"Aplikaciji omogućuje promjenu postavki i prečaca na početnom zaslonu."</string>
+    <string msgid="5632423390354674437" name="permlab_install_shortcut">"instaliranje prečaca"</string>
+    <string msgid="5136500343007704955" name="permlab_read_settings">"čitati postavke i prečace početnog zaslona"</string>
+    <string msgid="4820028712156303762" name="permlab_write_settings">"pisati postavke i prečace početnog zaslona"</string>
+    <string msgid="4196423321649756498" name="pin_prediction">"Prikvači predviđenu apl."</string>
+    <string msgid="6685851473431805375" name="preference_copied">"Sažetak \"<ns1:g id="SUMMARY">%1$s</ns1:g>\" kopiran je u međuspremnik."</string>
+    <string msgid="2359721649407947001" name="private_space_label">"Privatni prostor"</string>
+    <string msgid="9203933341714508907" name="private_space_secondary_label">"Dodirnite da biste postavili ili otvorili"</string>
+    <string msgid="3811812719618323750" name="productivity_widget_recommendation_category_label">"Osnovno"</string>
+    <string msgid="3254274107740952556" name="ps_add_button_content_description">"Instaliranje aplikacija u privatni prostor"</string>
+    <string msgid="8127988716897128773" name="ps_add_button_label">"Instalirajte"</string>
+    <string msgid="5961993384382649530" name="ps_container_lock_button_content_description">"Privatno, zaključano."</string>
+    <string msgid="2640257399982364682" name="ps_container_lock_title">"Zaključavanje"</string>
+    <string msgid="6059734123353320479" name="ps_container_settings">"Postavke privatnog prostora"</string>
+    <string msgid="4391796149519594205" name="ps_container_title">"Privatno"</string>
+    <string msgid="8667331812048014412" name="ps_container_transition">"Prelazak na privatni prostor"</string>
+    <string msgid="9181551784092204234" name="ps_container_unlock_button_content_description">"Privatno, otključano."</string>
+    <string msgid="5941395253238309765" name="range_end">"Kraj raspona"</string>
+    <string msgid="7097486360902471446" name="range_start">"Početak raspona"</string>
+    <string msgid="6690461455618725183" name="recent_task_option_split_screen">"Podijeljeni zaslon"</string>
+    <string msgid="6336962690888067057" name="reconfigurable_widget_education_tip">"Dodirnite da biste promijenili postavke widgeta"</string>
+    <string msgid="1383965239183576790" name="remote_action_failed">"Nije uspjelo: <ns1:g id="WHAT">%1$s</ns1:g>"</string>
+    <string msgid="7812859488053230776" name="remove_drop_target_label">"Ukloni"</string>
+    <string msgid="9160126848219158407" name="safemode_shortcut_error">"Preuzeta aplikacija onemogućena je u Sigurnom načinu rada"</string>
+    <string msgid="4863470563535682004" name="safemode_widget_error">"Widgeti su onemogućeni u Sigurnom načinu rada"</string>
+    <string msgid="5647523853662686243" name="save_app_pair">"Spremi par aplikacija"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Pretraži"</string>
+    <string name="searchview_clear_text_content_description">Ukloni tekst</string>
+    <string name="searchview_navigation_content_description">Natrag</string>
+    <string msgid="6043586758067023" name="selected">"Odabrano"</string>
+    <string msgid="5808906607627586381" name="set_default_home_app">"Postavite aplikaciju <ns1:g id="LAUNCHER_NAME">%1$s</ns1:g> kao zadanu aplikaciju početnog zaslona u postavkama"</string>
+    <string msgid="8873672322605444408" name="settings_button_text">"Postavke"</string>
+    <string msgid="2536503539825726397" name="shortcut_not_available">"Prečac nije dostupan"</string>
+    <string msgid="8471715556199592381" name="shortcuts_count">"{count,plural, =1{# prečac}one{# prečac}few{# prečaca}other{# prečaca}}"</string>
+    <string name="side_sheet_accessibility_pane_title">Bočni list</string>
+    <string msgid="2792228137354697160" name="snackbar_pane_title">"Upozorenje"</string>
+    <string msgid="689147679536384717" name="social_widget_recommendation_category_label">"Društvene mreže"</string>
+    <string msgid="5475288491241414932" name="split_app_info_accessibility">"Informacije o aplikaciji %1$s"</string>
+    <string msgid="7214375263347964093" name="split_app_usage_settings">"Postavke upotrebe za %1$s"</string>
+    <string msgid="4139871816613051306" name="state_empty">"Prazno"</string>
+    <string msgid="5834637030682409883" name="state_off">"Isključeno"</string>
+    <string msgid="1490883874751719580" name="state_on">"Uključeno"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="8216961355289236794" name="styles_wallpaper_button_text">"Pozadina i stil"</string>
+    <string msgid="1844314680798145222" name="suggested_widgets_header_title">"Prijedlozi"</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string msgid="2561197295334830845" name="switch_role">"Prekidač"</string>
+    <string msgid="1672349317127674378" name="tab">"Kartica"</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g> posto."</string>
+    <string msgid="1376365968844349552" name="title_change_settings">"Promjena postavki"</string>
+    <string msgid="7503287056163941064" name="title_missing_notification_access">"Potreban je pristup obavijestima"</string>
+    <string msgid="3765533235322692011" name="tooltip_description">"opis"</string>
+    <string msgid="3124740595719787496" name="tooltip_label">"prikaži opis"</string>
+    <string msgid="4151576204245173321" name="undo">"Poništi"</string>
+    <string msgid="4722034217958379417" name="uninstall_drop_target_label">"Deinstaliraj"</string>
+    <string msgid="8423460530441627982" name="uninstall_private_system_shortcut_label">"Deinstaliraj aplikaciju"</string>
+    <string msgid="4172046090762920660" name="uninstall_system_app_text">"Ovo je aplikacija sustava i ne može se ukloniti."</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"ISKLJUČENO"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"UKLJUČENO"</string>
+    <string msgid="3640149169885301790" name="widget_accessible_dims_format">"%1$d širine i %2$d visine"</string>
+    <string msgid="1810530016360039643" name="widget_add_button_content_description">"Dodaj widget <ns1:g id="WIDGET_NAME">%1$s</ns1:g>"</string>
+    <string msgid="2761267068711937179" name="widget_add_button_label">"Dodaj"</string>
+    <string msgid="2880537293434387943" name="widget_button_text">"Widgeti"</string>
+    <string msgid="8894438636213590446" name="widget_category_conversations">"Razgovori"</string>
+    <string msgid="3469689394504266039" name="widget_category_note_taking">"Pisanje bilježaka"</string>
+    <string msgid="2370757736025621599" name="widget_dims_format">"%1$d × %2$d"</string>
+    <string msgid="1673313931455067502" name="widget_picker_right_pane_accessibility_title">"<ns1:g id="SELECTED_HEADER">%1$s</ns1:g> –widgeti zdesna, pretraživanje i opcije slijeva"</string>
+    <string msgid="9045841361655787574" name="widget_preview_context_description">"Widget <ns1:g id="WIDGET_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8489038126122831595" name="widget_preview_name_and_dims_content_description">"Widget <ns1:g id="WIDGET_NAME">%1$s</ns1:g>, širine %2$d, visine %3$d"</string>
+    <string msgid="8811472721881205250" name="widget_reconfigure_button_content_description">"Promijenite postavke widgeta"</string>
+    <string msgid="9130327887929620" name="widget_resized">"Širina widgeta promijenjena je na <ns1:g id="NUMBER_0">%1$s</ns1:g>, a visina na <ns1:g id="NUMBER_1">%2$s</ns1:g>"</string>
+    <string msgid="7209136747878365116" name="widgets_and_shortcuts_count">"<ns1:g id="WIDGETS_COUNT">%1$s</ns1:g>, <ns1:g id="SHORTCUTS_COUNT">%2$s</ns1:g>"</string>
+    <string msgid="6467746476364652096" name="widgets_count">"{count,plural, =1{# widget}one{# widget}few{# widgeta}other{# widgeta}}"</string>
+    <string msgid="5766167035728653605" name="widgets_full_sheet_cancel_button_description">"Izbrišite tekst iz okvira za pretraživanje"</string>
+    <string msgid="2743540105607120182" name="widgets_full_sheet_personal_tab">"Osobni"</string>
+    <string msgid="8484659090860596457" name="widgets_full_sheet_search_bar_hint">"Pretražite"</string>
+    <string msgid="3767150027110633765" name="widgets_full_sheet_work_tab">"Posao"</string>
+    <string msgid="796804551140113767" name="widgets_list">"Popis widgeta"</string>
+    <string msgid="6141506579418771922" name="widgets_list_closed">"Popis widgeta zatvoren"</string>
+    <string msgid="1736198302467317371" name="work_apps_enable_btn_text">"Ponovno pokreni"</string>
+    <string msgid="4669288269140620646" name="work_apps_pause_btn_text">"Pauziraj poslovne aplikacije"</string>
+    <string msgid="261634750995824906" name="work_apps_paused_body">"Poslovne aplikacije ne mogu vam slati obavijesti, trošiti bateriju ili pristupati vašoj lokaciji"</string>
+    <string msgid="6377476824357318532" name="work_apps_paused_edu_accept">"Shvaćam"</string>
+    <string msgid="8872412121608402058" name="work_apps_paused_edu_banner">"Poslovne su aplikacije označene i vidljive vašem IT administratoru"</string>
+    <string msgid="1687828929959237477" name="work_apps_paused_info_body">"Nećete primati obavijesti poslovnih aplikacija"</string>
+    <string msgid="8358872357502756790" name="work_apps_paused_telephony_unavailable_body">"Nećete primati telefonske pozive, tekstne poruke niti obavijesti poslovnih aplikacija"</string>
+    <string msgid="3040901117349444598" name="work_apps_paused_title">"Poslovne aplikacije su pauzirane"</string>
+    <string msgid="3753320833950115786" name="work_folder_name">"Posao"</string>
+    <string msgid="6069788082535149071" name="work_profile_edu_accept">"Shvaćam"</string>
+    <string msgid="7895468576497746520" name="work_profile_edu_work_apps">"Poslovne su aplikacije označene i vidljive vašem IT administratoru"</string>
+    <string msgid="3081029915775481146" name="work_profile_toggle_label">"Poslovni profil"</string>
+    <string msgid="257366611030256142" name="workspace_new_page">"Nova stranica početnog zaslona"</string>
+    <string msgid="8458889198184077399" name="workspace_scroll_format">"Početni zaslon %1$d od %2$d"</string>
+</resources>

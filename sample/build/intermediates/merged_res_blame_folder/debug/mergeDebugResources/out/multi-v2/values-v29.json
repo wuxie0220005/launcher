@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.fhdfh.launcher.sample-mergeDebugResources-76:/values-v29/values-v29.xml",
+            "map": [
+                {
+                    "source": "/Users/chuandong/.gradle/caches/8.11.1/transforms/a87032cfaff89019ea39a30905450aee/transformed/jetified-launcher-1.0.0-example2/res/values-v29/values-v29.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,99",
+                        "endLines": "2,13",
+                        "endColumns": "43,12",
+                        "endOffsets": "94,789"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.fhdfh.launcher.sample-mergeDebugResources-76:/values-sw700dp-v13/values-sw700dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/chuandong/.gradle/caches/8.11.1/transforms/a87032cfaff89019ea39a30905450aee/transformed/jetified-launcher-1.0.0-example2/res/values-sw700dp-v13/values-sw700dp-v13.xml",
+                    "from": {
+                        "startLines": "2,5,8,11,14,17,20,23,27,31,36,41,46,50",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,194,337,472,607,741,880,1018,1203,1388,1624,1859,2094,2283",
+                        "endLines": "4,7,10,13,16,19,22,26,30,35,40,45,49,54",
+                        "endColumns": "12,12,12,12,12,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "189,332,467,602,736,875,1013,1198,1383,1619,1854,2089,2278,2518"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_primary_device_default">@android:color/transparent</color>
+    <color name="system_accent1_100">@android:color/transparent</color>
+    <dimen name="taskbar_size">60dp</dimen>
+    <integer name="m3c_window_layout_in_display_cutout_mode">3</integer>
+    <style name="BaseLauncherTheme" parent="@android:style/Theme.Material.Light">
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:colorEdgeEffect">#FF757575</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowShowWallpaper">true</item>
+        <item name="android:windowLayoutInDisplayCutoutMode">always</item>
+        <item name="android:enforceStatusBarContrast">false</item>
+        <item name="android:enforceNavigationBarContrast">false</item>
+    </style>
+</resources>

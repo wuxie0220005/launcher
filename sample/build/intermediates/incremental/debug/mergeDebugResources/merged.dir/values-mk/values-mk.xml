@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d ново известување</item>
+    <item quantity="other">%d нови известувања</item>
+  </plurals>
+    <string msgid="7610119707847920412" name="abandoned_clean_this">"Отстрани"</string>
+    <string msgid="3990027586878167529" name="abandoned_promise_explanation">"Апликацијата за оваа икона не е инсталирана. Може да ја отстраните или да се обидете да ја најдете апликацијата и да ја инсталирате рачно."</string>
+    <string msgid="7096178467971716750" name="abandoned_promises_title">"Апликацијата не е инсталирана"</string>
+    <string msgid="891119232568284442" name="abandoned_search">"Барај"</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Движи се кон дома"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Движи се нагоре"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Повеќе опции"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Прикажи ги сите"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Избери апликација"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"ИСКЛУЧЕНО"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ВКЛУЧЕНО"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"избриши"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"вселена"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Пребарување…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Исчисти барање"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Пребарај барање"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Пребарај"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Испрати барање"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Гласовно пребарување"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Сподели со"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Сподели со <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="5024599872061409708" name="abc_slice_permission_allow">"Дозволете"</string>
+    <string msgid="5696872682700058611" name="abc_slice_permission_checkbox">"Дозволете <ns1:g id="APP">%1$s</ns1:g> да прикажува делови од која било апликација"</string>
+    <string msgid="3819478292430407705" name="abc_slice_permission_deny">"Одбијте"</string>
+    <string msgid="4525743640399572811" name="abc_slice_permission_text_1">"- Може да чита информации од <ns1:g id="APP">%1$s</ns1:g>"</string>
+    <string msgid="7323565634860251794" name="abc_slice_permission_text_2">"- Може да презема дејства во <ns1:g id="APP">%1$s</ns1:g>"</string>
+    <string msgid="4175332421259324948" name="abc_slice_permission_title">"Да се дозволи <ns1:g id="APP_0">%1$s</ns1:g> да прикажува делови од <ns1:g id="APP_2">%2$s</ns1:g>?"</string>
+    <string msgid="3604847235923472451" name="abc_slices_permission_request">"<ns1:g id="APP_0">%1$s</ns1:g> сака да прикажува делови од <ns1:g id="APP_2">%2$s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Собери"</string>
+    <string msgid="2277148124685870734" name="accessibility_close">"Затвори"</string>
+    <string name="accessibility_smartspace_page">Страница %1$d од %2$d</string>
+    <string msgid="215894119683164916" name="action_add_to_workspace">"Додај на почетниот екран"</string>
+    <string msgid="282377193880900022" name="action_decrease_height">"Намали висина"</string>
+    <string msgid="1374549771083094654" name="action_decrease_width">"Намали ширина"</string>
+    <string msgid="2864038805849372848" name="action_deep_shortcut">"Кратенки"</string>
+    <string msgid="5909461085055959187" name="action_dismiss_notification">"Отфрли"</string>
+    <string msgid="459390020612501122" name="action_increase_height">"Зголеми висина"</string>
+    <string msgid="8773715375078513326" name="action_increase_width">"Зголеми ширина"</string>
+    <string msgid="4339390619886385032" name="action_move">"Премести ја ставката"</string>
+    <string msgid="2170188780612570250" name="action_move_here">"Премести ја ставката овде"</string>
+    <string msgid="39528912300293768" name="action_move_to_workspace">"Премести на почетен екран"</string>
+    <string msgid="1802976324781771067" name="action_resize">"Промени големина"</string>
+    <string msgid="7456344436509528827" name="activity_not_available">"Апликацијата не е достапна"</string>
+    <string msgid="8071924732094499514" name="activity_not_found">"Апликацијата не е инсталирана."</string>
+    <string msgid="8730547755622776606" name="add_item_request_drag_hint">"Допрете го и задржете го виџетот за да го движите наоколу на почетниот екран"</string>
+    <string msgid="9040534766770853243" name="add_to_folder">"Додај во папката: <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="4534929978967147231" name="add_to_folder_with_app">"Додај во папка со <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="9168649446635919791" name="add_to_home_screen">"Додај на почетниот екран"</string>
+    <string msgid="4793259502305558003" name="added_to_folder">"Ставката е додадена во папката"</string>
+    <string msgid="4451545765448884415" name="added_to_home_screen_accessibility_text">"Виџетот <ns1:g id="WIDGET_NAME">%1$s</ns1:g> е додаден на почетниот екран"</string>
+    <string msgid="8130441508702294465" name="all_apps_button_label">"Список со апликации"</string>
+    <string msgid="1315764287305224468" name="all_apps_button_personal_label">"Список со лични апликации"</string>
+    <string msgid="7270707118948892488" name="all_apps_button_work_label">"Список со апликации за работа"</string>
+    <string msgid="5015784846527570951" name="all_apps_label">"Сите апликации"</string>
+    <string msgid="5813968043155271636" name="all_apps_loading_message">"Се вчитуваат апликации…"</string>
+    <string msgid="3200346862396363786" name="all_apps_no_search_results">"Не се најдени апликации што одговараат на „<ns1:g id="QUERY">%1$s</ns1:g>“"</string>
+    <string msgid="4190252696685155002" name="all_apps_personal_tab">"Лично"</string>
+    <string msgid="1390553134053255246" name="all_apps_search_bar_hint">"Пребарувајте апликации"</string>
+    <string msgid="5889367432531296759" name="all_apps_search_results">"Резултати од пребарување"</string>
+    <string msgid="4884822796154055118" name="all_apps_work_tab">"За работа"</string>
+    <string msgid="8662546029078692509" name="allow_rotation_desc">"Кога телефонот се ротира"</string>
+    <string msgid="7222049633713050106" name="allow_rotation_title">"Дозволи ротирање на почетниот екран"</string>
+    <string msgid="8719607706653693137" name="androidx_compose_foundation_autofill">"Автоматско пополнување"</string>
+    <string msgid="1150566100598813236" name="androidx_compose_ui_autofill">"Автоматско пополнување"</string>
+    <string msgid="7717956158562544081" name="app_archived_title">"Апликацијата <ns1:g id="NAME">%1$s</ns1:g> е архивирана. Допрете за да преземете и вратите."</string>
+    <string msgid="8336702962104482644" name="app_downloading_title">"Се презема <ns1:g id="NAME">%1$s</ns1:g>, <ns1:g id="PROGRESS">%2$s</ns1:g> завршено"</string>
+    <string msgid="692894985365717661" name="app_info_drop_target_label">"Инф. за апликација"</string>
+    <string msgid="5864044122733792085" name="app_installing_title">"<ns1:g id="NAME">%1$s</ns1:g> се инсталира, <ns1:g id="PROGRESS">%2$s</ns1:g> завршено"</string>
+    <string msgid="4045241727446873529" name="app_pair_default_title">"<ns1:g id="APP1">%1$s</ns1:g> | <ns1:g id="APP2">%2$s</ns1:g>"</string>
+    <string msgid="8134106404716224054" name="app_pair_name_format">"Пар апликации: <ns1:g id="APP1">%1$s</ns1:g> и <ns1:g id="APP2">%2$s</ns1:g>"</string>
+    <string msgid="4588897528143807002" name="app_pair_needs_unfold">"Отворете го уредот за да го користите паров апликации"</string>
+    <string msgid="3556767440808032031" name="app_pair_not_available">"Парот апликации не е достапен"</string>
+    <string msgid="3446551575502685376" name="app_pair_unlaunchable_at_screen_size">"Паров апликации не е поддржан на уредов"</string>
+    <string msgid="7053938513995617849" name="app_waiting_download_title">"<ns1:g id="NAME">%1$s</ns1:g> чека да се инсталира"</string>
+    <string msgid="7117251166066978730" name="auto_add_shortcuts_description">"За нови апликации"</string>
+    <string msgid="4926805029653694105" name="auto_add_shortcuts_label">"Додавај икони за апликации на почетниот екран"</string>
+    <string name="bottomsheet_action_collapse">Соберете</string>
+    <string name="bottomsheet_action_collapse_description">Соберете го долниот лист</string>
+    <string name="bottomsheet_action_expand">Проширете</string>
+    <string name="bottomsheet_action_expand_description">Проширете го долниот лист</string>
+    <string name="bottomsheet_action_expand_halfway">Прошири до половина</string>
+    <string name="bottomsheet_action_half_expand_description">Проширете го долниот лист до половина</string>
+    <string name="bottomsheet_drag_handle_content_description">Рачка за влечење</string>
+    <string name="bottomsheet_state_collapsed">Собрано</string>
+    <string name="bottomsheet_state_expanded">Проширено</string>
+    <string name="bottomsheet_state_half_expanded">Проширено до половина</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Одговори"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Видео"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Одбиј"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Спушти"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Дојдовен повик"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Тековен повик"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Проверка на дојдовен повик"</string>
+    <string name="character_counter_content_description">Внесени се %1$d од %2$d знаци</string>
+    <string name="character_counter_overflowed_content_description">Ограничувањето на знаците надмина %1$d од %2$d</string>
+    <string name="clear_text_end_icon_content_description">Избриши го текстот</string>
+    <string msgid="406453423630273620" name="close_drawer">"Затворете го менито за навигација"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"Затворете го листот"</string>
+    <string msgid="6083905920877235314" name="copy">"Копирај"</string>
+    <string msgid="4050141361160214248" name="create_folder_with">"Создај папка со: <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="8038256446254964252" name="default_error_message">"Неважечки запис"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"Скокачки прозорец"</string>
+    <string msgid="7475544710230993317" name="default_scroll_format">"Страница %1$d од %2$d"</string>
+    <string msgid="5896817443635989056" name="developer_options_filter_hint">"Филтер"</string>
+    <string msgid="700788437593726194" name="developer_options_title">"Програмерски опции"</string>
+    <string msgid="6510806469849709407" name="dialog_remove">"Отстрани"</string>
+    <string msgid="2178028071796141234" name="dialog_update">"Ажурирај"</string>
+    <string msgid="4176784553982226114" name="dialog_update_message">"Апликацијата за оваа икона не е ажурирана. Може да ажурирате рачно за да повторно се овозможи кратенкава или отстранете ја иконата."</string>
+    <string msgid="114234265740994042" name="dialog_update_title">"Потребно е ажурирање на апликацијата"</string>
+    <string msgid="6673129024321402780" name="disabled_app_label">"<ns1:g id="APP_NAME">%1$s</ns1:g> е оневозможена"</string>
+    <string msgid="3357562989568808658" name="dismiss_prediction_label">"Не предлагај апл."</string>
+    <string msgid="1865617679843363410" name="dotted_app_label">"{count,plural, =1{{app_name} има # известување}one{{app_name} има # известување}other{{app_name} има # известувања}}"</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"Паѓачко мени"</string>
+    <string msgid="8947858375782098427" name="edit_home_screen">"Изменете го почетниот екран"</string>
+    <string msgid="3973107268630717874" name="entertainment_widget_recommendation_category_label">"Забава"</string>
+    <string name="error_a11y_label">Грешка: неважечко</string>
+    <string name="error_icon_content_description">Грешка</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"Напредни"</string>
+    <string name="exposed_dropdown_menu_content_description">Прикажи паѓачко мени</string>
+    <string msgid="4100806530910930934" name="folder_closed">"Папката е затворена"</string>
+    <string msgid="6409794597405184510" name="folder_created">"Папката е создадена"</string>
+    <string msgid="5174843001373488816" name="folder_hint_text">"Изменете го името"</string>
+    <string msgid="8626242716117004803" name="folder_name_format_exact">"Папка: <ns1:g id="NAME">%1$s</ns1:g>, <ns1:g id="SIZE">%2$d</ns1:g> ставки"</string>
+    <string msgid="4270108890534995199" name="folder_name_format_overflow">"Папка: <ns1:g id="NAME">%1$s</ns1:g>, <ns1:g id="SIZE">%2$d</ns1:g> или повеќе ставки"</string>
+    <string msgid="94695026776264709" name="folder_opened">"Отворена е папка, <ns1:g id="WIDTH">%1$d</ns1:g> на <ns1:g id="HEIGHT">%2$d</ns1:g>"</string>
+    <string msgid="1794088362165669656" name="folder_renamed">"Папката е преименувана во <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="4625795376335528256" name="folder_tap_to_close">"Допрете за да ја затворите папката"</string>
+    <string msgid="4017685068016979677" name="folder_tap_to_rename">"Допрете за да го зачувате преименувањето"</string>
+    <string msgid="309040266978007925" name="gadget_complete_setup_text">"Допрете за да го завршите поставувањето"</string>
+    <string msgid="740356548025791839" name="gadget_error_text">"Не може да се вчита виџетот"</string>
+    <string msgid="8348374825537681407" name="gadget_setup_text">"Поставки за виџетот"</string>
+    <string name="generic_smartspace_concatenated_desc">%1$s, %2$s</string>
+    <string msgid="5629429142036709174" name="home_screen">"Почетен екран"</string>
+    <string msgid="7448809638125333693" name="hotseat_out_of_space">"Нема повеќе простор на лентата „Омилени“"</string>
+    <string name="icon_content_description">Икона за дијалог</string>
+    <string msgid="6827826412747255547" name="in_progress">"Во тек"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"Делумно проверено"</string>
+    <string msgid="2539096853673231757" name="install_drop_target_label">"Инсталирај"</string>
+    <string msgid="1616889277073184841" name="install_private_system_shortcut_label">"Инстал. во приватен"</string>
+    <string msgid="4211073925752213539" name="item_added_to_workspace">"Ставката е додадена на почетниот екран"</string>
+    <string msgid="4606538322571412879" name="item_moved">"Ставката е преместена"</string>
+    <string msgid="851119963877842327" name="item_removed">"Ставката е отстранета"</string>
+    <string name="item_view_role_description">Картичка</string>
+    <string msgid="8531721983832654978" name="label_application">"Апликација"</string>
+    <string msgid="649227358658669779" name="launcher3_app_name">"Стартер3"</string>
+    <string msgid="2733588281439571974" name="long_accessible_way_to_add">"Допрете двапати и задржете за да преместите виџет или користете приспособени дејства."</string>
+    <string msgid="2199537273817090740" name="long_accessible_way_to_add_shortcut">"Допрете двапати и задржете за да преместите кратенка или користете приспособени дејства."</string>
+    <string msgid="5405328730817637737" name="long_press_shortcut_to_add">"Допрете и задржете за да преместите кратенка."</string>
+    <string msgid="3587712543577675817" name="long_press_widget_to_add">"Допрете и задржете за да преместите виџет."</string>
+    <string name="m3_loading_indicator_content_description">Се вчитува</string>
+    <string name="m3_overflow_linear_layout_button_content_description">Проширено мени</string>
+    <string name="m3_overflow_linear_layout_button_tooltip_text">Повеќе опции</string>
+    <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"Собери го долниот лист"</string>
+    <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"Отфрли го долниот лист"</string>
+    <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"Рачка за влечење"</string>
+    <string msgid="6670819569745899763" name="m3c_bottom_sheet_expand_description">"Прошири го долниот лист"</string>
+    <string msgid="3010635850035863127" name="m3c_bottom_sheet_pane_title">"Долен лист"</string>
+    <string msgid="8166741421776570875" name="m3c_date_input_headline">"Внесен датум"</string>
+    <string msgid="229313757840775812" name="m3c_date_input_headline_description">"Внесен датум: %1$s"</string>
+    <string msgid="6116910750161463197" name="m3c_date_input_invalid_for_pattern">"Не се совпаѓа со очекуваната шема: %1$s"</string>
+    <string msgid="2521768508935305279" name="m3c_date_input_invalid_not_allowed">"Датумот не е дозволен: %1$s"</string>
+    <string msgid="7052898923934555305" name="m3c_date_input_invalid_year_range">"Датумот не е во очекуваниот опсег на години %1$s - %2$s"</string>
+    <string msgid="2895559812010326913" name="m3c_date_input_label">"Датум"</string>
+    <string msgid="1237013946323089826" name="m3c_date_input_no_input_description">"Нема"</string>
+    <string msgid="7306227249789210568" name="m3c_date_input_title">"Изберете датум"</string>
+    <string msgid="7605002211875882969" name="m3c_date_picker_headline">"Избран датум"</string>
+    <string msgid="3664277305226978227" name="m3c_date_picker_headline_description">"Тековен избор: %1$s"</string>
+    <string msgid="8436650776581492840" name="m3c_date_picker_navigate_to_year_description">"Одете на %1$s година"</string>
+    <string msgid="5811000998184572395" name="m3c_date_picker_no_selection_description">"Нема"</string>
+    <string msgid="7813882352367152251" name="m3c_date_picker_scroll_to_earlier_years">"Лизгајте за да ги прикажете претходните години"</string>
+    <string msgid="5727367015496556177" name="m3c_date_picker_scroll_to_later_years">"Лизгајте за да ги прикажете подоцнежните години"</string>
+    <string msgid="1804346892470238807" name="m3c_date_picker_switch_to_calendar_mode">"Префрли на режим за внесување во календарот"</string>
+    <string msgid="395627960681594326" name="m3c_date_picker_switch_to_day_selection">"Повлечете за да изберете година или допрете за да се вратите на избирање ден"</string>
+    <string msgid="2219746470065162704" name="m3c_date_picker_switch_to_input_mode">"Префрли на режим за внесување текст"</string>
+    <string msgid="7142101321095356500" name="m3c_date_picker_switch_to_next_month">"Промени на следниот месец"</string>
+    <string msgid="228438865139394590" name="m3c_date_picker_switch_to_previous_month">"Промени на претходниот месец"</string>
+    <string msgid="791651718641787594" name="m3c_date_picker_switch_to_year_selection">"Префрли на избирање година"</string>
+    <string msgid="7430790972741451689" name="m3c_date_picker_title">"Изберете датум"</string>
+    <string msgid="3199387177749801575" name="m3c_date_picker_today_description">"Денес"</string>
+    <string msgid="2068382232816991922" name="m3c_date_picker_year_picker_pane_title">"Избирачот на година е видлив"</string>
+    <string msgid="3190049423327661366" name="m3c_date_range_input_invalid_range_input">"Внесовте неважечки временски период"</string>
+    <string msgid="3148384720560189467" name="m3c_date_range_input_title">"Внесете датуми"</string>
+    <string msgid="2138321128465719402" name="m3c_date_range_picker_day_in_range">"Во опсег"</string>
+    <string msgid="4947636797751277713" name="m3c_date_range_picker_end_headline">"Датум на завршување"</string>
+    <string msgid="602077859540990149" name="m3c_date_range_picker_scroll_to_next_month">"Лизгајте за да се прикаже следниот месец"</string>
+    <string msgid="4592174524846109496" name="m3c_date_range_picker_scroll_to_previous_month">"Лизгајте за да се прикаже претходниот месец"</string>
+    <string msgid="4665981448952749820" name="m3c_date_range_picker_start_headline">"Датум на започнување"</string>
+    <string msgid="3134165431120340385" name="m3c_date_range_picker_title">"Изберете датуми"</string>
+    <string msgid="7617233117134790350" name="m3c_dialog">"Дијалог"</string>
+    <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"Собрано"</string>
+    <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"Проширено"</string>
+    <string msgid="8687821690726149911" name="m3c_dropdown_menu_toggle">"Вклучување/исклучување паѓачко мени"</string>
+    <string msgid="6152806324422087846" name="m3c_search_bar_search">"Пребарување"</string>
+    <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"Отфрли"</string>
+    <string msgid="7655536806087401899" name="m3c_suggestions_available">"Предлозите се наведени подолу"</string>
+    <string msgid="2786685010796619560" name="m3c_time_picker_am">"прет."</string>
+    <string msgid="2349193472625211372" name="m3c_time_picker_hour">"Час"</string>
+    <string msgid="9179527532316922345" name="m3c_time_picker_hour_24h_suffix">"%1$d часа"</string>
+    <string msgid="8876759303332837035" name="m3c_time_picker_hour_selection">"Изберете час"</string>
+    <string msgid="3458167507790628988" name="m3c_time_picker_hour_suffix">"%1$d часот"</string>
+    <string msgid="6973808109666874069" name="m3c_time_picker_hour_text_field">"за час"</string>
+    <string msgid="4313071914266462005" name="m3c_time_picker_minute">"Минута"</string>
+    <string msgid="4699133535056739733" name="m3c_time_picker_minute_selection">"Изберете минути"</string>
+    <string msgid="5064177921781937179" name="m3c_time_picker_minute_suffix">"%1$d минути"</string>
+    <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"за минути"</string>
+    <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"Изберете претпладне или попладне"</string>
+    <string msgid="6616362054113087709" name="m3c_time_picker_pm">"попл."</string>
+    <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"Прикажи совет за алатка"</string>
+    <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"Совет за алатка"</string>
+    <string name="material_clock_toggle_content_description">Изберете претпладне или попладне</string>
+    <string name="material_hour_24h_suffix">%1$s часа</string>
+    <string name="material_hour_selection">Изберете час</string>
+    <string name="material_hour_suffix">%1$s часот</string>
+    <string name="material_minute_selection">Избери минути</string>
+    <string name="material_minute_suffix">%1$s минути</string>
+    <string name="material_slider_range_end">Крај на опсегот</string>
+    <string name="material_slider_range_start">Почеток на опсегот</string>
+    <string name="material_slider_value">Вредност</string>
+    <string name="material_timepicker_am">пр.</string>
+    <string name="material_timepicker_clock_mode_description">Префрлете се на режимот за часовник за да внесете време.</string>
+    <string name="material_timepicker_clock_mode_tooltip">Префрлете се во режимот за часовник</string>
+    <string name="material_timepicker_hour">Час</string>
+    <string name="material_timepicker_hour_error">Опсег на часот: 1 – 12</string>
+    <string name="material_timepicker_hour_error_24h">Опсег на часот: 0 – 23</string>
+    <string name="material_timepicker_minute">Минута</string>
+    <string name="material_timepicker_minute_error">Опсег на мин.: 0 – 59</string>
+    <string name="material_timepicker_pm">по.</string>
+    <string name="material_timepicker_select_time">Изберете време</string>
+    <string name="material_timepicker_text_input_mode_description">Префрлете се на режимот за внесување текст за да внесете време.</string>
+    <string name="material_timepicker_text_input_mode_tooltip">Префрлете се во режимот за внесување текст</string>
+    <string msgid="5254852678218206889" name="move_to_empty_cell_description">"Преместете во редица <ns1:g id="NUMBER_0">%1$s</ns1:g>, колона <ns1:g id="NUMBER_1">%2$s</ns1:g> во <ns1:g id="STRING">%3$s</ns1:g>"</string>
+    <string msgid="6295412897075147808" name="move_to_hotseat_position">"Премести на место <ns1:g id="NUMBER">%1$s</ns1:g> во омилени"</string>
+    <string msgid="6750008980455459790" name="move_to_position">"Премести на место <ns1:g id="NUMBER">%1$s</ns1:g>"</string>
+    <string msgid="6898038085516271325" name="msg_disabled_by_admin">"Оневозможено од администраторот"</string>
+    <string msgid="281113995110910548" name="msg_missing_notification_access">"За да се прикажуваат „Точки за известување“, вклучете ги известувањата за апликацијата <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string name="mtrl_badge_numberless_content_description">Ново известување</string>
+    <string name="mtrl_button_collapsed_content_description">Собрано</string>
+    <string name="mtrl_button_expanded_content_description">Проширено</string>
+    <string name="mtrl_button_overflow_icon_content_description">Проширено мени</string>
+    <string name="mtrl_button_snackbar_close_content_description">Затвори</string>
+    <string name="mtrl_checkbox_state_description_checked">Штиклирано</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Делумно штиклирано</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Не е штиклирано</string>
+    <string name="mtrl_chip_close_icon_content_description">Отстрани %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Над %1$d нови известувања</string>
+    <string name="mtrl_picker_a11y_next_month">Промени на следниот месец</string>
+    <string name="mtrl_picker_a11y_prev_month">Промени на претходниот месец</string>
+    <string name="mtrl_picker_announce_current_range_selection">Избор на датум на започнување: %1$s – Избор на датум на завршување: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">Тековен избор: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">нема</string>
+    <string name="mtrl_picker_cancel">Откажи</string>
+    <string name="mtrl_picker_confirm">Во ред</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Изберете датум</string>
+    <string name="mtrl_picker_date_header_unselected">Избран датум</string>
+    <string name="mtrl_picker_day_of_week_column_header">%1$s</string>
+    <string name="mtrl_picker_end_date_description">Краен датум %1$s</string>
+    <string name="mtrl_picker_invalid_format">Неважечки формат.</string>
+    <string name="mtrl_picker_invalid_format_example">Пример: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Користете: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Погрешен опсег.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Одете на тековната година: %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">Оди на %1$d година</string>
+    <string name="mtrl_picker_next_month_tooltip">Следен месец</string>
+    <string name="mtrl_picker_out_of_range">Надвор од опсег: %1$s</string>
+    <string name="mtrl_picker_pane_title_calendar_view">Календарски приказ</string>
+    <string name="mtrl_picker_pane_title_year_view">Годишен приказ</string>
+    <string name="mtrl_picker_prev_month_tooltip">Претходен месец</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Почетен датум - %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Датум на завршување</string>
+    <string name="mtrl_picker_range_header_selected">%1$s - %2$s</string>
+    <string name="mtrl_picker_range_header_title">Изберете опсег</string>
+    <string name="mtrl_picker_range_header_unselected">Датум на започнување – Датум на завршување</string>
+    <string name="mtrl_picker_save">Зачувај</string>
+    <string name="mtrl_picker_start_date_description">Почетен датум %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">Датум</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Краен датум</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Почетен датум</string>
+    <string name="mtrl_picker_text_input_day_abbr">д</string>
+    <string name="mtrl_picker_text_input_month_abbr">м</string>
+    <string name="mtrl_picker_text_input_year_abbr">г</string>
+    <string name="mtrl_picker_today_description">Денес: %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Префрли на режим за внесување во календарот</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode_tooltip">Префрли на календар</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Префрли на приказ во „Календар“</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Префрли на режим за внесување текст</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode_tooltip">Префрли на внесување текст</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Префрли на годишен приказ</string>
+    <string name="mtrl_timepicker_cancel">Откажи</string>
+    <string name="mtrl_timepicker_confirm">Во ред</string>
+    <string msgid="542007171693138492" name="navigation_menu">"Мени за навигација"</string>
+    <string msgid="6756167867113741310" name="news_widget_recommendation_category_label">"Вести и списанија"</string>
+    <string msgid="3787956167293097509" name="no_search_results">"Не се најдени виџети или кратенки"</string>
+    <string msgid="4337693382501046170" name="no_widgets_available">"Виџетите и кратенките не се достапни"</string>
+    <string msgid="6610465462668679431" name="not_selected">"Не е избрано"</string>
+    <string msgid="6573031135582639649" name="not_set">"Не е поставено"</string>
+    <string msgid="1760796511504341095" name="notification_dots_desc_off">"Исклучено"</string>
+    <string msgid="1679848116452218908" name="notification_dots_desc_on">"Вклучено"</string>
+    <string msgid="4284221181793592871" name="notification_dots_service_title">"Прикажувај точки за известување"</string>
+    <string msgid="9062440428204120317" name="notification_dots_title">"Точки за известување"</string>
+    <string msgid="1404149926117359025" name="notifications_header">"Известувања"</string>
+    <string msgid="5555987036267226245" name="others_widget_recommendation_category_label">"Препорачано за вас"</string>
+    <string msgid="6455557115204099579" name="out_of_space">"Нема простор на почетниов екран"</string>
+    <string msgid="7592128424511031410" name="package_state_unknown">"Непознато"</string>
+    <string name="password_toggle_content_description">Прикажи ја лозинката</string>
+    <string msgid="923466509822011139" name="permdesc_install_shortcut">"Овозможува апликацијата да додава кратенки без интервенција на корисникот."</string>
+    <string msgid="4208061150510996676" name="permdesc_read_settings">"Овозможува апликацијата да ги чита поставките и кратенките на почетната страница."</string>
+    <string msgid="726859348127868466" name="permdesc_write_settings">"Овозможува апликацијата да ги менува поставките и кратенките на почетната страница."</string>
+    <string msgid="5632423390354674437" name="permlab_install_shortcut">"инсталирање кратенки"</string>
+    <string msgid="5136500343007704955" name="permlab_read_settings">"да чита поставки и кратенки на почетна страница"</string>
+    <string msgid="4820028712156303762" name="permlab_write_settings">"да пишува поставки и кратенки на почетна страница"</string>
+    <string msgid="4196423321649756498" name="pin_prediction">"Закачи го предвидувањето"</string>
+    <string msgid="6685851473431805375" name="preference_copied">"„<ns1:g id="SUMMARY">%1$s</ns1:g>“ копирано во привремена меморија."</string>
+    <string msgid="2359721649407947001" name="private_space_label">"Приватен простор"</string>
+    <string msgid="9203933341714508907" name="private_space_secondary_label">"Допрете за да поставите или отворите"</string>
+    <string msgid="3811812719618323750" name="productivity_widget_recommendation_category_label">"Неопходни"</string>
+    <string msgid="3254274107740952556" name="ps_add_button_content_description">"Инсталирање апликации во „Приватен простор“"</string>
+    <string msgid="8127988716897128773" name="ps_add_button_label">"Инсталирајте"</string>
+    <string msgid="5961993384382649530" name="ps_container_lock_button_content_description">"Приватно, заклучено."</string>
+    <string msgid="2640257399982364682" name="ps_container_lock_title">"Заклучи"</string>
+    <string msgid="6059734123353320479" name="ps_container_settings">"Поставки за „Приватен простор“"</string>
+    <string msgid="4391796149519594205" name="ps_container_title">"Приватен простор"</string>
+    <string msgid="8667331812048014412" name="ps_container_transition">"Префрлање на „Приватен простор“"</string>
+    <string msgid="9181551784092204234" name="ps_container_unlock_button_content_description">"Приватно, отклучено."</string>
+    <string msgid="5941395253238309765" name="range_end">"Крај на опсегот"</string>
+    <string msgid="7097486360902471446" name="range_start">"Почеток на опсегот"</string>
+    <string msgid="6690461455618725183" name="recent_task_option_split_screen">"Поделен екран"</string>
+    <string msgid="6336962690888067057" name="reconfigurable_widget_education_tip">"Допрете за да ги промените поставките за виџетот"</string>
+    <string msgid="1383965239183576790" name="remote_action_failed">"Не успеа: <ns1:g id="WHAT">%1$s</ns1:g>"</string>
+    <string msgid="7812859488053230776" name="remove_drop_target_label">"Отстрани"</string>
+    <string msgid="9160126848219158407" name="safemode_shortcut_error">"Преземената апликација е оневозможена во безбеден режим"</string>
+    <string msgid="4863470563535682004" name="safemode_widget_error">"Додатоците се оневозможени во безбеден режим"</string>
+    <string msgid="5647523853662686243" name="save_app_pair">"Зачувај го парот апликации"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Пребарување"</string>
+    <string name="searchview_clear_text_content_description">Бришење на текстот</string>
+    <string name="searchview_navigation_content_description">Враќање назад</string>
+    <string msgid="6043586758067023" name="selected">"Избрано"</string>
+    <string msgid="5808906607627586381" name="set_default_home_app">"Поставете <ns1:g id="LAUNCHER_NAME">%1$s</ns1:g> да биде стандардна апликација за почетен екран во „Поставки“"</string>
+    <string msgid="8873672322605444408" name="settings_button_text">"Поставки"</string>
+    <string msgid="2536503539825726397" name="shortcut_not_available">"Кратенката не е достапна"</string>
+    <string msgid="8471715556199592381" name="shortcuts_count">"{count,plural, =1{# кратенка}one{# кратенка}other{# кратенки}}"</string>
+    <string name="side_sheet_accessibility_pane_title">Страничен лист</string>
+    <string msgid="2792228137354697160" name="snackbar_pane_title">"Предупредување"</string>
+    <string msgid="689147679536384717" name="social_widget_recommendation_category_label">"Друштвени"</string>
+    <string msgid="5475288491241414932" name="split_app_info_accessibility">"Податоци за апликација за %1$s"</string>
+    <string msgid="7214375263347964093" name="split_app_usage_settings">"Поставки за користење за %1$s"</string>
+    <string msgid="4139871816613051306" name="state_empty">"Празно"</string>
+    <string msgid="5834637030682409883" name="state_off">"Исклучено"</string>
+    <string msgid="1490883874751719580" name="state_on">"Вклучено"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="8216961355289236794" name="styles_wallpaper_button_text">"Тапет и стил"</string>
+    <string msgid="1844314680798145222" name="suggested_widgets_header_title">"Предлози"</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string msgid="2561197295334830845" name="switch_role">"Прекинувач"</string>
+    <string msgid="1672349317127674378" name="tab">"Картичка"</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g> проценти."</string>
+    <string msgid="1376365968844349552" name="title_change_settings">"Промени ги поставките"</string>
+    <string msgid="7503287056163941064" name="title_missing_notification_access">"Потребен е пристап до известувањата"</string>
+    <string msgid="3765533235322692011" name="tooltip_description">"совет за алатка"</string>
+    <string msgid="3124740595719787496" name="tooltip_label">"прикажи совет за алатка"</string>
+    <string msgid="4151576204245173321" name="undo">"Врати"</string>
+    <string msgid="4722034217958379417" name="uninstall_drop_target_label">"Деинсталирај"</string>
+    <string msgid="8423460530441627982" name="uninstall_private_system_shortcut_label">"Деинсталирај ја апликацијата"</string>
+    <string msgid="4172046090762920660" name="uninstall_system_app_text">"Ова е системска апликација и не може да се деинсталира."</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"ИСКЛУЧЕНО"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"ВКЛУЧЕНО"</string>
+    <string msgid="3640149169885301790" name="widget_accessible_dims_format">"%1$d широк на %2$d висок"</string>
+    <string msgid="1810530016360039643" name="widget_add_button_content_description">"Додај го виџетот <ns1:g id="WIDGET_NAME">%1$s</ns1:g>"</string>
+    <string msgid="2761267068711937179" name="widget_add_button_label">"Додај"</string>
+    <string msgid="2880537293434387943" name="widget_button_text">"Виџети"</string>
+    <string msgid="8894438636213590446" name="widget_category_conversations">"Разговори"</string>
+    <string msgid="3469689394504266039" name="widget_category_note_taking">"Фаќање белешки"</string>
+    <string msgid="2370757736025621599" name="widget_dims_format">"%1$d × %2$d"</string>
+    <string msgid="1673313931455067502" name="widget_picker_right_pane_accessibility_title">"<ns1:g id="SELECTED_HEADER">%1$s</ns1:g> виџети оддесно, „Пребарување“ и „Опции“ одлево"</string>
+    <string msgid="9045841361655787574" name="widget_preview_context_description">"Виџет <ns1:g id="WIDGET_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8489038126122831595" name="widget_preview_name_and_dims_content_description">"Виџет <ns1:g id="WIDGET_NAME">%1$s</ns1:g>, ширина од %2$d со висина од %3$d"</string>
+    <string msgid="8811472721881205250" name="widget_reconfigure_button_content_description">"Промени ги поставките за виџетот"</string>
+    <string msgid="9130327887929620" name="widget_resized">"Големината на виџетот е променета на ширина <ns1:g id="NUMBER_0">%1$s</ns1:g> висина <ns1:g id="NUMBER_1">%2$s</ns1:g>"</string>
+    <string msgid="7209136747878365116" name="widgets_and_shortcuts_count">"<ns1:g id="WIDGETS_COUNT">%1$s</ns1:g>, <ns1:g id="SHORTCUTS_COUNT">%2$s</ns1:g>"</string>
+    <string msgid="6467746476364652096" name="widgets_count">"{count,plural, =1{# виџет}one{# виџет}other{# виџети}}"</string>
+    <string msgid="5766167035728653605" name="widgets_full_sheet_cancel_button_description">"Избриши го текстот од полето за пребарување"</string>
+    <string msgid="2743540105607120182" name="widgets_full_sheet_personal_tab">"Лични"</string>
+    <string msgid="8484659090860596457" name="widgets_full_sheet_search_bar_hint">"Пребарувајте"</string>
+    <string msgid="3767150027110633765" name="widgets_full_sheet_work_tab">"Работни"</string>
+    <string msgid="796804551140113767" name="widgets_list">"Список со виџети"</string>
+    <string msgid="6141506579418771922" name="widgets_list_closed">"Списокот со виџети е затворен"</string>
+    <string msgid="1736198302467317371" name="work_apps_enable_btn_text">"Прекини ја паузата"</string>
+    <string msgid="4669288269140620646" name="work_apps_pause_btn_text">"Паузирај ги работните апликации"</string>
+    <string msgid="261634750995824906" name="work_apps_paused_body">"Работните апликации не може да ви испраќаат известувања, да ја користат батеријата или да пристапуваат до вашата локација"</string>
+    <string msgid="6377476824357318532" name="work_apps_paused_edu_accept">"Сфатив"</string>
+    <string msgid="8872412121608402058" name="work_apps_paused_edu_banner">"Работните апликации имаат значка и се видливи за IT-администраторот"</string>
+    <string msgid="1687828929959237477" name="work_apps_paused_info_body">"Нема да примате известувања од работните апликации"</string>
+    <string msgid="8358872357502756790" name="work_apps_paused_telephony_unavailable_body">"Нема да добивате телефонски повици, текстуални пораки или известувања од работните апликации"</string>
+    <string msgid="3040901117349444598" name="work_apps_paused_title">"Работните апликации се паузирани"</string>
+    <string msgid="3753320833950115786" name="work_folder_name">"Работа"</string>
+    <string msgid="6069788082535149071" name="work_profile_edu_accept">"Сфатив"</string>
+    <string msgid="7895468576497746520" name="work_profile_edu_work_apps">"Работните апликации имаат значка и се видливи за IT-администраторот"</string>
+    <string msgid="3081029915775481146" name="work_profile_toggle_label">"Работен профил"</string>
+    <string msgid="257366611030256142" name="workspace_new_page">"Нова страница на почетен екран"</string>
+    <string msgid="8458889198184077399" name="workspace_scroll_format">"Екран на почетна страница %1$d од %2$d"</string>
+</resources>

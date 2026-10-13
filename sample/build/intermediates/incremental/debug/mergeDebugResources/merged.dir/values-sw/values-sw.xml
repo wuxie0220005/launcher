@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="apps_count">
+        <item quantity="one">%1$d Programu</item>
+        <item quantity="other">%1$d Programu</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">Arifa %d mpya</item>
+    <item quantity="other">Arifa %d mpya</item>
+  </plurals>
+    <string msgid="7610119707847920412" name="abandoned_clean_this">"Ondoa"</string>
+    <string msgid="3990027586878167529" name="abandoned_promise_explanation">"Programu ya aikoni hii haijasakinishwa. Unaweza kuiondoa, au utafute programu na uisakinishe wewe mwenyewe."</string>
+    <string msgid="7096178467971716750" name="abandoned_promises_title">"Programu hii haijasakinishwa"</string>
+    <string msgid="891119232568284442" name="abandoned_search">"Tafuta"</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Nenda mwanzo"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Sogeza juu"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Chaguo zaidi"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Nimemaliza"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Angalia zote"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Chagua programu"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"IMEZIMWA"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"IMEWASHWA"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Tafuta…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Futa hoja"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Hoja ya utafutaji"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Tafuta"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Wasilisha hoja"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Kutafuta kwa kutamka"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Shiriki na"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Shiriki ukitumia <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="5024599872061409708" name="abc_slice_permission_allow">"Ruhusu"</string>
+    <string msgid="5696872682700058611" name="abc_slice_permission_checkbox">"Ruhusu <ns1:g id="APP">%1$s</ns1:g> ionyeshe vipengee kutoka programu yoyote"</string>
+    <string msgid="3819478292430407705" name="abc_slice_permission_deny">"Kataa"</string>
+    <string msgid="4525743640399572811" name="abc_slice_permission_text_1">"- Inaweza kusoma maelezo kutoka <ns1:g id="APP">%1$s</ns1:g>"</string>
+    <string msgid="7323565634860251794" name="abc_slice_permission_text_2">"- Inaweza kuchukua hatua ndani ya <ns1:g id="APP">%1$s</ns1:g>"</string>
+    <string msgid="4175332421259324948" name="abc_slice_permission_title">"Ungependa kuruhusu <ns1:g id="APP_0">%1$s</ns1:g> ionyeshe vipengee <ns1:g id="APP_2">%2$s</ns1:g>?"</string>
+    <string msgid="3604847235923472451" name="abc_slices_permission_request">"<ns1:g id="APP_0">%1$s</ns1:g> inataka kuonyesha vipengee <ns1:g id="APP_2">%2$s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Kunja"</string>
+    <string name="about_label">Kuhusu</string>
+    <string name="accent_color">Rangi ya msisitizo</string>
+    <string msgid="2277148124685870734" name="accessibility_close">"Funga"</string>
+    <string name="accessibility_smartspace_page">Ukurasa %1$d of %2$d</string>
+    <string name="acknowledgements">Shukrani</string>
+    <string msgid="215894119683164916" name="action_add_to_workspace">"Weka kwenye skrini ya kwanza"</string>
+    <string name="action_copy">Nakili</string>
+    <string name="action_copy_link">Nakili kiungo</string>
+    <string msgid="282377193880900022" name="action_decrease_height">"Punguza urefu"</string>
+    <string msgid="1374549771083094654" name="action_decrease_width">"Punguza upana"</string>
+    <string msgid="2864038805849372848" name="action_deep_shortcut">"Njia za mkato"</string>
+    <string msgid="5909461085055959187" name="action_dismiss_notification">"Ondoa"</string>
+    <string msgid="459390020612501122" name="action_increase_height">"Ongeza urefu"</string>
+    <string msgid="8773715375078513326" name="action_increase_width">"Ongeza upana"</string>
+    <string name="action_lens">Lenzi</string>
+    <string msgid="4339390619886385032" name="action_move">"Hamisha kipengee"</string>
+    <string msgid="2170188780612570250" name="action_move_here">"Hamishia kipengee hapa"</string>
+    <string msgid="39528912300293768" name="action_move_to_workspace">"Hamishia kwenye skrini ya kwanza"</string>
+    <string name="action_paste">Bandika</string>
+    <string msgid="1802976324781771067" name="action_resize">"Badilisha ukubwa"</string>
+    <string name="action_share">Gawa</string>
+    <string name="action_upload_crash_report">Pakia kumbukumbu ya kuacha kufanya kazi</string>
+    <string name="action_upload_error">Upload imeshindwa</string>
+    <string msgid="7456344436509528827" name="activity_not_available">"Programu haipatikani"</string>
+    <string msgid="8071924732094499514" name="activity_not_found">"Programu haijasakinishwa."</string>
+    <string name="adaptive_icon_background_description">Tumia wepesi 100% wa mandharinyuma kwa nyeupe.</string>
+    <string msgid="8730547755622776606" name="add_item_request_drag_hint">"Gusa na ushikilie wijeti ili uisogeze kwenye skrini ya kwanza"</string>
+    <string msgid="9040534766770853243" name="add_to_folder">"Ongeza kwenye folda: <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="4534929978967147231" name="add_to_folder_with_app">"Ongeza kwenye folda iliyo na <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="9168649446635919791" name="add_to_home_screen">"Weka kwenye skrini ya kwanza"</string>
+    <string msgid="4793259502305558003" name="added_to_folder">"Kipengee kimeongezwa kwenye folda"</string>
+    <string msgid="4451545765448884415" name="added_to_home_screen_accessibility_text">"Umeongeza wijeti ya <ns1:g id="WIDGET_NAME">%1$s</ns1:g> kwenye skrini ya kwanza"</string>
+    <string msgid="8130441508702294465" name="all_apps_button_label">"Orodha ya programu"</string>
+    <string msgid="1315764287305224468" name="all_apps_button_personal_label">"Orodha ya programu za binafsi"</string>
+    <string msgid="7270707118948892488" name="all_apps_button_work_label">"Orodha ya programu za kazini"</string>
+    <string name="all_apps_device_search_hint">Tafuta</string>
+    <string msgid="5015784846527570951" name="all_apps_label">"Programu zote"</string>
+    <string msgid="5813968043155271636" name="all_apps_loading_message">"Inapakia programu..."</string>
+    <string name="all_apps_no_search_results">Hakuna programu zilizopatikana zinazolingana \"<ns1:g example="Android" id="query">%1$s</ns1:g>\".</string>
+    <string msgid="4190252696685155002" name="all_apps_personal_tab">"Binafsi"</string>
+    <string name="all_apps_search_bar_hint">Tafuta programu</string>
+    <string name="all_apps_search_market_message">Tafuta Programu Zaidi</string>
+    <string msgid="5889367432531296759" name="all_apps_search_results">"Matokeo ya utafutaji"</string>
+    <string msgid="4884822796154055118" name="all_apps_work_tab">"Kazini"</string>
+    <string msgid="8662546029078692509" name="allow_rotation_desc">"Simu inapozungushwa"</string>
+    <string msgid="7222049633713050106" name="allow_rotation_title">"Ruhusu kipengele cha kuzungusha skrini ya kwanza"</string>
+    <string name="allow_widget_overlap">Ruhusu Kuingiliana</string>
+    <string name="always_reload_icons_description">Epuka kutumia ikoni zilizoakibishwa kutoka kwa pakiti za ikoni</string>
+    <string name="always_reload_icons_label">Pakia Upya Ikoni kila wakati</string>
+    <string msgid="8719607706653693137" name="androidx_compose_foundation_autofill">"Jaza kiotomatiki"</string>
+    <string msgid="1150566100598813236" name="androidx_compose_ui_autofill">"Jaza kiotomatiki"</string>
+    <string msgid="7717956158562544081" name="app_archived_title">"<ns1:g id="NAME">%1$s</ns1:g> imewekwa kwenye kumbukumbu. Gusa ili upakue na urejeshe."</string>
+    <string msgid="8336702962104482644" name="app_downloading_title">"<ns1:g id="NAME">%1$s</ns1:g> inapakuliwa, <ns1:g id="PROGRESS">%2$s</ns1:g> imekamilika"</string>
+    <string name="app_drawer_columns">Safu wima za Droo ya Programu</string>
+    <string name="app_drawer_description">Programu Zilizofichwa, Hesabu ya Safu Ikoni</string>
+    <string name="app_drawer_label">Droo ya Programu</string>
+    <string name="app_info_drop_target_label">Maelezo ya Programu</string>
+    <string msgid="5864044122733792085" name="app_installing_title">"Inasakinisha <ns1:g id="NAME">%1$s</ns1:g>, imekamilika <ns1:g id="PROGRESS">%2$s</ns1:g>"</string>
+    <string name="app_label">Programu</string>
+    <string msgid="4045241727446873529" name="app_pair_default_title">"<ns1:g id="APP1">%1$s</ns1:g> | <ns1:g id="APP2">%2$s</ns1:g>"</string>
+    <string msgid="8134106404716224054" name="app_pair_name_format">"Jozi ya programu: <ns1:g id="APP1">%1$s</ns1:g> na <ns1:g id="APP2">%2$s</ns1:g>"</string>
+    <string msgid="4588897528143807002" name="app_pair_needs_unfold">"Fungua kifaa ili utumie jozi hii ya programu"</string>
+    <string msgid="3556767440808032031" name="app_pair_not_available">"Kipengele cha jozi ya programu hakipatikani"</string>
+    <string msgid="3446551575502685376" name="app_pair_unlaunchable_at_screen_size">"Jozi hii ya programu haitumiki kwenye kifaa hiki"</string>
+    <string msgid="7053938513995617849" name="app_waiting_download_title">"<ns1:g id="NAME">%1$s</ns1:g> inasubiri kusakinisha"</string>
+    <string name="apply_accent_color_label">Weka Rangi ya Lafudhi</string>
+    <string name="apply_grid">Tekeleza</string>
+    <string name="auto_adaptive_icons_description">Kwa aikoni zote zisizobadilika kiotomatiki.</string>
+    <string name="auto_adaptive_icons_label">Aikoni Zinazojirekebisha Kiotomatiki</string>
+    <string msgid="7117251166066978730" name="auto_add_shortcuts_description">"Kwa ajili ya programu mpya"</string>
+    <string name="auto_add_shortcuts_label">Ongeza Programu Mpya kwenye Skrini ya Nyumbani</string>
+    <string name="background_lightness_label">Wepesi wa usuli</string>
+    <string name="background_opacity">Uwazi wa Mandharinyuma</string>
+    <string name="backup_content_layout_and_settings">Mpangilio na Mfumo</string>
+    <string name="backup_content_wallpaper">Wallpaper</string>
+    <string name="backup_create_error">Imeshindwa kuunda nakala.</string>
+    <string name="backup_create_success">Hifadhi rudufu imeundwa.</string>
+    <string name="backup_restore_error">Imeshindwa kuunda nakala.</string>
+    <string name="backup_restore_success">Hifadhi rudufu imerejeshwa.</string>
+    <string name="battery_charging_percentage_charging_time">"%1$d%% — Itajaa baada ya %2$s"</string>
+    <string name="bottomsheet_action_collapse">Kunja</string>
+    <string name="bottomsheet_action_collapse_description">Kunja safu ya chini</string>
+    <string name="bottomsheet_action_expand">Panua</string>
+    <string name="bottomsheet_action_expand_description">Panua safu ya chini</string>
+    <string name="bottomsheet_action_expand_halfway">Panua nusu</string>
+    <string name="bottomsheet_action_half_expand_description">Panua nusu safu ya chini</string>
+    <string name="bottomsheet_drag_handle_content_description">Aikoni ya buruta</string>
+    <string name="bottomsheet_state_collapsed">Imekunjwa</string>
+    <string name="bottomsheet_state_expanded">Imepanuliwa</string>
+    <string name="bottomsheet_state_half_expanded">Imepanuliwa nusu</string>
+    <string name="bugreport_channel_name">Ripoti za matatizo</string>
+    <string name="bugreport_group_summary">%d ripoti mpya.</string>
+    <string name="bugreport_group_summary_multiple">%d ripoti mengi mapya.</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Jibu"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Video"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Kataa"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Kata simu"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Simu uliyopigiwa"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Simu inayoendelea"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Inachuja simu unayopigiwa"</string>
+    <string name="character_counter_content_description">Umeweka herufi %1$d kati ya %2$d</string>
+    <string name="character_counter_overflowed_content_description">Umepitisha idadi ya juu ya herufi %1$d kati ya %2$d</string>
+    <string name="clear_text_end_icon_content_description">Futa maandishi</string>
+    <string name="clipboard">Ubao wa kunakili</string>
+    <string msgid="406453423630273620" name="close_drawer">"Funga menyu ya kusogeza"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"Funga laha"</string>
+    <string name="color_dark">Giza</string>
+    <string name="color_light">Mwanga</string>
+    <string name="color_sliders">Vitelezi</string>
+    <string name="colors">Rangi</string>
+    <string name="columns">Nguzo</string>
+    <string name="copied_toast">Imenakiliwa kwenye ubao wa kunakili.</string>
+    <string msgid="6083905920877235314" name="copy">"Nakili"</string>
+    <string name="corner_radius_label">Radi ya kona</string>
+    <string name="crash_report_notif_title">%1$s Imesimama Ghafla</string>
+    <string name="create">Unda</string>
+    <string name="create_backup">Unda Hifadhi Nakala</string>
+    <string name="create_backup_action">Unda</string>
+    <string msgid="4050141361160214248" name="create_folder_with">"Unda folda ukitumia: <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string name="custom">Ubinafsishaji</string>
+    <string name="custom_icon_shape">Umbo la Ikoni Maalum</string>
+    <string name="custom_icon_shape_create">Unda Umbo la Ikoni Maalum</string>
+    <string name="custom_icon_shape_edit">Badilisha Umbo la Ikoni Maalum</string>
+    <string name="customize_button_text">Binafsisha ikufae</string>
+    <string name="dark_status_bar_label">Upau wa Hali ya Giza</string>
+    <string name="debug_restart_launcher">Anzisha Lawnchair</string>
+    <string msgid="8038256446254964252" name="default_error_message">"Ulichoweka si sahihi"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"Dirisha Ibukizi"</string>
+    <string msgid="7475544710230993317" name="default_scroll_format">"Ukurasa%1$d wa %2$d"</string>
+    <string name="delete">Futa</string>
+    <string name="design_and_development">Kubuni &amp; Kujenga</string>
+    <string msgid="5896817443635989056" name="developer_options_filter_hint">"Kichujio"</string>
+    <string msgid="700788437593726194" name="developer_options_title">"Chaguo za Wasanidi Programu"</string>
+    <string name="development">Kujenga</string>
+    <string name="devops">DevOps</string>
+    <string msgid="6510806469849709407" name="dialog_remove">"Ondoa"</string>
+    <string msgid="2178028071796141234" name="dialog_update">"Sasisha"</string>
+    <string msgid="4176784553982226114" name="dialog_update_message">"Programu ya aikoni hii haijasasishwa. Unaweza kusasisha mwenyewe ili uruhusu upya njia hii ya mkato au uondoe aikoni."</string>
+    <string msgid="114234265740994042" name="dialog_update_title">"Unahitaji kusasisha programu"</string>
+    <string msgid="6673129024321402780" name="disabled_app_label">"<ns1:g id="APP_NAME">%1$s</ns1:g> imezimwa"</string>
+    <string msgid="3357562989568808658" name="dismiss_prediction_label">"Isipendekeze programu"</string>
+    <string name="dock_description">Upau wa utafutaji Idadi ya Ikoni,</string>
+    <string name="dock_icons">Ikoni za Gati</string>
+    <string name="dock_label">Gati</string>
+    <string name="dogbin_uploading">Uploading…</string>
+    <string msgid="1865617679843363410" name="dotted_app_label">"{count,plural, =1{{app_name} ina arifa #}other{{app_name} ina arifa #}}"</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"Menyu kunjuzi"</string>
+    <string name="dt2s_a11y_hint">Ili kutumia Gusa Mara Mbili ili Ulale, washa huduma ya ufikiaji wa Lawnchair. Gusa Fungua Mipangilio, kisha uchague Lawnchair na uwashe Tumia Lawnchair.</string>
+    <string name="dt2s_a11y_hint_title">Washa Huduma ya Ufikiaji</string>
+    <string name="dt2s_admin_hint">Ili kutumia Gusa Mara Mbili ili Kulala, weka Lawnchair kama programu ya msimamizi wa kifaa. Gusa Fungua Mipangilio, kisha uguse \"Washa programu ya msimamizi wa kifaa hiki.\"</string>
+    <string name="dt2s_admin_hint_title">Ruhusa za Msimamizi Zinahitajika</string>
+    <string name="dt2s_admin_warning">Gusa Mara mbili ili Ulale itazimwa.</string>
+    <string name="dt2s_warning_open_settings">Fungua mfumo</string>
+    <string name="dynamic">Kubadilika kila wakati</string>
+    <string msgid="8947858375782098427" name="edit_home_screen">"Badilisha Skrini ya Kwanza"</string>
+    <string name="enable_taskbar_experimental">Washa Upau wa Kazi (Majaribio)</string>
+    <string msgid="3973107268630717874" name="entertainment_widget_recommendation_category_label">"Burudani"</string>
+    <string name="error_a11y_label">Hitilafu: si sahihi</string>
+    <string name="error_icon_content_description">Hitilafu</string>
+    <string name="error_no_market_or_browser_installed">Hakuna duka la programu au kivinjari kilichosakinishwa.</string>
+    <string name="event_provider_missing_notification_dots">Kutumia <ns1:g example="My Provider" id="providerName">%1$s</ns1:g>wezesha nukta za arifa.</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"Mipangilio ya Kina"</string>
+    <string name="experimental_features_label">Vipengele vya Majaribio</string>
+    <string name="export_to_clipboard">Hamisha kwenye ubao wa kunakili</string>
+    <string name="exposed_dropdown_menu_content_description">Onyesha menyu kunjuzi</string>
+    <string msgid="4100806530910930934" name="folder_closed">"Folda imefungwa"</string>
+    <string msgid="6409794597405184510" name="folder_created">"Folda imeundwa"</string>
+    <string msgid="5174843001373488816" name="folder_hint_text">"Badilisha Jina"</string>
+    <string msgid="8626242716117004803" name="folder_name_format_exact">"Folda: <ns1:g id="NAME">%1$s</ns1:g>, vipengee <ns1:g id="SIZE">%2$d</ns1:g>"</string>
+    <string msgid="4270108890534995199" name="folder_name_format_overflow">"Folda: <ns1:g id="NAME">%1$s</ns1:g>, vipengee <ns1:g id="SIZE">%2$d</ns1:g> au zaidi"</string>
+    <string msgid="94695026776264709" name="folder_opened">"Folda imefunguliwa, <ns1:g id="WIDTH">%1$d</ns1:g> kwa <ns1:g id="HEIGHT">%2$d</ns1:g>"</string>
+    <string name="folder_preview_bg_color_label">Rangi ya Mandharinyuma ya ikoni</string>
+    <string name="folder_preview_bg_opacity_label">Aikoni ya Uwazi wa Mandharinyuma</string>
+    <string msgid="1794088362165669656" name="folder_renamed">"Folda imebadilishwa jina kuwa <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="4625795376335528256" name="folder_tap_to_close">"Gusa ili ufunge folda"</string>
+    <string msgid="4017685068016979677" name="folder_tap_to_rename">"Gusa ili ubadilishe jina"</string>
+    <string name="folders_description">Hesabu ya Safu Mlalo na Safu Wima</string>
+    <string name="folders_label">Folder</string>
+    <string name="font_label">Fonti (ya Majaribio)</string>
+    <string name="font_picker_description">Baadhi ya maandishi hayajabadilika.</string>
+    <string name="font_picker_label">Kubinafsisha fonti</string>
+    <string name="font_variant_italic">Italiki</string>
+    <string name="font_weight_bold">Sisitizi</string>
+    <string name="font_weight_extra_black">Nyeusi</string>
+    <string name="font_weight_extra_bold">Sisitizi wa ziada</string>
+    <string name="font_weight_extra_light">Mwanga wa ziada</string>
+    <string name="font_weight_light">Mwanga</string>
+    <string name="font_weight_medium">Medium</string>
+    <string name="font_weight_regular">Regula</string>
+    <string name="font_weight_semi_bold">Semibold</string>
+    <string name="font_weight_thin">Nyembamba</string>
+    <string name="force_rounded_widgets">Pembe za Mviringo</string>
+    <string name="fuzzy_search_desc">Kadirio la kulinganisha kwa utafutaji wa programu.</string>
+    <string name="fuzzy_search_title">Utafutaji wa kifuzzy</string>
+    <string msgid="309040266978007925" name="gadget_complete_setup_text">"Gusa ili umalize kuweka mipangilio"</string>
+    <string msgid="740356548025791839" name="gadget_error_text">"Imeshindwa kupakia wijeti"</string>
+    <string msgid="8348374825537681407" name="gadget_setup_text">"Mipangilio ya wijeti"</string>
+    <string name="general_description">Rangi, Kifurushi cha Ikoni, Dots za Arifa</string>
+    <string name="general_label">Jumla</string>
+    <string name="generic_smartspace_concatenated_desc">%1$s, %2$s</string>
+    <string name="gesture_back_tap">Gonga Kitufe cha kurudi Nyuma</string>
+    <string name="gesture_double_tap">Gonga Mara Mbili</string>
+    <string name="gesture_handler_no_op">Usifanye Chochote</string>
+    <string name="gesture_handler_open_app_config">Fungua %1$s</string>
+    <string name="gesture_handler_open_app_drawer">Fungua Droo ya Programu</string>
+    <string name="gesture_handler_open_app_option">Fungua Programu</string>
+    <string name="gesture_handler_open_app_search">Fungua Utafutaji wa Programu</string>
+    <string name="gesture_handler_open_notifications">Fungua Paneli ya Arifa</string>
+    <string name="gesture_handler_open_search">Fungua Utafutaji</string>
+    <string name="gesture_handler_sleep">Lala</string>
+    <string name="gesture_home_tap">Gonga Kitufe cha Nyumbani</string>
+    <string name="gesture_swipe_down">Telezesha kidole chini</string>
+    <string name="gesture_swipe_up">Telezesha kidole juu</string>
+    <string name="gestures_description">Gonga na Swipes</string>
+    <string name="gestures_label">Ishara</string>
+    <string name="grid">Gridi</string>
+    <string name="hex">Hex</string>
+    <string name="hidden_apps_label">Programu Zilizofichwa</string>
+    <string name="hidden_apps_label_with_count">Programu Zilizofichwa (%1$d)</string>
+    <string name="hide_from_drawer">Ficha kutoka kwenye Droo ya Programu</string>
+    <string name="hide_hidden_apps_search">Ficha kwenye Matokeo ya Utafutaji</string>
+    <string msgid="5629429142036709174" name="home_screen">"Skrini ya kwanza"</string>
+    <string name="home_screen_description">Mlisho wa habari, Gridi, Ikoni</string>
+    <string name="home_screen_grid">Gridi ya Skrini ya Nyumbani</string>
+    <string name="home_screen_label">Skrini ya Nyumbani</string>
+    <string name="home_screen_lock">Funga Skrini ya Nyumbani</string>
+    <string name="home_screen_lock_description">Huzuia mabadiliko kwenye mpangilio wa skrini ya nyumbani.</string>
+    <string name="home_screen_lock_toggle_from_home_popup">Onyesha Kitufe cha Kufunga kwenye Menyu Ibukizi</string>
+    <string name="home_screen_locked">Skrini ya Nyumbani imefungwa.</string>
+    <string name="home_screen_rotation_description">Kifaa kikizungushwa.</string>
+    <string name="home_screen_rotation_label">Mzunguko wa Skrini ya Nyumbani</string>
+    <string name="home_screen_text_color">Rangi ya maandishi</string>
+    <string name="home_screen_unlock">Fungua Skrini ya Nyumbani</string>
+    <string name="hotseat_mode_disabled">Imezimwa</string>
+    <string name="hotseat_mode_google_search">Upau wa Utafutaji wa Google</string>
+    <string name="hotseat_mode_label">Wijeti ya Upau wa Utafutaji</string>
+    <string name="hotseat_mode_lawnchair">Lawnchair</string>
+    <string msgid="7448809638125333693" name="hotseat_out_of_space">"Hakuna nafasi zaidi katika treya ya Vipendeleo"</string>
+    <string name="hsb">HSB</string>
+    <string name="hsb_brightness">Mwanga</string>
+    <string name="hsb_hue">Hue</string>
+    <string name="hsb_saturation">Uenezaji</string>
+    <string name="icon_content_description">Aikoni ya Kidirisha</string>
+    <string name="icon_pack">Kifurushi cha ikoni</string>
+    <string name="icon_pack_external_picker">Fungua Kiteua cha Nje</string>
+    <string name="icon_picker_default_category">Ikoni</string>
+    <string name="icon_picker_load_failed">Imeshindwa kupakia ikoni zaidi.</string>
+    <string name="icon_picker_reset_to_default">Weka upya kwa Chaguomsingi</string>
+    <string name="icon_shape_bottom_left">Chini kushoto</string>
+    <string name="icon_shape_bottom_right">Chini kulia</string>
+    <string name="icon_shape_circle">Duara</string>
+    <string name="icon_shape_clipboard_import_error">Ubao wa kunakili hauna umbo halali wa ikoni</string>
+    <string name="icon_shape_corner">Umbo la Kona</string>
+    <string name="icon_shape_corner_cut">Kata</string>
+    <string name="icon_shape_corner_round">Mzunguko</string>
+    <string name="icon_shape_corner_squircle">Nyororo</string>
+    <string name="icon_shape_cupertino">iOS</string>
+    <string name="icon_shape_cylinder">Silinda</string>
+    <string name="icon_shape_diamond">Almasi</string>
+    <string name="icon_shape_egg">Yai</string>
+    <string name="icon_shape_label">Umbo la icon</string>
+    <string name="icon_shape_octagon">Oktagoni</string>
+    <string name="icon_shape_rounded_square">Mraba Mviringo</string>
+    <string name="icon_shape_sammy">One UI</string>
+    <string name="icon_shape_sharp_square">Mraba Mkali</string>
+    <string name="icon_shape_square">Mraba</string>
+    <string name="icon_shape_squircle">Mraba iliyochanganywa na duara</string>
+    <string name="icon_shape_system">Mfumo</string>
+    <string name="icon_shape_teardrop">Chozi</string>
+    <string name="icon_shape_top_left">Juu kushoto</string>
+    <string name="icon_shape_top_right">Juu Kulia</string>
+    <string name="icon_sizes">Umbo la ikoni</string>
+    <string name="icon_style">Mtindo wa ikoni</string>
+    <string name="icons">Ikoni</string>
+    <string name="import_from_clipboard">Leta kwenye ubao wa kunakili</string>
+    <string msgid="6827826412747255547" name="in_progress">"Inaendelea"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"Imekaguliwa kwa kiasi fulani"</string>
+    <string msgid="2539096853673231757" name="install_drop_target_label">"Sakinisha"</string>
+    <string msgid="1616889277073184841" name="install_private_system_shortcut_label">"Sakinisha faraghani"</string>
+    <string name="invalid_backup_file">Faili ya kuhifadhi nakala si sahihi.</string>
+    <string name="invalid_color">Rangi batili</string>
+    <string msgid="4211073925752213539" name="item_added_to_workspace">"Kipengee kimeongezwa kwenye skrini ya kwanza"</string>
+    <string msgid="4606538322571412879" name="item_moved">"Kipengee kimesogezwa"</string>
+    <string name="item_removed">Kipengee kimeondolewa.</string>
+    <string name="item_view_role_description">Kichupo</string>
+    <string name="label">Lebo</string>
+    <string msgid="8531721983832654978" name="label_application">"Programu"</string>
+    <string name="label_lens">Google Lens</string>
+    <string name="label_search">Tafuta</string>
+    <string name="label_size">Ukubwa wa lebo</string>
+    <string name="label_voice_search">Utafutaji wa sauti</string>
+    <string msgid="649227358658669779" name="launcher3_app_name">"Launcher3"</string>
+    <string name="launcher_default_color">Inasimamiwa na Lawnchair</string>
+    <string name="lawnchair_bug_report">Ripoti ya Hitilafu ya Lawnchair</string>
+    <string name="lawnicons_not_installed_description">Lawnicons haijasakinishwa.</string>
+    <string name="layout">Mpangilio</string>
+    <string name="loading">Inapakia…</string>
+    <string msgid="2733588281439571974" name="long_accessible_way_to_add">"Gusa mara mbili na ushikilie ili usogeze wijeti au utumie vitendo maalum."</string>
+    <string msgid="2199537273817090740" name="long_accessible_way_to_add_shortcut">"Gusa mara mbili na ushikilie ili usogeze njia ya mkato au utumie vitendo maalum."</string>
+    <string msgid="5405328730817637737" name="long_press_shortcut_to_add">"Gusa na ushikilie ili usogeze njia ya mkato."</string>
+    <string msgid="3587712543577675817" name="long_press_widget_to_add">"Gusa na ushikilie ili usogeze wijeti."</string>
+    <string name="m3_loading_indicator_content_description">Inapakia</string>
+    <string name="m3_overflow_linear_layout_button_content_description">Menyu ya vipengee vya ziada</string>
+    <string name="m3_overflow_linear_layout_button_tooltip_text">Chaguo zaidi</string>
+    <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"Kunja safu ya chini"</string>
+    <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"Ondoa safu ya chini"</string>
+    <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"Aikoni ya buruta"</string>
+    <string msgid="6670819569745899763" name="m3c_bottom_sheet_expand_description">"Panua safu ya chini"</string>
+    <string msgid="3010635850035863127" name="m3c_bottom_sheet_pane_title">"Safu ya Chini"</string>
+    <string msgid="8166741421776570875" name="m3c_date_input_headline">"Tarehe uliyoweka"</string>
+    <string msgid="229313757840775812" name="m3c_date_input_headline_description">"Tarehe uliyoweka: %1$s"</string>
+    <string msgid="6116910750161463197" name="m3c_date_input_invalid_for_pattern">"Tarehe hailingani na mpangilio unaotumika: %1$s"</string>
+    <string msgid="2521768508935305279" name="m3c_date_input_invalid_not_allowed">"Tarehe si sahihi: %1$s"</string>
+    <string msgid="7052898923934555305" name="m3c_date_input_invalid_year_range">"Tarehe uliyoweka haiambatani na kipindi husika %1$s - %2$s"</string>
+    <string msgid="2895559812010326913" name="m3c_date_input_label">"Tarehe"</string>
+    <string msgid="1237013946323089826" name="m3c_date_input_no_input_description">"Hamna"</string>
+    <string msgid="7306227249789210568" name="m3c_date_input_title">"Chagua tarehe"</string>
+    <string msgid="7605002211875882969" name="m3c_date_picker_headline">"Tarehe uliyochagua"</string>
+    <string msgid="3664277305226978227" name="m3c_date_picker_headline_description">"Ambayo umechagua: %1$s"</string>
+    <string msgid="8436650776581492840" name="m3c_date_picker_navigate_to_year_description">"Nenda kwenye mwaka %1$s"</string>
+    <string msgid="5811000998184572395" name="m3c_date_picker_no_selection_description">"Hamna"</string>
+    <string msgid="7813882352367152251" name="m3c_date_picker_scroll_to_earlier_years">"Sogeza ili uone miaka iliyopita"</string>
+    <string msgid="5727367015496556177" name="m3c_date_picker_scroll_to_later_years">"Sogeza ili uone miaka ya baadaye"</string>
+    <string msgid="1804346892470238807" name="m3c_date_picker_switch_to_calendar_mode">"Badilisha uteue tarehe kwenye kalenda"</string>
+    <string msgid="395627960681594326" name="m3c_date_picker_switch_to_day_selection">"Telezesha kidole ili uchague mwaka au gusa ili urejee kuchagua siku"</string>
+    <string msgid="2219746470065162704" name="m3c_date_picker_switch_to_input_mode">"Badilisha uandike tarehe mwenyewe"</string>
+    <string msgid="7142101321095356500" name="m3c_date_picker_switch_to_next_month">"Nenda kwenye mwezi unaofuata"</string>
+    <string msgid="228438865139394590" name="m3c_date_picker_switch_to_previous_month">"Rudi kwenye mwezi uliotangulia"</string>
+    <string msgid="791651718641787594" name="m3c_date_picker_switch_to_year_selection">"Teua mwaka"</string>
+    <string msgid="7430790972741451689" name="m3c_date_picker_title">"Chagua tarehe"</string>
+    <string msgid="3199387177749801575" name="m3c_date_picker_today_description">"Leo"</string>
+    <string msgid="2068382232816991922" name="m3c_date_picker_year_picker_pane_title">"Kiteua mwaka kimeonyeshwa"</string>
+    <string msgid="3190049423327661366" name="m3c_date_range_input_invalid_range_input">"Kipindi ulichoweka si sahihi"</string>
+    <string msgid="3148384720560189467" name="m3c_date_range_input_title">"Weka tarehe"</string>
+    <string msgid="2138321128465719402" name="m3c_date_range_picker_day_in_range">"Ipo katika kipindi"</string>
+    <string msgid="4947636797751277713" name="m3c_date_range_picker_end_headline">"Tarehe ya mwisho"</string>
+    <string msgid="602077859540990149" name="m3c_date_range_picker_scroll_to_next_month">"Sogeza ili kuonyesha mwezi ujao"</string>
+    <string msgid="4592174524846109496" name="m3c_date_range_picker_scroll_to_previous_month">"Sogeza ili kuonyesha mwezi uliopita"</string>
+    <string msgid="4665981448952749820" name="m3c_date_range_picker_start_headline">"Tarehe ya kuanza"</string>
+    <string msgid="3134165431120340385" name="m3c_date_range_picker_title">"Chagua tarehe"</string>
+    <string msgid="7617233117134790350" name="m3c_dialog">"Kidirisha"</string>
+    <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"Imekunjwa"</string>
+    <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"Imepanuliwa"</string>
+    <string msgid="8687821690726149911" name="m3c_dropdown_menu_toggle">"Badilisha hali ya menyu kunjuzi"</string>
+    <string msgid="6152806324422087846" name="m3c_search_bar_search">"Tafuta"</string>
+    <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"Ondoa"</string>
+    <string msgid="7655536806087401899" name="m3c_suggestions_available">"Mapendekezo yaliyo hapa chini"</string>
+    <string msgid="2786685010796619560" name="m3c_time_picker_am">"AM"</string>
+    <string msgid="2349193472625211372" name="m3c_time_picker_hour">"Saa"</string>
+    <string msgid="9179527532316922345" name="m3c_time_picker_hour_24h_suffix">"Saa %1$d"</string>
+    <string msgid="8876759303332837035" name="m3c_time_picker_hour_selection">"Chagua saa"</string>
+    <string msgid="3458167507790628988" name="m3c_time_picker_hour_suffix">"Saa %1$d"</string>
+    <string msgid="6973808109666874069" name="m3c_time_picker_hour_text_field">"cha moja"</string>
+    <string msgid="4313071914266462005" name="m3c_time_picker_minute">"Dakika"</string>
+    <string msgid="4699133535056739733" name="m3c_time_picker_minute_selection">"Chagua dakika"</string>
+    <string msgid="5064177921781937179" name="m3c_time_picker_minute_suffix">"Dakika %1$d"</string>
+    <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"cha dakika"</string>
+    <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"Chagua AM au PM"</string>
+    <string msgid="6616362054113087709" name="m3c_time_picker_pm">"PM"</string>
+    <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"Onyesha kidirisha cha vidokezo"</string>
+    <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"Kidirisha cha vidokezo"</string>
+    <string name="material_clock_toggle_content_description">Chagua AM au PM</string>
+    <string name="material_hour_24h_suffix">Saa %1$s</string>
+    <string name="material_hour_selection">Chagua saa</string>
+    <string name="material_hour_suffix">Saa %1$s kamili</string>
+    <string name="material_minute_selection">Chagua dakika</string>
+    <string name="material_minute_suffix">Dakika %1$s</string>
+    <string name="material_slider_range_end">Mwisho wa kiwango</string>
+    <string name="material_slider_range_start">Mwanzo wa kiwango</string>
+    <string name="material_slider_value">Thamani</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Badilisha umbo liwe la saa ya mishale wakati wa kuweka muda.</string>
+    <string name="material_timepicker_clock_mode_tooltip">Badilisha utumie hali ya saa</string>
+    <string name="material_timepicker_hour">Saa</string>
+    <string name="material_timepicker_hour_error">Sharti iwe saa 1–12</string>
+    <string name="material_timepicker_hour_error_24h">Sharti iwe saa 0–23</string>
+    <string name="material_timepicker_minute">Dakika</string>
+    <string name="material_timepicker_minute_error">Sharti iwe dakika 0–59</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Chagua wakati</string>
+    <string name="material_timepicker_text_input_mode_description">Badilisha iwe katika hali ya maandishi wakati wa kuweka muda.</string>
+    <string name="material_timepicker_text_input_mode_tooltip">Badilisha utumie mipangilio ya kuingiza data ya maandishi</string>
+    <string name="max_folder_columns">Upeo wa safu wima ya folda</string>
+    <string name="max_folder_rows">Upeo wa safu mlalo za folda</string>
+    <string name="minus_one_enable">Mlisho wa Habari</string>
+    <string name="minus_one_unavailable">Hakuna Mlisho wa Habari imesakinishwa.</string>
+    <string name="missing_notification_access_description">Ufikiaji wa arifa unahitajika.</string>
+    <string name="missing_notification_access_label">Ufikiaji wa Arifa Unahitajika</string>
+    <string msgid="5254852678218206889" name="move_to_empty_cell_description">"Hamishia safu mlalo <ns1:g id="NUMBER_0">%1$s</ns1:g> safu wima <ns1:g id="NUMBER_1">%2$s</ns1:g> kwenye <ns1:g id="STRING">%3$s</ns1:g>"</string>
+    <string msgid="6295412897075147808" name="move_to_hotseat_position">"Hamishia nafasi inayopendwa ya <ns1:g id="NUMBER">%1$s</ns1:g>"</string>
+    <string msgid="6750008980455459790" name="move_to_position">"Hamishia nafasi ya <ns1:g id="NUMBER">%1$s</ns1:g>"</string>
+    <string msgid="6898038085516271325" name="msg_disabled_by_admin">"Imezimwa na msimamizi wako"</string>
+    <string name="msg_missing_notification_access">Ili kutumia Vitone vya Arifa, ruhusu <ns1:g example="My App" id="name">%1$s</ns1:g>ufikiaji wa arifa.</string>
+    <string name="mtrl_badge_numberless_content_description">Arifa mpya</string>
+    <string name="mtrl_button_collapsed_content_description">Imekunjwa</string>
+    <string name="mtrl_button_expanded_content_description">Imepanuliwa</string>
+    <string name="mtrl_button_overflow_icon_content_description">Menyu ya vipengee vya ziada</string>
+    <string name="mtrl_button_snackbar_close_content_description">Funga</string>
+    <string name="mtrl_checkbox_state_description_checked">Kimeteuliwa</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Kimeteuliwa kwa kiasi fulani</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Hakijateuliwa</string>
+    <string name="mtrl_chip_close_icon_content_description">Ondoa %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Zaidi ya arifa %1$d mpya</string>
+    <string name="mtrl_picker_a11y_next_month">Nenda kwenye mwezi unaofuata</string>
+    <string name="mtrl_picker_a11y_prev_month">Rudi kwenye mwezi uliotangulia</string>
+    <string name="mtrl_picker_announce_current_range_selection">Uteuzi wa tarehe ya kuanza: %1$s – Uteuzi wa tarehe ya mwisho: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">Uteuzi wa sasa: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">hakuna</string>
+    <string name="mtrl_picker_cancel">Ghairi</string>
+    <string name="mtrl_picker_confirm">Sawa</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Chagua Tarehe</string>
+    <string name="mtrl_picker_date_header_unselected">Tarehe uliyochagua</string>
+    <string name="mtrl_picker_day_of_week_column_header">%1$s</string>
+    <string name="mtrl_picker_end_date_description">Tarehe ya kumaliza %1$s</string>
+    <string name="mtrl_picker_invalid_format">Muundo si sahihi</string>
+    <string name="mtrl_picker_invalid_format_example">Mfano: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Tumia: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Kipindi si sahihi.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Sogeza kwenye mwaka huu %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">Sogeza kwenye mwaka wa %1$d</string>
+    <string name="mtrl_picker_next_month_tooltip">Mwezi ujao</string>
+    <string name="mtrl_picker_out_of_range">Nje ya kipindi: %1$s</string>
+    <string name="mtrl_picker_pane_title_calendar_view">Mwonekano wa kalenda</string>
+    <string name="mtrl_picker_pane_title_year_view">Mwonekano wa mwaka</string>
+    <string name="mtrl_picker_prev_month_tooltip">Mwezi uliopita</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Tarehe ya kuanza – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Tarehe ya mwisho</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Chagua Kipindi cha Tarehe</string>
+    <string name="mtrl_picker_range_header_unselected">Tarehe ya kuanza – Tarehe ya mwisho</string>
+    <string name="mtrl_picker_save">Hifadhi</string>
+    <string name="mtrl_picker_start_date_description">Tarehe ya kuanza %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">Tarehe</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Tarehe ya mwisho</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Tarehe ya kuanza</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
+    <string name="mtrl_picker_today_description">Leo %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Tumia programu ya kuingiza data kwenye kalenda</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode_tooltip">Badili ili utumie kalenda</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Badilisha utumie mwonekano wa Kalenda</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Tumia programu ya kuingiza data ya maandishi</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode_tooltip">Badili ili utumie maandishi</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Badilisha utumie mwonekano wa mwaka</string>
+    <string name="mtrl_timepicker_cancel">Ghairi</string>
+    <string name="mtrl_timepicker_confirm">Sawa</string>
+    <string msgid="542007171693138492" name="navigation_menu">"Menyu ya kusogeza"</string>
+    <string name="news">Habari</string>
+    <string msgid="6756167867113741310" name="news_widget_recommendation_category_label">"Habari na magazeti"</string>
+    <string msgid="3787956167293097509" name="no_search_results">"Hakuna wijeti wala njia za mkato zilizopatikana"</string>
+    <string msgid="4337693382501046170" name="no_widgets_available">"Wijeti na njia za mkato hazipatikani"</string>
+    <string msgid="6610465462668679431" name="not_selected">"Hujachagua"</string>
+    <string msgid="6573031135582639649" name="not_set">"Haijawekwa"</string>
+    <string name="notification_dots">Dots za Arifa</string>
+    <string name="notification_dots_color">Rangi ya Nukta ya Arifa</string>
+    <string name="notification_dots_color_contrast_warning_always">Onyo: Nukta ya arifa &amp; Rangi za kukabiliana hazina tofauti za kutosha na kila mmoja</string>
+    <string name="notification_dots_color_contrast_warning_sometimes">Onyo: Nukta ya Arifa &amp; Rangi za kaunta haziwezi kuwa na utofautishaji wa kutosha kila wakati</string>
+    <string msgid="1760796511504341095" name="notification_dots_desc_off">"Imezimwa"</string>
+    <string msgid="1679848116452218908" name="notification_dots_desc_on">"Imewashwa"</string>
+    <string msgid="4284221181793592871" name="notification_dots_service_title">"Onyesha vitone vya arifa"</string>
+    <string name="notification_dots_text_color">Rangi ya idadi ya arifa</string>
+    <string msgid="9062440428204120317" name="notification_dots_title">"Vitone vya arifa"</string>
+    <string msgid="1404149926117359025" name="notifications_header">"Arifa"</string>
+    <string msgid="5555987036267226245" name="others_widget_recommendation_category_label">"Unayopendekezewa"</string>
+    <string msgid="6455557115204099579" name="out_of_space">"Hakuna nafasi kwenye skrini hii ya kwanza"</string>
+    <string name="override_window_corner_radius_label">Kipenyo cha Kona ya skrini</string>
+    <string msgid="7592128424511031410" name="package_state_unknown">"Yasiyojulikana"</string>
+    <string name="password_toggle_content_description">Onyesha nenosiri</string>
+    <string msgid="923466509822011139" name="permdesc_install_shortcut">"Huruhusu programu kuongeza njia za mkato bila mtumiaji kuingilia kati."</string>
+    <string msgid="4208061150510996676" name="permdesc_read_settings">"Huruhusu programu kusoma mipangilio na njia za mikato katika skrini ya kwanza."</string>
+    <string msgid="726859348127868466" name="permdesc_write_settings">"Huruhusu programu kubadilisha mipangilio na njia za mkato katika skrini ya kwanza."</string>
+    <string msgid="5632423390354674437" name="permlab_install_shortcut">"kuweka njia za mkato"</string>
+    <string msgid="5136500343007704955" name="permlab_read_settings">"kusoma mipangilio ya skrini ya kwanza na njia za mkato"</string>
+    <string msgid="4820028712156303762" name="permlab_write_settings">"kuandika mipangilio ya skrini ya kwanza na njia za mkato"</string>
+    <string name="pick_app_for_gesture">Chagua Programu</string>
+    <string name="pick_icon_from_label">Chagua Ikoni Kutoka</string>
+    <string msgid="4196423321649756498" name="pin_prediction">"Bandika Utabiri"</string>
+    <string name="pref_category_search">Tafuta</string>
+    <string name="pref_fonts_add_fonts">Ongeza Fonti</string>
+    <string name="pref_fonts_add_fonts_summary">OTF &amp; TTF Inatumika.</string>
+    <string name="pref_fonts_missing_font">Fonti Haipatikani.</string>
+    <string name="pref_search_auto_show_keyboard">Onyesha Kibodi kiotomatiki</string>
+    <string msgid="6685851473431805375" name="preference_copied">"\"<ns1:g id="SUMMARY">%1$s</ns1:g>\" imenakiliwa kwenye ubao wa kunakili."</string>
+    <string name="presets">Mipangilio mapema</string>
+    <string name="preview_label">Hakiki</string>
+    <string msgid="2359721649407947001" name="private_space_label">"Nafasi ya faragha"</string>
+    <string msgid="9203933341714508907" name="private_space_secondary_label">"Gusa uweke mipangilio au ufungue"</string>
+    <string name="product">Bidhaa</string>
+    <string msgid="3811812719618323750" name="productivity_widget_recommendation_category_label">"Vya msingi"</string>
+    <string msgid="3254274107740952556" name="ps_add_button_content_description">"Sakinisha programu kwenye Sehemu ya Faragha"</string>
+    <string msgid="8127988716897128773" name="ps_add_button_label">"Weka"</string>
+    <string msgid="5961993384382649530" name="ps_container_lock_button_content_description">"Ya faragha, imefungwa."</string>
+    <string msgid="2640257399982364682" name="ps_container_lock_title">"Funga"</string>
+    <string msgid="6059734123353320479" name="ps_container_settings">"Mipangilio ya Nafasi ya Faragha"</string>
+    <string msgid="4391796149519594205" name="ps_container_title">"Faragha"</string>
+    <string msgid="8667331812048014412" name="ps_container_transition">"Mabadiliko ya Nafasi ya Faragha"</string>
+    <string msgid="9181551784092204234" name="ps_container_unlock_button_content_description">"Ya faragha, imefunguliwa."</string>
+    <string name="qsb_search_provider_app_required">App required.</string>
+    <string name="quickstep_description">Kitufe cha kufuta yote, Radi ya Kona</string>
+    <string name="quickstep_incompatible">Ujumuishaji wa Mfumo Usiooana</string>
+    <string name="quickstep_incompatible_description">Kifaa chako kimesanidiwa kuwa na ishara za mfumo (Quickstep) zinazotolewa na%1$s, lakini toleo hili la %1$s haioani na toleo lako la Android. Ili kuendelea kutumia kifaa chako, tafadhali sanidua%1$s sasisho au kuzima%1$s kama mtoaji wa ishara ya mfumo.</string>
+    <string name="quickstep_label">Hivi Karibuni</string>
+    <string name="quickswitch_maintenance">Matengenezo ya QuickSwitch</string>
+    <string msgid="5941395253238309765" name="range_end">"Mwisho wa masafa"</string>
+    <string msgid="7097486360902471446" name="range_start">"Mwanzo wa masafa"</string>
+    <string msgid="6690461455618725183" name="recent_task_option_split_screen">"Gawa skrini"</string>
+    <string name="recents_actions_label">Vitendo vya Haraka</string>
+    <string name="recents_clear_all">Futa Yote</string>
+    <string msgid="6336962690888067057" name="reconfigurable_widget_education_tip">"Gusa ili ubadilishe mipangilio ya wijeti"</string>
+    <string msgid="1383965239183576790" name="remote_action_failed">"Hitilafu: <ns1:g id="WHAT">%1$s</ns1:g>"</string>
+    <string msgid="7812859488053230776" name="remove_drop_target_label">"Ondoa"</string>
+    <string name="reset_custom_icons">Weka upya Ikoni Maalum</string>
+    <string name="reset_custom_icons_confirmation">Aikoni zote maalum zitawekwa upya. Je, ungependa kuendelea?</string>
+    <string name="reset_font">Anzisha upya</string>
+    <string name="restore_backup">Rejesha Hifadhi Nakala</string>
+    <string name="restore_backup_action">Rejesha</string>
+    <string name="rgb">RGB</string>
+    <string name="rgb_blue">Samawati</string>
+    <string name="rgb_green">Kijani</string>
+    <string name="rgb_red">Nyekundu</string>
+    <string name="row_height_label">Urefu wa safu</string>
+    <string name="rows">Mnara</string>
+    <string msgid="9160126848219158407" name="safemode_shortcut_error">"Programu iliyopakuliwa imezimwa katika Hali Salama"</string>
+    <string msgid="4863470563535682004" name="safemode_widget_error">"Wijeti zimezimwa katika hali ya Usalama"</string>
+    <string msgid="5647523853662686243" name="save_app_pair">"Hifadhi jozi ya programu"</string>
+    <string name="search_bar_label">Upau wa Utafutaji</string>
+    <string name="search_input_action_clear_results">Futa Sanduku la Utafutaji</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Tafuta"</string>
+    <string name="search_pref_result_people_title">Watu</string>
+    <string name="search_pref_result_shortcuts_title">Njia za mkato za programu</string>
+    <string name="search_pref_result_tips_title">Vidokezo vya Pixel</string>
+    <string name="search_provider">Mhudumu wa Utafutaji</string>
+    <string name="search_provider_app_search">Utafutaji wa Programu</string>
+    <string name="searchview_clear_text_content_description">Futa maandishi</string>
+    <string name="searchview_navigation_content_description">Rudi nyuma</string>
+    <string msgid="6043586758067023" name="selected">"Umechagua"</string>
+    <string msgid="5808906607627586381" name="set_default_home_app">"Weka <ns1:g id="LAUNCHER_NAME">%1$s</ns1:g> iwe programu chaguomsingi ya mwanzo kwenye Mipangilio"</string>
+    <string name="settings">Mpangilio</string>
+    <string name="settings_button_text">Mipangilio</string>
+    <string msgid="2536503539825726397" name="shortcut_not_available">"Hakuna njia ya mkato"</string>
+    <string msgid="8471715556199592381" name="shortcuts_count">"{count,plural, =1{Njia # ya mkato}other{Njia # za mkato}}"</string>
+    <string name="show_app_search_bar">Onyesha Upau wa Utafutaji</string>
+    <string name="show_enable_smart_hide">Onyesha Wakati Jina Kamili Limechapwa</string>
+    <string name="show_home_labels">Onyesha Lebo</string>
+    <string name="show_notification_count">Onyesha hesabu ya taarifa</string>
+    <string name="show_search_result_types">Onyesha katika Matokeo ya Utafutaji</string>
+    <string name="show_status_bar">Onyesha Upau wa Hali</string>
+    <string name="show_sys_ui_scrim">Kivuli cha Juu</string>
+    <string name="side_sheet_accessibility_pane_title">Laha ya Pembeni</string>
+    <string name="smartspace_battery_charging">Kuchaji</string>
+    <string name="smartspace_battery_full">Imechajiwa</string>
+    <string name="smartspace_battery_low">Betri Imekamilika</string>
+    <string name="smartspace_battery_status">Hali ya betri</string>
+    <string name="smartspace_calendar">Kalenda</string>
+    <string name="smartspace_calendar_description">Ruhusu kuonyesha tarehe katika mifumo ya kalenda isiyo ya Gregori.</string>
+    <string name="smartspace_calendar_gregorian">Gregorian</string>
+    <string name="smartspace_calendar_label">Kubinafsisha Kalenda Kwa mtazamo</string>
+    <string name="smartspace_calendar_persian">Kiajemi</string>
+    <string name="smartspace_date">Tarehe</string>
+    <string name="smartspace_date_and_time">Tarehe&amp; Saa</string>
+    <string name="smartspace_media_info_separator">" — "</string>
+    <string name="smartspace_mode_google">Google</string>
+    <string name="smartspace_mode_google_search">Utafutaji wa Google</string>
+    <string name="smartspace_mode_label">Kwa Mtazamo Mhudumu</string>
+    <string name="smartspace_mode_lawnchair">Lawnchair</string>
+    <string name="smartspace_mode_selection">Uchaguzi wa mtoaji Kwa Mtazamo</string>
+    <string name="smartspace_now_playing">Inacheza sasa</string>
+    <string name="smartspace_preferences">Mapendeleo</string>
+    <string name="smartspace_requires_setup">Gusa ili kusanidi</string>
+    <string name="smartspace_time">Saa</string>
+    <string name="smartspace_time_12_hour_format">Umbizo la Saa 12</string>
+    <string name="smartspace_time_24_hour_format">Umbizo la Saa 24</string>
+    <string name="smartspace_time_follow_system">Fuata mfumo</string>
+    <string name="smartspace_time_format">Umbizo la wakati</string>
+    <string name="smartspace_weather">Hali ya hewa</string>
+    <string name="smartspace_widget">Kwa mtazamo</string>
+    <string name="smartspace_widget_description">Nini cha Kuonyesha</string>
+    <string name="smartspace_widget_placeholder_date">Ijumaa, Machi 3</string>
+    <string name="smartspace_widget_toggle_description">Kwa Mtazamo inaweza kuongezwa kwa mikono kwa kuwekan\"Lawnchair \" wijeti.</string>
+    <string name="smartspace_widget_toggle_label">Onyesha kwenye Skrini ya Nyumbani</string>
+    <string msgid="2792228137354697160" name="snackbar_pane_title">"Arifa"</string>
+    <string msgid="689147679536384717" name="social_widget_recommendation_category_label">"Mitandao ya kijamii"</string>
+    <string msgid="5475288491241414932" name="split_app_info_accessibility">"Maelezo ya programu ya %1$s"</string>
+    <string msgid="7214375263347964093" name="split_app_usage_settings">"Mipangilio ya matumizi ya %1$s"</string>
+    <string msgid="4139871816613051306" name="state_empty">"Tupu"</string>
+    <string msgid="5834637030682409883" name="state_off">"Imezimwa"</string>
+    <string msgid="1490883874751719580" name="state_on">"Imewashwa"</string>
+    <string name="status_bar_label">Upau wa Hali</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="status_channel_name">Hali ya Upload</string>
+    <string msgid="8216961355289236794" name="styles_wallpaper_button_text">"Mandhari na mtindo"</string>
+    <string msgid="1844314680798145222" name="suggested_widgets_header_title">"Mapendekezo"</string>
+    <string name="suggestion_pref_screen_title">Suggestions</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="support">Msaada</string>
+    <string name="support_and_pr">Support &amp; PR</string>
+    <string name="swatches">Swatches</string>
+    <string msgid="2561197295334830845" name="switch_role">"Swichi"</string>
+    <string name="system">Mfumo</string>
+    <string name="system_icons">Icons za mfumo</string>
+    <string msgid="1672349317127674378" name="tab">"Kichupo"</string>
+    <string name="taskbar_label">Upau wa kazi</string>
+    <string msgid="5946805113151406391" name="template_percent">"Asilimia <ns1:g id="PERCENTAGE">%1$d</ns1:g>."</string>
+    <string name="theme_dark">Giza</string>
+    <string name="theme_follow_wallpaper">Linganisha wallpaper</string>
+    <string name="theme_label">Mandhari</string>
+    <string name="theme_light">Mwanga</string>
+    <string name="theme_system_default">Mfumo</string>
+    <string name="themed_icon_title">Aikoni zenye Mandhari</string>
+    <string name="themed_icons_home_and_drawer_label">Skrini ya Nyumbani &amp; Droo ya Programu</string>
+    <string name="themed_icons_home_label">Home Screen</string>
+    <string name="themed_icons_off_label">Imezimwa</string>
+    <string name="title_change_settings">Badilisha Mipangilio</string>
+    <string msgid="7503287056163941064" name="title_missing_notification_access">"Inahitaji idhini ya kufikia arifa"</string>
+    <string msgid="3765533235322692011" name="tooltip_description">"kidirisha cha vidokezo"</string>
+    <string msgid="3124740595719787496" name="tooltip_label">"onyesha kidirisha cha vidokezo"</string>
+    <string name="translate">Tafsiri</string>
+    <string name="translucent_background">Mandharinyuma angavu</string>
+    <string name="transparent_background_icons">Aikoni zenye Mandhari Ya Uwazi</string>
+    <string name="transparent_background_icons_description">Tumia mandharinyuma yenye uwazi kwenye ikoni zenye mada</string>
+    <string msgid="4151576204245173321" name="undo">"Tendua"</string>
+    <string msgid="4722034217958379417" name="uninstall_drop_target_label">"Ondoa"</string>
+    <string msgid="8423460530441627982" name="uninstall_private_system_shortcut_label">"Ondoa programu"</string>
+    <string msgid="4172046090762920660" name="uninstall_system_app_text">"Hii ni programu ya mfumo na haiwezi kuondolewa."</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"IMEZIMWA"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"IMEWASHWA"</string>
+    <string name="wallpaper">Wallpaper</string>
+    <string name="wallpaper_depth_effect_description">Vuta ndani na nje ya mandhari wakati unapita kati ya maeneo ya kizindua.</string>
+    <string name="wallpaper_depth_effect_label">Athari ya Kina cha Wallpaper</string>
+    <string name="wallpaper_scrolling_label">Tembeza Wallpaper</string>
+    <string name="website_label">Tovuti</string>
+    <string name="what_to_backup">Nini cha Kuhifadhi nakala</string>
+    <string name="what_to_restore">Nini cha Kurejesha</string>
+    <string name="what_to_show">Nini cha Kuonyesha</string>
+    <string msgid="3640149169885301790" name="widget_accessible_dims_format">"Upana wa %1$d na kimo cha %2$d"</string>
+    <string msgid="1810530016360039643" name="widget_add_button_content_description">"Weka wijeti ya <ns1:g id="WIDGET_NAME">%1$s</ns1:g>"</string>
+    <string msgid="2761267068711937179" name="widget_add_button_label">"Weka"</string>
+    <string msgid="2880537293434387943" name="widget_button_text">"Wijeti"</string>
+    <string msgid="8894438636213590446" name="widget_category_conversations">"Mazungumzo"</string>
+    <string msgid="3469689394504266039" name="widget_category_note_taking">"Kuandika madokezo"</string>
+    <string msgid="2370757736025621599" name="widget_dims_format">"%1$d × %2$d"</string>
+    <string msgid="1673313931455067502" name="widget_picker_right_pane_accessibility_title">"Wijeti za <ns1:g id="SELECTED_HEADER">%1$s</ns1:g> ziko upande wa kulia, utafutaji na chaguo ziko upande wa kushoto"</string>
+    <string msgid="9045841361655787574" name="widget_preview_context_description">"Wijeti ya <ns1:g id="WIDGET_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8489038126122831595" name="widget_preview_name_and_dims_content_description">"Wijeti ya <ns1:g id="WIDGET_NAME">%1$s</ns1:g>, upana wa %2$d kwa urefu wa %3$d"</string>
+    <string msgid="8811472721881205250" name="widget_reconfigure_button_content_description">"Badilisha mipangilio ya wijeti"</string>
+    <string msgid="9130327887929620" name="widget_resized">"Wijeti imepunguzwa hadi upana <ns1:g id="NUMBER_0">%1$s</ns1:g> urefu <ns1:g id="NUMBER_1">%2$s</ns1:g>"</string>
+    <string msgid="7209136747878365116" name="widgets_and_shortcuts_count">"<ns1:g id="WIDGETS_COUNT">%1$s</ns1:g>, <ns1:g id="SHORTCUTS_COUNT">%2$s</ns1:g>"</string>
+    <string msgid="6467746476364652096" name="widgets_count">"{count,plural, =1{Wijeti #}other{Wijeti #}}"</string>
+    <string msgid="5766167035728653605" name="widgets_full_sheet_cancel_button_description">"Futa maandishi kwenye kisanduku cha kutafutia"</string>
+    <string msgid="2743540105607120182" name="widgets_full_sheet_personal_tab">"Binafsi"</string>
+    <string msgid="8484659090860596457" name="widgets_full_sheet_search_bar_hint">"Tafuta"</string>
+    <string msgid="3767150027110633765" name="widgets_full_sheet_work_tab">"Kazini"</string>
+    <string msgid="796804551140113767" name="widgets_list">"Orodha ya wijeti"</string>
+    <string msgid="6141506579418771922" name="widgets_list_closed">"Orodha ya wijeti imefungwa"</string>
+    <string name="window_corner_radius_description">Unapotelezesha kidole juu ili kufungua Ya Hivi Karibuni, programu ya sasa inafuata kidole chako, ikipungua hadi kadi. Tumia kitelezi hiki kurekebisha sehemu ya kona ya kadi ikiwa karibu na skrini nzima ili ilingane na pembe za skrini yako.</string>
+    <string name="window_corner_radius_label">Kipenyo cha Kona ya skrini</string>
+    <string msgid="1736198302467317371" name="work_apps_enable_btn_text">"Acha kusimamisha"</string>
+    <string msgid="4669288269140620646" name="work_apps_pause_btn_text">"Simamisha programu za kazini"</string>
+    <string msgid="261634750995824906" name="work_apps_paused_body">"Programu zako za kazini haziwezi kukutumia arifa, kutumia betri yako au kufikia maelezo ya mahali ulipo"</string>
+    <string msgid="6377476824357318532" name="work_apps_paused_edu_accept">"Nimeelewa"</string>
+    <string msgid="8872412121608402058" name="work_apps_paused_edu_banner">"Programu za kazini zina beji na msimamizi wako wa TEHAMA anaziona"</string>
+    <string msgid="1687828929959237477" name="work_apps_paused_info_body">"Hutaweza kupokea arifa kutoka kwenye programu zako za kazini"</string>
+    <string msgid="8358872357502756790" name="work_apps_paused_telephony_unavailable_body">"Hutaweza kupokea simu, ujumbe wa maandishi au arifa kutoka kwenye programu zako za kazini"</string>
+    <string msgid="3040901117349444598" name="work_apps_paused_title">"Programu za kazini zimesimamishwa"</string>
+    <string msgid="3753320833950115786" name="work_folder_name">"Kazini"</string>
+    <string msgid="6069788082535149071" name="work_profile_edu_accept">"Nimeelewa"</string>
+    <string msgid="7895468576497746520" name="work_profile_edu_work_apps">"Programu za kazini zina beji na msimamizi wako wa TEHAMA anaziona"</string>
+    <string msgid="3081029915775481146" name="work_profile_toggle_label">"Wasifu wa kazini"</string>
+    <string name="workspace_increase_max_grid_size_description">Ongeza ukubwa wa juu unaoruhusiwa wa gridi ya Skrini ya Nyumbani kutoka 10 x 10 to 20 x 20.</string>
+    <string name="workspace_increase_max_grid_size_label">Kuongezeka kwa Ukubwa wa Gridi ya Skrini ya Nyumbani kwa Upeo wa juu</string>
+    <string msgid="257366611030256142" name="workspace_new_page">"Ukurasa mpya wa skrini ya kwanza"</string>
+    <string msgid="8458889198184077399" name="workspace_scroll_format">"Skrini ya mwanzo %1$d ya %2$d"</string>
+    <string name="x_and_y">%1$s &amp; %2$s</string>
+    <string name="x_by_y">%1$d × %2$d</string>
+</resources>

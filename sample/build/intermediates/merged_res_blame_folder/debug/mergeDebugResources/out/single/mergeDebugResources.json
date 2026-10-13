@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.fhdfh.launcher.sample-debug-78:/drawable_ic_desktop_text.xml.flat",
+        "source": "com.fhdfh.launcher.sample-main-80:/drawable/ic_desktop_text.xml"
+    },
+    {
+        "merged": "com.fhdfh.launcher.sample-debug-78:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.fhdfh.launcher.sample-main-80:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.fhdfh.launcher.sample-debug-78:/layout_activity_sample_detail.xml.flat",
+        "source": "com.fhdfh.launcher.sample-main-80:/layout/activity_sample_detail.xml"
+    },
+    {
+        "merged": "com.fhdfh.launcher.sample-debug-78:/drawable_ic_desktop_id.xml.flat",
+        "source": "com.fhdfh.launcher.sample-main-80:/drawable/ic_desktop_id.xml"
+    },
+    {
+        "merged": "com.fhdfh.launcher.sample-debug-78:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.fhdfh.launcher.sample-main-80:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.fhdfh.launcher.sample-debug-78:/drawable_ic_desktop_sign.xml.flat",
+        "source": "com.fhdfh.launcher.sample-main-80:/drawable/ic_desktop_sign.xml"
+    },
+    {
+        "merged": "com.fhdfh.launcher.sample-debug-78:/layout_activity_sample_app.xml.flat",
+        "source": "com.fhdfh.launcher.sample-main-80:/layout/activity_sample_app.xml"
+    },
+    {
+        "merged": "com.fhdfh.launcher.sample-debug-78:/drawable_ic_desktop_scan.xml.flat",
+        "source": "com.fhdfh.launcher.sample-main-80:/drawable/ic_desktop_scan.xml"
+    },
+    {
+        "merged": "com.fhdfh.launcher.sample-debug-78:/layout_overlay_desktop_guide.xml.flat",
+        "source": "com.fhdfh.launcher.sample-main-80:/layout/overlay_desktop_guide.xml"
+    }
+]

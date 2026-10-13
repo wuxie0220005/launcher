@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d новое уведомление</item>
+    <item quantity="few">%d новых уведомления</item>
+    <item quantity="many">%d новых уведомлений</item>
+    <item quantity="other">%d нового уведомления</item>
+  </plurals>
+    <string msgid="7610119707847920412" name="abandoned_clean_this">"Убрать"</string>
+    <string msgid="3990027586878167529" name="abandoned_promise_explanation">"Приложение не установлено. Вы можете удалить значок или найти приложение и установить его вручную."</string>
+    <string msgid="7096178467971716750" name="abandoned_promises_title">"Приложение не установлено"</string>
+    <string msgid="891119232568284442" name="abandoned_search">"Найти"</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Перейти вверх"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Ещё"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Показать все"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Выберите приложение"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"ВЫКЛ"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ВКЛ"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Ввод"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fn +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Пробел"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Меню +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Введите запрос"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Удалить запрос"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Поисковый запрос"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Поиск"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Отправить запрос"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Голосовой поиск"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Поделиться с помощью"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Поделиться с помощью <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="5024599872061409708" name="abc_slice_permission_allow">"Да"</string>
+    <string msgid="5696872682700058611" name="abc_slice_permission_checkbox">"Разрешить приложению \"<ns1:g id="APP">%1$s</ns1:g>\" показывать фрагменты других приложений"</string>
+    <string msgid="3819478292430407705" name="abc_slice_permission_deny">"Нет"</string>
+    <string msgid="4525743640399572811" name="abc_slice_permission_text_1">"– Ему станут доступны данные из приложения \"<ns1:g id="APP">%1$s</ns1:g>\"."</string>
+    <string msgid="7323565634860251794" name="abc_slice_permission_text_2">"– Оно сможет совершать действия в приложении \"<ns1:g id="APP">%1$s</ns1:g>\"."</string>
+    <string msgid="4175332421259324948" name="abc_slice_permission_title">"Разрешить приложению \"<ns1:g id="APP_0">%1$s</ns1:g>\" показывать фрагменты приложения \"<ns1:g id="APP_2">%2$s</ns1:g>\"?"</string>
+    <string msgid="3604847235923472451" name="abc_slices_permission_request">"Приложение \"<ns1:g id="APP_0">%1$s</ns1:g>\" запрашивает разрешение на показ фрагментов приложения \"<ns1:g id="APP_2">%2$s</ns1:g>\"."</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Свернуть"</string>
+    <string msgid="2277148124685870734" name="accessibility_close">"Закрыть"</string>
+    <string name="accessibility_smartspace_page">Страница %1$d из %2$d</string>
+    <string msgid="215894119683164916" name="action_add_to_workspace">"Добавить на главный экран"</string>
+    <string msgid="282377193880900022" name="action_decrease_height">"Уменьшить высоту"</string>
+    <string msgid="1374549771083094654" name="action_decrease_width">"Уменьшить ширину"</string>
+    <string msgid="2864038805849372848" name="action_deep_shortcut">"Ярлыки"</string>
+    <string msgid="5909461085055959187" name="action_dismiss_notification">"Закрыть"</string>
+    <string msgid="459390020612501122" name="action_increase_height">"Увеличить высоту"</string>
+    <string msgid="8773715375078513326" name="action_increase_width">"Увеличить ширину"</string>
+    <string msgid="4339390619886385032" name="action_move">"Переместить элемент"</string>
+    <string msgid="2170188780612570250" name="action_move_here">"Переместить элемент сюда"</string>
+    <string msgid="39528912300293768" name="action_move_to_workspace">"Переместить на главный экран"</string>
+    <string msgid="1802976324781771067" name="action_resize">"Изменить размер"</string>
+    <string msgid="7456344436509528827" name="activity_not_available">"Приложение недоступно"</string>
+    <string msgid="8071924732094499514" name="activity_not_found">"Приложение удалено"</string>
+    <string msgid="8730547755622776606" name="add_item_request_drag_hint">"Нажмите на виджет и удерживайте его, чтобы переместить в нужное место на главном экране."</string>
+    <string msgid="9040534766770853243" name="add_to_folder">"Добавить в папку <ns1:g id="NAME">%1$s</ns1:g>."</string>
+    <string msgid="4534929978967147231" name="add_to_folder_with_app">"Добавить в папку с приложением \"<ns1:g id="NAME">%1$s</ns1:g>\""</string>
+    <string msgid="9168649446635919791" name="add_to_home_screen">"Добавить на главный экран"</string>
+    <string msgid="4793259502305558003" name="added_to_folder">"Элемент добавлен в папку."</string>
+    <string msgid="4451545765448884415" name="added_to_home_screen_accessibility_text">"Виджет \"<ns1:g id="WIDGET_NAME">%1$s</ns1:g>\" добавлен на главный экран"</string>
+    <string msgid="8130441508702294465" name="all_apps_button_label">"Список приложений"</string>
+    <string msgid="1315764287305224468" name="all_apps_button_personal_label">"Открыть список личных приложений"</string>
+    <string msgid="7270707118948892488" name="all_apps_button_work_label">"Открыть список приложений для работы"</string>
+    <string msgid="5015784846527570951" name="all_apps_label">"Все приложения"</string>
+    <string msgid="5813968043155271636" name="all_apps_loading_message">"Загрузка приложений…"</string>
+    <string msgid="3200346862396363786" name="all_apps_no_search_results">"По запросу \"<ns1:g id="QUERY">%1$s</ns1:g>\" ничего не найдено"</string>
+    <string msgid="4190252696685155002" name="all_apps_personal_tab">"Личные"</string>
+    <string msgid="1390553134053255246" name="all_apps_search_bar_hint">"Поиск приложений"</string>
+    <string msgid="5889367432531296759" name="all_apps_search_results">"Результаты поиска"</string>
+    <string msgid="4884822796154055118" name="all_apps_work_tab">"Рабочие"</string>
+    <string msgid="8662546029078692509" name="allow_rotation_desc">"При повороте телефона"</string>
+    <string msgid="7222049633713050106" name="allow_rotation_title">"Разрешить поворачивать главный экран"</string>
+    <string msgid="8719607706653693137" name="androidx_compose_foundation_autofill">"Автозаполнение"</string>
+    <string msgid="1150566100598813236" name="androidx_compose_ui_autofill">"Автозаполнение"</string>
+    <string msgid="7717956158562544081" name="app_archived_title">"Приложение \"<ns1:g id="NAME">%1$s</ns1:g>\" находится в архиве. Нажмите, чтобы скачать его и восстановить"</string>
+    <string msgid="8336702962104482644" name="app_downloading_title">"Скачивается \"<ns1:g id="NAME">%1$s</ns1:g>\" (<ns1:g id="PROGRESS">%2$s</ns1:g>)"</string>
+    <string msgid="692894985365717661" name="app_info_drop_target_label">"О приложении"</string>
+    <string msgid="5864044122733792085" name="app_installing_title">"Установка приложения \"<ns1:g id="NAME">%1$s</ns1:g>\" (выполнено <ns1:g id="PROGRESS">%2$s</ns1:g>)"</string>
+    <string msgid="4045241727446873529" name="app_pair_default_title">"<ns1:g id="APP1">%1$s</ns1:g> | <ns1:g id="APP2">%2$s</ns1:g>"</string>
+    <string msgid="8134106404716224054" name="app_pair_name_format">"Одновременное использование двух приложений: <ns1:g id="APP1">%1$s</ns1:g> и <ns1:g id="APP2">%2$s</ns1:g>"</string>
+    <string msgid="4588897528143807002" name="app_pair_needs_unfold">"Чтобы одновременно использовать эти два приложения, разложите устройство."</string>
+    <string msgid="3556767440808032031" name="app_pair_not_available">"Одновременное использование двух приложений недоступно"</string>
+    <string msgid="3446551575502685376" name="app_pair_unlaunchable_at_screen_size">"Одновременно использовать эти два приложения на устройстве нельзя."</string>
+    <string msgid="7053938513995617849" name="app_waiting_download_title">"Ожидание установки \"<ns1:g id="NAME">%1$s</ns1:g>\""</string>
+    <string msgid="7117251166066978730" name="auto_add_shortcuts_description">"Добавлять значки установленных приложений на главный экран"</string>
+    <string msgid="4926805029653694105" name="auto_add_shortcuts_label">"Добавлять значки приложений на главный экран"</string>
+    <string name="bottomsheet_action_collapse">Свернуть</string>
+    <string name="bottomsheet_action_collapse_description">Свернуть нижний экран</string>
+    <string name="bottomsheet_action_expand">Развернуть</string>
+    <string name="bottomsheet_action_expand_description">Развернуть нижний экран</string>
+    <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
+    <string name="bottomsheet_action_half_expand_description">Развернуть нижний экран наполовину</string>
+    <string name="bottomsheet_drag_handle_content_description">Маркер перемещения</string>
+    <string name="bottomsheet_state_collapsed">Свернуто</string>
+    <string name="bottomsheet_state_expanded">Развернуто</string>
+    <string name="bottomsheet_state_half_expanded">Развернуто наполовину</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Ответить"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Видео"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Отклонить"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Завершить"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Входящий вызов"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Текущий вызов"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Фильтрация входящего вызова"</string>
+    <string name="character_counter_content_description">Введено символов: %1$d из %2$d</string>
+    <string name="character_counter_overflowed_content_description">Превышено ограничение на количество символов (%1$d из %2$d)</string>
+    <string name="clear_text_end_icon_content_description">Очистить текстовое поле</string>
+    <string msgid="406453423630273620" name="close_drawer">"Закрыть меню навигации"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"Закрыть лист"</string>
+    <string msgid="6083905920877235314" name="copy">"Копировать"</string>
+    <string msgid="4050141361160214248" name="create_folder_with">"Создать папку с элементом <ns1:g id="NAME">%1$s</ns1:g>."</string>
+    <string msgid="8038256446254964252" name="default_error_message">"Неправильный ввод"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"Всплывающее окно"</string>
+    <string msgid="7475544710230993317" name="default_scroll_format">"Стр. %1$d из %2$d"</string>
+    <string msgid="5896817443635989056" name="developer_options_filter_hint">"Фильтр"</string>
+    <string msgid="700788437593726194" name="developer_options_title">"Для разработчиков"</string>
+    <string msgid="6510806469849709407" name="dialog_remove">"Удалить"</string>
+    <string msgid="2178028071796141234" name="dialog_update">"Обновить"</string>
+    <string msgid="4176784553982226114" name="dialog_update_message">"Эта версия приложения устарела. Обновите его вручную, чтобы снова пользоваться ярлыком, или удалите значок."</string>
+    <string msgid="114234265740994042" name="dialog_update_title">"Обновите приложение"</string>
+    <string msgid="6673129024321402780" name="disabled_app_label">"Приложение <ns1:g id="APP_NAME">%1$s</ns1:g> отключено"</string>
+    <string msgid="3357562989568808658" name="dismiss_prediction_label">"Не рекомендовать"</string>
+    <string msgid="1865617679843363410" name="dotted_app_label">"{count,plural, =1{В приложении \"{app_name}\" # уведомление}one{В приложении \"{app_name}\" # уведомление}few{В приложении \"{app_name}\" # уведомления}many{В приложении \"{app_name}\" # уведомлений}other{В приложении \"{app_name}\" # уведомления}}"</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"Раскрывающееся меню"</string>
+    <string msgid="8947858375782098427" name="edit_home_screen">"Изменить главный экран"</string>
+    <string msgid="3973107268630717874" name="entertainment_widget_recommendation_category_label">"Развлечения"</string>
+    <string name="error_a11y_label">Ошибка: недопустимое значение</string>
+    <string name="error_icon_content_description">Ошибка</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"Дополнительно"</string>
+    <string name="exposed_dropdown_menu_content_description">Показать раскрывающееся меню</string>
+    <string msgid="4100806530910930934" name="folder_closed">"Папка закрыта"</string>
+    <string msgid="6409794597405184510" name="folder_created">"Папка создана."</string>
+    <string msgid="5174843001373488816" name="folder_hint_text">"Измените название"</string>
+    <string msgid="8626242716117004803" name="folder_name_format_exact">"Папка \"<ns1:g id="NAME">%1$s</ns1:g>\" (объектов: <ns1:g id="SIZE">%2$d</ns1:g>)"</string>
+    <string msgid="4270108890534995199" name="folder_name_format_overflow">"Папка \"<ns1:g id="NAME">%1$s</ns1:g>\" (объектов: <ns1:g id="SIZE">%2$d</ns1:g> или больше)"</string>
+    <string msgid="94695026776264709" name="folder_opened">"Папка открыта, <ns1:g id="WIDTH">%1$d</ns1:g> x <ns1:g id="HEIGHT">%2$d</ns1:g>"</string>
+    <string msgid="1794088362165669656" name="folder_renamed">"Папка переименована в \"<ns1:g id="NAME">%1$s</ns1:g>\""</string>
+    <string msgid="4625795376335528256" name="folder_tap_to_close">"Нажмите, чтобы закрыть папку"</string>
+    <string msgid="4017685068016979677" name="folder_tap_to_rename">"Нажмите, чтобы подтвердить переименование"</string>
+    <string msgid="309040266978007925" name="gadget_complete_setup_text">"Нажмите, чтобы завершить настройку."</string>
+    <string msgid="740356548025791839" name="gadget_error_text">"Не удается загрузить виджет."</string>
+    <string msgid="8348374825537681407" name="gadget_setup_text">"Настройки виджета"</string>
+    <string name="generic_smartspace_concatenated_desc">%1$s, %2$s</string>
+    <string msgid="5629429142036709174" name="home_screen">"Главный экран"</string>
+    <string msgid="7448809638125333693" name="hotseat_out_of_space">"В разделе \"Избранное\" больше нет места"</string>
+    <string name="icon_content_description">Значок диалогового окна</string>
+    <string msgid="6827826412747255547" name="in_progress">"Выполняется"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"Отмечено частично"</string>
+    <string msgid="2539096853673231757" name="install_drop_target_label">"Установить"</string>
+    <string msgid="1616889277073184841" name="install_private_system_shortcut_label">"Частная установка"</string>
+    <string msgid="4211073925752213539" name="item_added_to_workspace">"Элемент добавлен на главный экран"</string>
+    <string msgid="4606538322571412879" name="item_moved">"Элемент перемещен."</string>
+    <string msgid="851119963877842327" name="item_removed">"Объект убран."</string>
+    <string name="item_view_role_description">Вкладка</string>
+    <string msgid="8531721983832654978" name="label_application">"Приложение"</string>
+    <string msgid="649227358658669779" name="launcher3_app_name">"Launcher3"</string>
+    <string msgid="2733588281439571974" name="long_accessible_way_to_add">"Чтобы использовать специальные действия или перенести виджет, нажмите на него дважды и удерживайте."</string>
+    <string msgid="2199537273817090740" name="long_accessible_way_to_add_shortcut">"Чтобы использовать специальные действия или перенести ярлык, нажмите на него дважды и удерживайте."</string>
+    <string msgid="5405328730817637737" name="long_press_shortcut_to_add">"Нажмите и удерживайте для переноса ярлыка."</string>
+    <string msgid="3587712543577675817" name="long_press_widget_to_add">"Чтобы переместить виджет, нажмите на него и удерживайте"</string>
+    <string name="m3_loading_indicator_content_description">Загрузка</string>
+    <string name="m3_overflow_linear_layout_button_content_description">Дополнительное меню</string>
+    <string name="m3_overflow_linear_layout_button_tooltip_text">Ещё</string>
+    <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"Свернуть нижний экран"</string>
+    <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"Закрыть нижний экран"</string>
+    <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"Маркер перемещения"</string>
+    <string msgid="6670819569745899763" name="m3c_bottom_sheet_expand_description">"Развернуть нижний экран"</string>
+    <string msgid="3010635850035863127" name="m3c_bottom_sheet_pane_title">"Нижний экран"</string>
+    <string msgid="8166741421776570875" name="m3c_date_input_headline">"Введенная дата"</string>
+    <string msgid="229313757840775812" name="m3c_date_input_headline_description">"Введенная дата: %1$s"</string>
+    <string msgid="6116910750161463197" name="m3c_date_input_invalid_for_pattern">"Дата не соответствует допустимому шаблону: %1$s"</string>
+    <string msgid="2521768508935305279" name="m3c_date_input_invalid_not_allowed">"Недопустимая дата: %1$s"</string>
+    <string msgid="7052898923934555305" name="m3c_date_input_invalid_year_range">"Дата не входит в допустимый диапазон: %1$s–%2$s"</string>
+    <string msgid="2895559812010326913" name="m3c_date_input_label">"Дата"</string>
+    <string msgid="1237013946323089826" name="m3c_date_input_no_input_description">"Нет"</string>
+    <string msgid="7306227249789210568" name="m3c_date_input_title">"Выберите дату"</string>
+    <string msgid="7605002211875882969" name="m3c_date_picker_headline">"Выбранная дата"</string>
+    <string msgid="3664277305226978227" name="m3c_date_picker_headline_description">"Текущий выбор: %1$s"</string>
+    <string msgid="8436650776581492840" name="m3c_date_picker_navigate_to_year_description">"Переход к %1$s году"</string>
+    <string msgid="5811000998184572395" name="m3c_date_picker_no_selection_description">"Нет"</string>
+    <string msgid="7813882352367152251" name="m3c_date_picker_scroll_to_earlier_years">"Прокрутите до более ранних лет"</string>
+    <string msgid="5727367015496556177" name="m3c_date_picker_scroll_to_later_years">"Прокрутите до более поздних лет"</string>
+    <string msgid="1804346892470238807" name="m3c_date_picker_switch_to_calendar_mode">"Перейти в режим выбора даты"</string>
+    <string msgid="395627960681594326" name="m3c_date_picker_switch_to_day_selection">"Проведите по экрану, чтобы выбрать год, или нажмите, чтобы вернуться к выбору дня."</string>
+    <string msgid="2219746470065162704" name="m3c_date_picker_switch_to_input_mode">"Перейти в режим ввода текста"</string>
+    <string msgid="7142101321095356500" name="m3c_date_picker_switch_to_next_month">"Перейти к следующему месяцу"</string>
+    <string msgid="228438865139394590" name="m3c_date_picker_switch_to_previous_month">"Перейти к предыдущему месяцу"</string>
+    <string msgid="791651718641787594" name="m3c_date_picker_switch_to_year_selection">"Перейти к выбору года"</string>
+    <string msgid="7430790972741451689" name="m3c_date_picker_title">"Выберите дату"</string>
+    <string msgid="3199387177749801575" name="m3c_date_picker_today_description">"Сегодня"</string>
+    <string msgid="2068382232816991922" name="m3c_date_picker_year_picker_pane_title">"Отображаемый выбор года"</string>
+    <string msgid="3190049423327661366" name="m3c_date_range_input_invalid_range_input">"Указан недопустимый диапазон дат."</string>
+    <string msgid="3148384720560189467" name="m3c_date_range_input_title">"Введите даты"</string>
+    <string msgid="2138321128465719402" name="m3c_date_range_picker_day_in_range">"День в диапазоне дат"</string>
+    <string msgid="4947636797751277713" name="m3c_date_range_picker_end_headline">"Конечная дата"</string>
+    <string msgid="602077859540990149" name="m3c_date_range_picker_scroll_to_next_month">"Прокрутите до следующего месяца"</string>
+    <string msgid="4592174524846109496" name="m3c_date_range_picker_scroll_to_previous_month">"Прокрутите до предыдущего месяца"</string>
+    <string msgid="4665981448952749820" name="m3c_date_range_picker_start_headline">"Начальная дата"</string>
+    <string msgid="3134165431120340385" name="m3c_date_range_picker_title">"Выберите даты"</string>
+    <string msgid="7617233117134790350" name="m3c_dialog">"Диалоговое окно"</string>
+    <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"Свернуто"</string>
+    <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"Развернуто"</string>
+    <string msgid="8687821690726149911" name="m3c_dropdown_menu_toggle">"Показать или скрыть раскрывающееся меню"</string>
+    <string msgid="6152806324422087846" name="m3c_search_bar_search">"Строка поиска"</string>
+    <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"Закрыть"</string>
+    <string msgid="7655536806087401899" name="m3c_suggestions_available">"Подсказки показаны ниже"</string>
+    <string msgid="2786685010796619560" name="m3c_time_picker_am">"AM"</string>
+    <string msgid="2349193472625211372" name="m3c_time_picker_hour">"Часы"</string>
+    <string msgid="9179527532316922345" name="m3c_time_picker_hour_24h_suffix">"%1$d ч."</string>
+    <string msgid="8876759303332837035" name="m3c_time_picker_hour_selection">"Выбрать час"</string>
+    <string msgid="3458167507790628988" name="m3c_time_picker_hour_suffix">"%1$d ч."</string>
+    <string msgid="6973808109666874069" name="m3c_time_picker_hour_text_field">"часы"</string>
+    <string msgid="4313071914266462005" name="m3c_time_picker_minute">"Минуты"</string>
+    <string msgid="4699133535056739733" name="m3c_time_picker_minute_selection">"Выберите минуты"</string>
+    <string msgid="5064177921781937179" name="m3c_time_picker_minute_suffix">"%1$d мин."</string>
+    <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"минуты"</string>
+    <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"Выбрать AM (до полудня) или PM (после полудня)"</string>
+    <string msgid="6616362054113087709" name="m3c_time_picker_pm">"PM"</string>
+    <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"Показать подсказку"</string>
+    <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"Подсказка"</string>
+    <string name="material_clock_toggle_content_description">Выберите AM (до полудня) или PM (после полудня)</string>
+    <string name="material_hour_24h_suffix">%1$s ч.</string>
+    <string name="material_hour_selection">Выберите час</string>
+    <string name="material_hour_suffix">%1$s ч.</string>
+    <string name="material_minute_selection">Выберите минуты</string>
+    <string name="material_minute_suffix">%1$s мин.</string>
+    <string name="material_slider_range_end">Конец диапазона</string>
+    <string name="material_slider_range_start">Начало диапазона</string>
+    <string name="material_slider_value">Значение</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Чтобы ввести время, перейдите в режим часов.</string>
+    <string name="material_timepicker_clock_mode_tooltip">Перейти в режим часов</string>
+    <string name="material_timepicker_hour">Час</string>
+    <string name="material_timepicker_hour_error">Укажите от 1 до 12 ч.</string>
+    <string name="material_timepicker_hour_error_24h">Укажите от 0 до 23 ч.</string>
+    <string name="material_timepicker_minute">Минуты</string>
+    <string name="material_timepicker_minute_error">Укажите от 0 до 59 мин.</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Выбор времени</string>
+    <string name="material_timepicker_text_input_mode_description">Чтобы ввести время, перейдите в режим ввода текста.</string>
+    <string name="material_timepicker_text_input_mode_tooltip">Перейти в режим ввода текста</string>
+    <string msgid="5254852678218206889" name="move_to_empty_cell_description">"Переместите в строку <ns1:g id="NUMBER_0">%1$s</ns1:g> столбца <ns1:g id="NUMBER_1">%2$s</ns1:g> на экране \"<ns1:g id="STRING">%3$s</ns1:g>\""</string>
+    <string msgid="6295412897075147808" name="move_to_hotseat_position">"Переместить в Избранное (<ns1:g id="NUMBER">%1$s</ns1:g>)"</string>
+    <string msgid="6750008980455459790" name="move_to_position">"Переместить в позицию <ns1:g id="NUMBER">%1$s</ns1:g>"</string>
+    <string msgid="6898038085516271325" name="msg_disabled_by_admin">"Функция отключена администратором"</string>
+    <string msgid="281113995110910548" name="msg_missing_notification_access">"Чтобы показывать значки уведомлений, включите уведомления в приложении \"<ns1:g id="NAME">%1$s</ns1:g>\""</string>
+    <string name="mtrl_badge_numberless_content_description">Новое уведомление</string>
+    <string name="mtrl_button_collapsed_content_description">Свернуто</string>
+    <string name="mtrl_button_expanded_content_description">Развернуто</string>
+    <string name="mtrl_button_overflow_icon_content_description">Дополнительное меню</string>
+    <string name="mtrl_button_snackbar_close_content_description">Закрыть</string>
+    <string name="mtrl_checkbox_state_description_checked">Флажок установлен.</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Флажки установлены частично.</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Флажок не установлен.</string>
+    <string name="mtrl_chip_close_icon_content_description">Удалить \"%1$s\"</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Новых уведомлений больше %1$d</string>
+    <string name="mtrl_picker_a11y_next_month">Перейти к следующему месяцу</string>
+    <string name="mtrl_picker_a11y_prev_month">Перейти к предыдущему месяцу</string>
+    <string name="mtrl_picker_announce_current_range_selection">Выбранная дата начала: %1$s. Выбранная дата окончания: %2$s.</string>
+    <string name="mtrl_picker_announce_current_selection">Выбранный элемент: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">нет</string>
+    <string name="mtrl_picker_cancel">Отмена</string>
+    <string name="mtrl_picker_confirm">ОК</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Выберите дату</string>
+    <string name="mtrl_picker_date_header_unselected">Выбранная дата</string>
+    <string name="mtrl_picker_day_of_week_column_header">%1$s</string>
+    <string name="mtrl_picker_end_date_description">Дата окончания: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Недействительный формат.</string>
+    <string name="mtrl_picker_invalid_format_example">Пример: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Используйте: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Недопустимый диапазон.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Перейти к текущему году: %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">Перейти к %1$d году</string>
+    <string name="mtrl_picker_next_month_tooltip">Следующий месяц</string>
+    <string name="mtrl_picker_out_of_range">Вне диапазона: %1$s</string>
+    <string name="mtrl_picker_pane_title_calendar_view">Режим просмотра \"Календарь\"</string>
+    <string name="mtrl_picker_pane_title_year_view">Режим просмотра \"Год\"</string>
+    <string name="mtrl_picker_prev_month_tooltip">Предыдущий месяц</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Дата начала – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Дата окончания</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Выберите диапазон дат</string>
+    <string name="mtrl_picker_range_header_unselected">Дата начала – дата окончания</string>
+    <string name="mtrl_picker_save">Сохранить</string>
+    <string name="mtrl_picker_start_date_description">Дата начала: %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">Дата</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Дата окончания</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Дата начала</string>
+    <string name="mtrl_picker_text_input_day_abbr">д</string>
+    <string name="mtrl_picker_text_input_month_abbr">м</string>
+    <string name="mtrl_picker_text_input_year_abbr">г</string>
+    <string name="mtrl_picker_today_description">Сегодня: %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Перейти в режим выбора дней</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode_tooltip">Перейти в календарь</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Перейти в режим выбора даты</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Перейти в режим ввода текста</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode_tooltip">Перейти в режим ввода текста</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Перейти в режим выбора года</string>
+    <string name="mtrl_timepicker_cancel">Отмена</string>
+    <string name="mtrl_timepicker_confirm">ОК</string>
+    <string msgid="542007171693138492" name="navigation_menu">"Меню навигации"</string>
+    <string msgid="6756167867113741310" name="news_widget_recommendation_category_label">"Новости и журналы"</string>
+    <string msgid="3787956167293097509" name="no_search_results">"Виджеты и ярлыки не найдены."</string>
+    <string msgid="4337693382501046170" name="no_widgets_available">"Виджеты и ярлыки недоступны."</string>
+    <string msgid="6610465462668679431" name="not_selected">"Не выбрано"</string>
+    <string msgid="6573031135582639649" name="not_set">"Не указано"</string>
+    <string msgid="1760796511504341095" name="notification_dots_desc_off">"Отключены"</string>
+    <string msgid="1679848116452218908" name="notification_dots_desc_on">"Включены"</string>
+    <string msgid="4284221181793592871" name="notification_dots_service_title">"Показывать значки уведомлений"</string>
+    <string msgid="9062440428204120317" name="notification_dots_title">"Значки уведомлений"</string>
+    <string msgid="1404149926117359025" name="notifications_header">"Уведомления"</string>
+    <string msgid="5555987036267226245" name="others_widget_recommendation_category_label">"Рекомендации"</string>
+    <string msgid="6455557115204099579" name="out_of_space">"На главном экране нет свободного места."</string>
+    <string msgid="7592128424511031410" name="package_state_unknown">"Неизвестно"</string>
+    <string name="password_toggle_content_description">Показать пароль</string>
+    <string msgid="923466509822011139" name="permdesc_install_shortcut">"Приложение сможет самостоятельно добавлять ярлыки."</string>
+    <string msgid="4208061150510996676" name="permdesc_read_settings">"Приложение получит доступ к данным о настройках и ярлыках на главном экране."</string>
+    <string msgid="726859348127868466" name="permdesc_write_settings">"Приложение сможет изменять настройки и ярлыки на главном экране."</string>
+    <string msgid="5632423390354674437" name="permlab_install_shortcut">"Создание ярлыков"</string>
+    <string msgid="5136500343007704955" name="permlab_read_settings">"Доступ к данным о настройках и ярлыках на главном экране"</string>
+    <string msgid="4820028712156303762" name="permlab_write_settings">"Изменение настроек и ярлыков на главном экране"</string>
+    <string msgid="4196423321649756498" name="pin_prediction">"Закрепить рекомендацию"</string>
+    <string msgid="6685851473431805375" name="preference_copied">"Текст \"<ns1:g id="SUMMARY">%1$s</ns1:g>\" скопирован в буфер обмена"</string>
+    <string msgid="2359721649407947001" name="private_space_label">"Частное пространство"</string>
+    <string msgid="9203933341714508907" name="private_space_secondary_label">"Нажмите, чтобы настроить или открыть"</string>
+    <string msgid="3811812719618323750" name="productivity_widget_recommendation_category_label">"Основное"</string>
+    <string msgid="3254274107740952556" name="ps_add_button_content_description">"Установить приложения в личном пространстве"</string>
+    <string msgid="8127988716897128773" name="ps_add_button_label">"Установить"</string>
+    <string msgid="5961993384382649530" name="ps_container_lock_button_content_description">"Личное, заблокировано."</string>
+    <string msgid="2640257399982364682" name="ps_container_lock_title">"Блокировка"</string>
+    <string msgid="6059734123353320479" name="ps_container_settings">"Настройки личного пространства"</string>
+    <string msgid="4391796149519594205" name="ps_container_title">"Частный профиль"</string>
+    <string msgid="8667331812048014412" name="ps_container_transition">"Переход к личному пространству"</string>
+    <string msgid="9181551784092204234" name="ps_container_unlock_button_content_description">"Личное, разблокировано."</string>
+    <string msgid="5941395253238309765" name="range_end">"Конец диапазона"</string>
+    <string msgid="7097486360902471446" name="range_start">"Начало диапазона"</string>
+    <string msgid="6690461455618725183" name="recent_task_option_split_screen">"Разделить экран"</string>
+    <string msgid="6336962690888067057" name="reconfigurable_widget_education_tip">"Нажмите, чтобы изменить настройки виджета"</string>
+    <string msgid="1383965239183576790" name="remote_action_failed">"Не удалось выполнить действие (<ns1:g id="WHAT">%1$s</ns1:g>)."</string>
+    <string msgid="7812859488053230776" name="remove_drop_target_label">"Убрать"</string>
+    <string msgid="9160126848219158407" name="safemode_shortcut_error">"Скачанное приложение отключено в безопасном режиме"</string>
+    <string msgid="4863470563535682004" name="safemode_widget_error">"Виджеты отключены в безопасном режиме"</string>
+    <string msgid="5647523853662686243" name="save_app_pair">"Сохранить приложения"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Поиск"</string>
+    <string name="searchview_clear_text_content_description">Очистить текстовое поле</string>
+    <string name="searchview_navigation_content_description">Назад</string>
+    <string msgid="6043586758067023" name="selected">"Выбрано"</string>
+    <string msgid="5808906607627586381" name="set_default_home_app">"Установить \"<ns1:g id="LAUNCHER_NAME">%1$s</ns1:g>\" в качестве приложения главного экрана по умолчанию в настройках"</string>
+    <string msgid="8873672322605444408" name="settings_button_text">"Настройки"</string>
+    <string msgid="2536503539825726397" name="shortcut_not_available">"Ярлык недоступен"</string>
+    <string msgid="8471715556199592381" name="shortcuts_count">"{count,plural, =1{# ярлык}one{# ярлык}few{# ярлыка}many{# ярлыков}other{# ярлыка}}"</string>
+    <string name="side_sheet_accessibility_pane_title">Боковая панель</string>
+    <string msgid="2792228137354697160" name="snackbar_pane_title">"Оповещение"</string>
+    <string msgid="689147679536384717" name="social_widget_recommendation_category_label">"Общение"</string>
+    <string msgid="5475288491241414932" name="split_app_info_accessibility">"Сведения о приложении \"%1$s\""</string>
+    <string msgid="7214375263347964093" name="split_app_usage_settings">"Настройки использования приложения \"%1$s\""</string>
+    <string msgid="4139871816613051306" name="state_empty">"Пусто"</string>
+    <string msgid="5834637030682409883" name="state_off">"Отключено"</string>
+    <string msgid="1490883874751719580" name="state_on">"Включено"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">">999"</string>
+    <string msgid="8216961355289236794" name="styles_wallpaper_button_text">"Обои и стиль"</string>
+    <string msgid="1844314680798145222" name="suggested_widgets_header_title">"Подсказки"</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string msgid="2561197295334830845" name="switch_role">"Переключатель"</string>
+    <string msgid="1672349317127674378" name="tab">"Вкладка"</string>
+    <string msgid="5946805113151406391" name="template_percent">"Процентов: <ns1:g id="PERCENTAGE">%1$d</ns1:g>."</string>
+    <string msgid="1376365968844349552" name="title_change_settings">"Изменить настройки"</string>
+    <string msgid="7503287056163941064" name="title_missing_notification_access">"Нужен доступ к уведомлениям"</string>
+    <string msgid="3765533235322692011" name="tooltip_description">"Подсказка"</string>
+    <string msgid="3124740595719787496" name="tooltip_label">"Показать подсказку"</string>
+    <string msgid="4151576204245173321" name="undo">"Отменить"</string>
+    <string msgid="4722034217958379417" name="uninstall_drop_target_label">"Удалить"</string>
+    <string msgid="8423460530441627982" name="uninstall_private_system_shortcut_label">"Удалить приложение"</string>
+    <string msgid="4172046090762920660" name="uninstall_system_app_text">"Это системное приложение, его нельзя удалить."</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"ВЫКЛ."</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"ВКЛ."</string>
+    <string msgid="3640149169885301790" name="widget_accessible_dims_format">"Ширина %1$d, высота %2$d"</string>
+    <string msgid="1810530016360039643" name="widget_add_button_content_description">"Добавить виджет \"<ns1:g id="WIDGET_NAME">%1$s</ns1:g>\""</string>
+    <string msgid="2761267068711937179" name="widget_add_button_label">"Добавить"</string>
+    <string msgid="2880537293434387943" name="widget_button_text">"Виджеты"</string>
+    <string msgid="8894438636213590446" name="widget_category_conversations">"Разговоры"</string>
+    <string msgid="3469689394504266039" name="widget_category_note_taking">"Создание заметок"</string>
+    <string msgid="2370757736025621599" name="widget_dims_format">"%1$d x %2$d"</string>
+    <string msgid="1673313931455067502" name="widget_picker_right_pane_accessibility_title">"Виджеты приложения \"<ns1:g id="SELECTED_HEADER">%1$s</ns1:g>\" находятся справа, а панель поиска и настройки – слева"</string>
+    <string msgid="9045841361655787574" name="widget_preview_context_description">"Виджет \"<ns1:g id="WIDGET_NAME">%1$s</ns1:g>\""</string>
+    <string msgid="8489038126122831595" name="widget_preview_name_and_dims_content_description">"Виджет \"<ns1:g id="WIDGET_NAME">%1$s</ns1:g>\", ширина: %2$d, высота: %3$d"</string>
+    <string msgid="8811472721881205250" name="widget_reconfigure_button_content_description">"Изменить настройки виджета"</string>
+    <string msgid="9130327887929620" name="widget_resized">"Изменен размер виджета: до <ns1:g id="NUMBER_0">%1$s</ns1:g> в ширину и <ns1:g id="NUMBER_1">%2$s</ns1:g> в высоту"</string>
+    <string msgid="7209136747878365116" name="widgets_and_shortcuts_count">"<ns1:g id="WIDGETS_COUNT">%1$s</ns1:g>, <ns1:g id="SHORTCUTS_COUNT">%2$s</ns1:g>"</string>
+    <string msgid="6467746476364652096" name="widgets_count">"{count,plural, =1{# виджет}one{# виджет}few{# виджета}many{# виджетов}other{# виджета}}"</string>
+    <string msgid="5766167035728653605" name="widgets_full_sheet_cancel_button_description">"Удалить текст из окна поиска"</string>
+    <string msgid="2743540105607120182" name="widgets_full_sheet_personal_tab">"Личные виджеты"</string>
+    <string msgid="8484659090860596457" name="widgets_full_sheet_search_bar_hint">"Поиск"</string>
+    <string msgid="3767150027110633765" name="widgets_full_sheet_work_tab">"Рабочие виджеты"</string>
+    <string msgid="796804551140113767" name="widgets_list">"Список виджетов"</string>
+    <string msgid="6141506579418771922" name="widgets_list_closed">"Список виджетов закрыт"</string>
+    <string msgid="1736198302467317371" name="work_apps_enable_btn_text">"Возобновить"</string>
+    <string msgid="4669288269140620646" name="work_apps_pause_btn_text">"Приостановить рабочие приложения"</string>
+    <string msgid="261634750995824906" name="work_apps_paused_body">"Рабочие приложения не могут отправлять уведомления, расходовать заряд батареи и получать доступ к данным о вашем местоположении."</string>
+    <string msgid="6377476824357318532" name="work_apps_paused_edu_accept">"ОК"</string>
+    <string msgid="8872412121608402058" name="work_apps_paused_edu_banner">"У рабочих приложений есть специальный значок. Они видны системному администратору."</string>
+    <string msgid="1687828929959237477" name="work_apps_paused_info_body">"Вы не будете получать уведомления от рабочих приложений."</string>
+    <string msgid="8358872357502756790" name="work_apps_paused_telephony_unavailable_body">"Вы не будете получать вызовы, текстовые сообщения и уведомления от рабочих приложений."</string>
+    <string msgid="3040901117349444598" name="work_apps_paused_title">"Рабочие приложения приостановлены"</string>
+    <string msgid="3753320833950115786" name="work_folder_name">"Работа"</string>
+    <string msgid="6069788082535149071" name="work_profile_edu_accept">"ОК"</string>
+    <string msgid="7895468576497746520" name="work_profile_edu_work_apps">"У рабочих приложений есть специальный значок. Они видны системному администратору."</string>
+    <string msgid="3081029915775481146" name="work_profile_toggle_label">"Рабочий профиль"</string>
+    <string msgid="257366611030256142" name="workspace_new_page">"Новый экран"</string>
+    <string msgid="8458889198184077399" name="workspace_scroll_format">"Главный экран %1$d из %2$d"</string>
+</resources>

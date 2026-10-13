@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 非 Compose 的 App 页。createAppPage 里 inflate 后交给 AAR ViewPager。 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/sample_app_bg"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <TextView
+        android:id="@+id/sample_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sample_title_view"
+        android:textAppearance="?attr/textAppearanceHeadlineSmall"
+        android:textColor="#FF1C1B1F" />
+
+    <TextView
+        android:id="@+id/sample_home_status"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:textColor="#FF44474F" />
+
+    <TextView
+        android:id="@+id/sample_last_shortcut"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:textColor="#FF1C1B1F"
+        android:visibility="gone" />
+
+    <Button
+        android:id="@+id/sample_home_action"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp" />
+
+    <Button
+        android:id="@+id/sample_replay_guide"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="@string/replay_desktop_guide"
+        android:visibility="gone" />
+
+    <Button
+        android:id="@+id/sample_simulate_notify"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="@string/simulate_notify" />
+
+    <Button
+        android:id="@+id/sample_open_detail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="@string/open_detail_activity" />
+
+    <Button
+        android:id="@+id/sample_open_in_page"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="@string/open_in_page" />
+
+    <Button
+        android:id="@+id/sample_switch_ui"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="@string/switch_to_compose" />
+    <Button
+        android:id="@+id/sample_drawer_background"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="@string/toggle_drawer_background" />
+</LinearLayout>

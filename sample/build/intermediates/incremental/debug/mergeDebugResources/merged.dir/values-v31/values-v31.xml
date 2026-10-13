@@ -1,0 +1,854 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="home_settings_allow_divider">false</bool>
+    <bool name="home_settings_icon_space_reserved">false</bool>
+    <color name="drop_target_hover_button_color_dark">@android:color/system_accent1_700</color>
+    <color name="drop_target_hover_button_color_light">@android:color/system_accent1_100</color>
+    <color name="drop_target_hover_text_color_dark">@android:color/system_accent1_100</color>
+    <color name="drop_target_hover_text_color_light">@android:color/system_accent1_900</color>
+    <color name="folder_hint_text_color_dark">@android:color/system_neutral2_200</color>
+    <color name="folder_hint_text_color_light">@android:color/system_neutral2_700</color>
+    <color name="folder_text_color_dark">@android:color/system_neutral1_100</color>
+    <color name="folder_text_color_light">@android:color/system_neutral1_900</color>
+    <color name="home_settings_header_accent">@android:color/system_accent1_600</color>
+    <color name="home_settings_header_collapsed">@android:color/system_neutral1_100</color>
+    <color name="home_settings_header_expanded">@android:color/system_neutral1_50</color>
+    <color name="home_settings_state_off_color">@android:color/system_accent2_100</color>
+    <color name="home_settings_state_on_color">@android:color/system_accent1_100</color>
+    <color name="home_settings_thumb_off_color">@android:color/system_neutral2_100</color>
+    <color name="home_settings_track_off_color">@android:color/system_neutral2_600</color>
+    <color name="home_settings_track_on_color">@android:color/system_accent1_600</color>
+    <color name="m3_ref_palette_dynamic_neutral0">@android:color/system_neutral1_1000</color>
+    <color name="m3_ref_palette_dynamic_neutral10">@android:color/system_neutral1_900</color>
+    <color name="m3_ref_palette_dynamic_neutral100">@android:color/system_neutral1_0</color>
+    <color name="m3_ref_palette_dynamic_neutral20">@android:color/system_neutral1_800</color>
+    <color name="m3_ref_palette_dynamic_neutral30">@android:color/system_neutral1_700</color>
+    <color name="m3_ref_palette_dynamic_neutral40">@android:color/system_neutral1_600</color>
+    <color name="m3_ref_palette_dynamic_neutral50">@android:color/system_neutral1_500</color>
+    <color name="m3_ref_palette_dynamic_neutral60">@android:color/system_neutral1_400</color>
+    <color name="m3_ref_palette_dynamic_neutral70">@android:color/system_neutral1_300</color>
+    <color name="m3_ref_palette_dynamic_neutral80">@android:color/system_neutral1_200</color>
+    <color name="m3_ref_palette_dynamic_neutral90">@android:color/system_neutral1_100</color>
+    <color name="m3_ref_palette_dynamic_neutral95">@android:color/system_neutral1_50</color>
+    <color name="m3_ref_palette_dynamic_neutral99">@android:color/system_neutral1_10</color>
+    <color name="m3_ref_palette_dynamic_neutral_variant0">@android:color/system_neutral2_1000</color>
+    <color name="m3_ref_palette_dynamic_neutral_variant10">@android:color/system_neutral2_900</color>
+    <color name="m3_ref_palette_dynamic_neutral_variant100">@android:color/system_neutral2_0</color>
+    <color name="m3_ref_palette_dynamic_neutral_variant20">@android:color/system_neutral2_800</color>
+    <color name="m3_ref_palette_dynamic_neutral_variant30">@android:color/system_neutral2_700</color>
+    <color name="m3_ref_palette_dynamic_neutral_variant40">@android:color/system_neutral2_600</color>
+    <color name="m3_ref_palette_dynamic_neutral_variant50">@android:color/system_neutral2_500</color>
+    <color name="m3_ref_palette_dynamic_neutral_variant60">@android:color/system_neutral2_400</color>
+    <color name="m3_ref_palette_dynamic_neutral_variant70">@android:color/system_neutral2_300</color>
+    <color name="m3_ref_palette_dynamic_neutral_variant80">@android:color/system_neutral2_200</color>
+    <color name="m3_ref_palette_dynamic_neutral_variant90">@android:color/system_neutral2_100</color>
+    <color name="m3_ref_palette_dynamic_neutral_variant95">@android:color/system_neutral2_50</color>
+    <color name="m3_ref_palette_dynamic_neutral_variant99">@android:color/system_neutral2_10</color>
+    <color name="m3_ref_palette_dynamic_primary0">@android:color/system_accent1_1000</color>
+    <color name="m3_ref_palette_dynamic_primary10">@android:color/system_accent1_900</color>
+    <color name="m3_ref_palette_dynamic_primary100">@android:color/system_accent1_0</color>
+    <color name="m3_ref_palette_dynamic_primary20">@android:color/system_accent1_800</color>
+    <color name="m3_ref_palette_dynamic_primary30">@android:color/system_accent1_700</color>
+    <color name="m3_ref_palette_dynamic_primary40">@android:color/system_accent1_600</color>
+    <color name="m3_ref_palette_dynamic_primary50">@android:color/system_accent1_500</color>
+    <color name="m3_ref_palette_dynamic_primary60">@android:color/system_accent1_400</color>
+    <color name="m3_ref_palette_dynamic_primary70">@android:color/system_accent1_300</color>
+    <color name="m3_ref_palette_dynamic_primary80">@android:color/system_accent1_200</color>
+    <color name="m3_ref_palette_dynamic_primary90">@android:color/system_accent1_100</color>
+    <color name="m3_ref_palette_dynamic_primary95">@android:color/system_accent1_50</color>
+    <color name="m3_ref_palette_dynamic_primary99">@android:color/system_accent1_10</color>
+    <color name="m3_ref_palette_dynamic_secondary0">@android:color/system_accent2_1000</color>
+    <color name="m3_ref_palette_dynamic_secondary10">@android:color/system_accent2_900</color>
+    <color name="m3_ref_palette_dynamic_secondary100">@android:color/system_accent2_0</color>
+    <color name="m3_ref_palette_dynamic_secondary20">@android:color/system_accent2_800</color>
+    <color name="m3_ref_palette_dynamic_secondary30">@android:color/system_accent2_700</color>
+    <color name="m3_ref_palette_dynamic_secondary40">@android:color/system_accent2_600</color>
+    <color name="m3_ref_palette_dynamic_secondary50">@android:color/system_accent2_500</color>
+    <color name="m3_ref_palette_dynamic_secondary60">@android:color/system_accent2_400</color>
+    <color name="m3_ref_palette_dynamic_secondary70">@android:color/system_accent2_300</color>
+    <color name="m3_ref_palette_dynamic_secondary80">@android:color/system_accent2_200</color>
+    <color name="m3_ref_palette_dynamic_secondary90">@android:color/system_accent2_100</color>
+    <color name="m3_ref_palette_dynamic_secondary95">@android:color/system_accent2_50</color>
+    <color name="m3_ref_palette_dynamic_secondary99">@android:color/system_accent2_10</color>
+    <color name="m3_ref_palette_dynamic_tertiary0">@android:color/system_accent3_1000</color>
+    <color name="m3_ref_palette_dynamic_tertiary10">@android:color/system_accent3_900</color>
+    <color name="m3_ref_palette_dynamic_tertiary100">@android:color/system_accent3_0</color>
+    <color name="m3_ref_palette_dynamic_tertiary20">@android:color/system_accent3_800</color>
+    <color name="m3_ref_palette_dynamic_tertiary30">@android:color/system_accent3_700</color>
+    <color name="m3_ref_palette_dynamic_tertiary40">@android:color/system_accent3_600</color>
+    <color name="m3_ref_palette_dynamic_tertiary50">@android:color/system_accent3_500</color>
+    <color name="m3_ref_palette_dynamic_tertiary60">@android:color/system_accent3_400</color>
+    <color name="m3_ref_palette_dynamic_tertiary70">@android:color/system_accent3_300</color>
+    <color name="m3_ref_palette_dynamic_tertiary80">@android:color/system_accent3_200</color>
+    <color name="m3_ref_palette_dynamic_tertiary90">@android:color/system_accent3_100</color>
+    <color name="m3_ref_palette_dynamic_tertiary95">@android:color/system_accent3_50</color>
+    <color name="m3_ref_palette_dynamic_tertiary99">@android:color/system_accent3_10</color>
+    <color name="m3_sys_color_dynamic_dark_background">@color/m3_ref_palette_dynamic_neutral_variant6</color>
+    <color name="m3_sys_color_dynamic_dark_inverse_on_surface">@color/m3_ref_palette_dynamic_neutral20</color>
+    <color name="m3_sys_color_dynamic_dark_inverse_primary">@color/m3_ref_palette_dynamic_primary40</color>
+    <color name="m3_sys_color_dynamic_dark_inverse_surface">@color/m3_ref_palette_dynamic_neutral90</color>
+    <color name="m3_sys_color_dynamic_dark_on_background">@color/m3_ref_palette_dynamic_neutral90</color>
+    <color name="m3_sys_color_dynamic_dark_on_primary">@color/m3_ref_palette_dynamic_primary20</color>
+    <color name="m3_sys_color_dynamic_dark_on_primary_container">@color/m3_ref_palette_dynamic_primary90</color>
+    <color name="m3_sys_color_dynamic_dark_on_secondary">@color/m3_ref_palette_dynamic_secondary20</color>
+    <color name="m3_sys_color_dynamic_dark_on_secondary_container">@color/m3_ref_palette_dynamic_secondary90</color>
+    <color name="m3_sys_color_dynamic_dark_on_surface">@color/m3_ref_palette_dynamic_neutral90</color>
+    <color name="m3_sys_color_dynamic_dark_on_surface_variant">@color/m3_ref_palette_dynamic_neutral_variant80</color>
+    <color name="m3_sys_color_dynamic_dark_on_tertiary">@color/m3_ref_palette_dynamic_tertiary20</color>
+    <color name="m3_sys_color_dynamic_dark_on_tertiary_container">@color/m3_ref_palette_dynamic_tertiary90</color>
+    <color name="m3_sys_color_dynamic_dark_outline">@color/m3_ref_palette_dynamic_neutral_variant60</color>
+    <color name="m3_sys_color_dynamic_dark_outline_variant">@color/m3_ref_palette_dynamic_neutral_variant30</color>
+    <color name="m3_sys_color_dynamic_dark_primary">@color/m3_ref_palette_dynamic_primary80</color>
+    <color name="m3_sys_color_dynamic_dark_primary_container">@color/m3_ref_palette_dynamic_primary30</color>
+    <color name="m3_sys_color_dynamic_dark_secondary">@color/m3_ref_palette_dynamic_secondary80</color>
+    <color name="m3_sys_color_dynamic_dark_secondary_container">@color/m3_ref_palette_dynamic_secondary30</color>
+    <color name="m3_sys_color_dynamic_dark_surface">@color/m3_ref_palette_dynamic_neutral_variant6</color>
+    <color name="m3_sys_color_dynamic_dark_surface_bright">@color/m3_ref_palette_dynamic_neutral_variant24</color>
+    <color name="m3_sys_color_dynamic_dark_surface_container">@color/m3_ref_palette_dynamic_neutral_variant12</color>
+    <color name="m3_sys_color_dynamic_dark_surface_container_high">@color/m3_ref_palette_dynamic_neutral_variant17</color>
+    <color name="m3_sys_color_dynamic_dark_surface_container_highest">@color/m3_ref_palette_dynamic_neutral_variant22</color>
+    <color name="m3_sys_color_dynamic_dark_surface_container_low">@color/m3_ref_palette_dynamic_neutral_variant10</color>
+    <color name="m3_sys_color_dynamic_dark_surface_container_lowest">@color/m3_ref_palette_dynamic_neutral_variant4</color>
+    <color name="m3_sys_color_dynamic_dark_surface_dim">@color/m3_ref_palette_dynamic_neutral_variant6</color>
+    <color name="m3_sys_color_dynamic_dark_surface_variant">@color/m3_ref_palette_dynamic_neutral_variant30</color>
+    <color name="m3_sys_color_dynamic_dark_tertiary">@color/m3_ref_palette_dynamic_tertiary80</color>
+    <color name="m3_sys_color_dynamic_dark_tertiary_container">@color/m3_ref_palette_dynamic_tertiary30</color>
+    <color name="m3_sys_color_dynamic_light_background">@color/m3_ref_palette_dynamic_neutral_variant98</color>
+    <color name="m3_sys_color_dynamic_light_inverse_on_surface">@color/m3_ref_palette_dynamic_neutral95</color>
+    <color name="m3_sys_color_dynamic_light_inverse_primary">@color/m3_ref_palette_dynamic_primary80</color>
+    <color name="m3_sys_color_dynamic_light_inverse_surface">@color/m3_ref_palette_dynamic_neutral20</color>
+    <color name="m3_sys_color_dynamic_light_on_background">@color/m3_ref_palette_dynamic_neutral10</color>
+    <color name="m3_sys_color_dynamic_light_on_primary">@color/m3_ref_palette_dynamic_primary100</color>
+    <color name="m3_sys_color_dynamic_light_on_primary_container">@color/m3_ref_palette_dynamic_primary10</color>
+    <color name="m3_sys_color_dynamic_light_on_secondary">@color/m3_ref_palette_dynamic_secondary100</color>
+    <color name="m3_sys_color_dynamic_light_on_secondary_container">@color/m3_ref_palette_dynamic_secondary10</color>
+    <color name="m3_sys_color_dynamic_light_on_surface">@color/m3_ref_palette_dynamic_neutral10</color>
+    <color name="m3_sys_color_dynamic_light_on_surface_variant">@color/m3_ref_palette_dynamic_neutral_variant30</color>
+    <color name="m3_sys_color_dynamic_light_on_tertiary">@color/m3_ref_palette_dynamic_tertiary100</color>
+    <color name="m3_sys_color_dynamic_light_on_tertiary_container">@color/m3_ref_palette_dynamic_tertiary10</color>
+    <color name="m3_sys_color_dynamic_light_outline">@color/m3_ref_palette_dynamic_neutral_variant50</color>
+    <color name="m3_sys_color_dynamic_light_outline_variant">@color/m3_ref_palette_dynamic_neutral_variant80</color>
+    <color name="m3_sys_color_dynamic_light_primary">@color/m3_ref_palette_dynamic_primary40</color>
+    <color name="m3_sys_color_dynamic_light_primary_container">@color/m3_ref_palette_dynamic_primary90</color>
+    <color name="m3_sys_color_dynamic_light_secondary">@color/m3_ref_palette_dynamic_secondary40</color>
+    <color name="m3_sys_color_dynamic_light_secondary_container">@color/m3_ref_palette_dynamic_secondary90</color>
+    <color name="m3_sys_color_dynamic_light_surface">@color/m3_ref_palette_dynamic_neutral_variant98</color>
+    <color name="m3_sys_color_dynamic_light_surface_bright">@color/m3_ref_palette_dynamic_neutral_variant98</color>
+    <color name="m3_sys_color_dynamic_light_surface_container">@color/m3_ref_palette_dynamic_neutral_variant94</color>
+    <color name="m3_sys_color_dynamic_light_surface_container_high">@color/m3_ref_palette_dynamic_neutral_variant92</color>
+    <color name="m3_sys_color_dynamic_light_surface_container_highest">@color/m3_ref_palette_dynamic_neutral_variant90</color>
+    <color name="m3_sys_color_dynamic_light_surface_container_low">@color/m3_ref_palette_dynamic_neutral_variant96</color>
+    <color name="m3_sys_color_dynamic_light_surface_container_lowest">@color/m3_ref_palette_dynamic_neutral_variant100</color>
+    <color name="m3_sys_color_dynamic_light_surface_dim">@color/m3_ref_palette_dynamic_neutral_variant87</color>
+    <color name="m3_sys_color_dynamic_light_surface_variant">@color/m3_ref_palette_dynamic_neutral_variant90</color>
+    <color name="m3_sys_color_dynamic_light_tertiary">@color/m3_ref_palette_dynamic_tertiary40</color>
+    <color name="m3_sys_color_dynamic_light_tertiary_container">@color/m3_ref_palette_dynamic_tertiary90</color>
+    <color name="m3_sys_color_dynamic_on_primary_fixed">@color/m3_ref_palette_dynamic_primary10</color>
+    <color name="m3_sys_color_dynamic_on_primary_fixed_variant">@color/m3_ref_palette_dynamic_primary30</color>
+    <color name="m3_sys_color_dynamic_on_secondary_fixed">@color/m3_ref_palette_dynamic_secondary10</color>
+    <color name="m3_sys_color_dynamic_on_secondary_fixed_variant">@color/m3_ref_palette_dynamic_secondary30</color>
+    <color name="m3_sys_color_dynamic_on_tertiary_fixed">@color/m3_ref_palette_dynamic_tertiary10</color>
+    <color name="m3_sys_color_dynamic_on_tertiary_fixed_variant">@color/m3_ref_palette_dynamic_tertiary30</color>
+    <color name="m3_sys_color_dynamic_primary_fixed">@color/m3_ref_palette_dynamic_primary90</color>
+    <color name="m3_sys_color_dynamic_primary_fixed_dim">@color/m3_ref_palette_dynamic_primary80</color>
+    <color name="m3_sys_color_dynamic_secondary_fixed">@color/m3_ref_palette_dynamic_secondary90</color>
+    <color name="m3_sys_color_dynamic_secondary_fixed_dim">@color/m3_ref_palette_dynamic_secondary80</color>
+    <color name="m3_sys_color_dynamic_tertiary_fixed">@color/m3_ref_palette_dynamic_tertiary90</color>
+    <color name="m3_sys_color_dynamic_tertiary_fixed_dim">@color/m3_ref_palette_dynamic_tertiary80</color>
+    <color name="material_color_error_container">#FFDAD5</color>
+    <color name="material_color_on_background">@android:color/system_neutral1_50</color>
+    <color name="material_color_on_error">#FFFFFF</color>
+    <color name="material_color_on_error_container">#410000</color>
+    <color name="material_color_on_primary">@android:color/system_accent1_0</color>
+    <color name="material_color_on_primary_container">@android:color/system_accent1_900</color>
+    <color name="material_color_on_primary_fixed">@android:color/system_accent1_900</color>
+    <color name="material_color_on_primary_fixed_variant">@android:color/system_accent1_700</color>
+    <color name="material_color_on_secondary">@android:color/system_accent2_0</color>
+    <color name="material_color_on_secondary_container">@android:color/system_accent2_900</color>
+    <color name="material_color_on_secondary_fixed">@android:color/system_accent2_900</color>
+    <color name="material_color_on_secondary_fixed_variant">@android:color/system_accent2_700</color>
+    <color name="material_color_on_surface">@android:color/system_neutral1_900</color>
+    <color name="material_color_on_surface_inverse">@android:color/system_neutral1_100</color>
+    <color name="material_color_on_surface_variant">@android:color/system_neutral2_700</color>
+    <color name="material_color_on_tertiary">@android:color/system_accent3_0</color>
+    <color name="material_color_on_tertiary_container">@android:color/system_accent3_900</color>
+    <color name="material_color_on_tertiary_fixed">@android:color/system_accent3_900</color>
+    <color name="material_color_on_tertiary_fixed_variant">@android:color/system_accent3_700</color>
+    <color name="material_color_outline">@android:color/system_neutral2_500</color>
+    <color name="material_color_outline_variant">@android:color/system_neutral2_200</color>
+    <color name="material_color_primary">@android:color/system_accent1_600</color>
+    <color name="material_color_primary_container">@android:color/system_accent1_100</color>
+    <color name="material_color_primary_fixed">@android:color/system_accent1_100</color>
+    <color name="material_color_primary_fixed_dim">@android:color/system_accent1_200</color>
+    <color name="material_color_primary_inverse">@android:color/system_accent1_200</color>
+    <color name="material_color_secondary">@android:color/system_accent2_600</color>
+    <color name="material_color_secondary_container">@android:color/system_accent2_100</color>
+    <color name="material_color_secondary_fixed">@android:color/system_accent2_100</color>
+    <color name="material_color_secondary_fixed_dim">@android:color/system_accent2_200</color>
+    <color name="material_color_tertiary">@android:color/system_accent3_600</color>
+    <color name="material_color_tertiary_container">@android:color/system_accent3_100</color>
+    <color name="material_color_tertiary_fixed">@android:color/system_accent3_100</color>
+    <color name="material_color_tertiary_fixed_dim">@android:color/system_accent3_200</color>
+    <color name="material_dynamic_color_dark_error">@color/m3_sys_color_dark_error</color>
+    <color name="material_dynamic_color_dark_error_container">@color/m3_sys_color_dark_error_container</color>
+    <color name="material_dynamic_color_dark_on_error">@color/m3_sys_color_dark_on_error</color>
+    <color name="material_dynamic_color_dark_on_error_container">@color/m3_sys_color_dark_on_error_container</color>
+    <color name="material_dynamic_color_light_error">@color/m3_sys_color_light_error</color>
+    <color name="material_dynamic_color_light_error_container">@color/m3_sys_color_light_error_container</color>
+    <color name="material_dynamic_color_light_on_error">@color/m3_sys_color_light_on_error</color>
+    <color name="material_dynamic_color_light_on_error_container">@color/m3_sys_color_light_on_error_container</color>
+    <color name="material_dynamic_neutral0">@color/m3_ref_palette_dynamic_neutral0</color>
+    <color name="material_dynamic_neutral10">@color/m3_ref_palette_dynamic_neutral10</color>
+    <color name="material_dynamic_neutral100">@color/m3_ref_palette_dynamic_neutral100</color>
+    <color name="material_dynamic_neutral20">@color/m3_ref_palette_dynamic_neutral20</color>
+    <color name="material_dynamic_neutral30">@color/m3_ref_palette_dynamic_neutral30</color>
+    <color name="material_dynamic_neutral40">@color/m3_ref_palette_dynamic_neutral40</color>
+    <color name="material_dynamic_neutral50">@color/m3_ref_palette_dynamic_neutral50</color>
+    <color name="material_dynamic_neutral60">@color/m3_ref_palette_dynamic_neutral60</color>
+    <color name="material_dynamic_neutral70">@color/m3_ref_palette_dynamic_neutral70</color>
+    <color name="material_dynamic_neutral80">@color/m3_ref_palette_dynamic_neutral80</color>
+    <color name="material_dynamic_neutral90">@color/m3_ref_palette_dynamic_neutral90</color>
+    <color name="material_dynamic_neutral95">@color/m3_ref_palette_dynamic_neutral95</color>
+    <color name="material_dynamic_neutral99">@color/m3_ref_palette_dynamic_neutral99</color>
+    <color name="material_dynamic_neutral_variant0">@color/m3_ref_palette_dynamic_neutral_variant0</color>
+    <color name="material_dynamic_neutral_variant10">@color/m3_ref_palette_dynamic_neutral_variant10</color>
+    <color name="material_dynamic_neutral_variant100">@color/m3_ref_palette_dynamic_neutral_variant100</color>
+    <color name="material_dynamic_neutral_variant20">@color/m3_ref_palette_dynamic_neutral_variant20</color>
+    <color name="material_dynamic_neutral_variant30">@color/m3_ref_palette_dynamic_neutral_variant30</color>
+    <color name="material_dynamic_neutral_variant40">@color/m3_ref_palette_dynamic_neutral_variant40</color>
+    <color name="material_dynamic_neutral_variant50">@color/m3_ref_palette_dynamic_neutral_variant50</color>
+    <color name="material_dynamic_neutral_variant60">@color/m3_ref_palette_dynamic_neutral_variant60</color>
+    <color name="material_dynamic_neutral_variant70">@color/m3_ref_palette_dynamic_neutral_variant70</color>
+    <color name="material_dynamic_neutral_variant80">@color/m3_ref_palette_dynamic_neutral_variant80</color>
+    <color name="material_dynamic_neutral_variant90">@color/m3_ref_palette_dynamic_neutral_variant90</color>
+    <color name="material_dynamic_neutral_variant95">@color/m3_ref_palette_dynamic_neutral_variant95</color>
+    <color name="material_dynamic_neutral_variant99">@color/m3_ref_palette_dynamic_neutral_variant99</color>
+    <color name="material_dynamic_primary0">@color/m3_ref_palette_dynamic_primary0</color>
+    <color name="material_dynamic_primary10">@color/m3_ref_palette_dynamic_primary10</color>
+    <color name="material_dynamic_primary100">@color/m3_ref_palette_dynamic_primary100</color>
+    <color name="material_dynamic_primary20">@color/m3_ref_palette_dynamic_primary20</color>
+    <color name="material_dynamic_primary30">@color/m3_ref_palette_dynamic_primary30</color>
+    <color name="material_dynamic_primary40">@color/m3_ref_palette_dynamic_primary40</color>
+    <color name="material_dynamic_primary50">@color/m3_ref_palette_dynamic_primary50</color>
+    <color name="material_dynamic_primary60">@color/m3_ref_palette_dynamic_primary60</color>
+    <color name="material_dynamic_primary70">@color/m3_ref_palette_dynamic_primary70</color>
+    <color name="material_dynamic_primary80">@color/m3_ref_palette_dynamic_primary80</color>
+    <color name="material_dynamic_primary90">@color/m3_ref_palette_dynamic_primary90</color>
+    <color name="material_dynamic_primary95">@color/m3_ref_palette_dynamic_primary95</color>
+    <color name="material_dynamic_primary99">@color/m3_ref_palette_dynamic_primary99</color>
+    <color name="material_dynamic_secondary0">@color/m3_ref_palette_dynamic_secondary0</color>
+    <color name="material_dynamic_secondary10">@color/m3_ref_palette_dynamic_secondary10</color>
+    <color name="material_dynamic_secondary100">@color/m3_ref_palette_dynamic_secondary100</color>
+    <color name="material_dynamic_secondary20">@color/m3_ref_palette_dynamic_secondary20</color>
+    <color name="material_dynamic_secondary30">@color/m3_ref_palette_dynamic_secondary30</color>
+    <color name="material_dynamic_secondary40">@color/m3_ref_palette_dynamic_secondary40</color>
+    <color name="material_dynamic_secondary50">@color/m3_ref_palette_dynamic_secondary50</color>
+    <color name="material_dynamic_secondary60">@color/m3_ref_palette_dynamic_secondary60</color>
+    <color name="material_dynamic_secondary70">@color/m3_ref_palette_dynamic_secondary70</color>
+    <color name="material_dynamic_secondary80">@color/m3_ref_palette_dynamic_secondary80</color>
+    <color name="material_dynamic_secondary90">@color/m3_ref_palette_dynamic_secondary90</color>
+    <color name="material_dynamic_secondary95">@color/m3_ref_palette_dynamic_secondary95</color>
+    <color name="material_dynamic_secondary99">@color/m3_ref_palette_dynamic_secondary99</color>
+    <color name="material_dynamic_tertiary0">@color/m3_ref_palette_dynamic_tertiary0</color>
+    <color name="material_dynamic_tertiary10">@color/m3_ref_palette_dynamic_tertiary10</color>
+    <color name="material_dynamic_tertiary100">@color/m3_ref_palette_dynamic_tertiary100</color>
+    <color name="material_dynamic_tertiary20">@color/m3_ref_palette_dynamic_tertiary20</color>
+    <color name="material_dynamic_tertiary30">@color/m3_ref_palette_dynamic_tertiary30</color>
+    <color name="material_dynamic_tertiary40">@color/m3_ref_palette_dynamic_tertiary40</color>
+    <color name="material_dynamic_tertiary50">@color/m3_ref_palette_dynamic_tertiary50</color>
+    <color name="material_dynamic_tertiary60">@color/m3_ref_palette_dynamic_tertiary60</color>
+    <color name="material_dynamic_tertiary70">@color/m3_ref_palette_dynamic_tertiary70</color>
+    <color name="material_dynamic_tertiary80">@color/m3_ref_palette_dynamic_tertiary80</color>
+    <color name="material_dynamic_tertiary90">@color/m3_ref_palette_dynamic_tertiary90</color>
+    <color name="material_dynamic_tertiary95">@color/m3_ref_palette_dynamic_tertiary95</color>
+    <color name="material_dynamic_tertiary99">@color/m3_ref_palette_dynamic_tertiary99</color>
+    <color name="notification_dot_color_dark">@android:color/system_accent3_100</color>
+    <color name="notification_dot_color_light">@android:color/system_accent3_200</color>
+    <color name="overview_foreground_scrim_color">@android:color/system_neutral1_1000</color>
+    <color name="page_indicator_dot_color_dark">@android:color/system_accent1_200</color>
+    <color name="page_indicator_dot_color_light">@android:color/system_accent1_600</color>
+    <color name="popup_color_neutral_dark">@android:color/system_neutral1_1000</color>
+    <color name="popup_color_primary_dark">@android:color/system_neutral2_800</color>
+    <color name="popup_color_primary_light">@android:color/system_accent2_50</color>
+    <color name="popup_color_secondary_dark">@android:color/system_neutral1_900</color>
+    <color name="popup_color_secondary_light">@android:color/system_neutral2_100</color>
+    <color name="popup_color_tertiary_dark">@android:color/system_neutral2_700</color>
+    <color name="popup_color_tertiary_light">@android:color/system_neutral2_300</color>
+    <color name="popup_notification_dot_dark">@android:color/system_accent2_600</color>
+    <color name="popup_notification_dot_light">@android:color/system_accent1_100</color>
+    <color name="popup_text_color_dark">@android:color/system_neutral1_100</color>
+    <color name="popup_text_color_light">@android:color/system_neutral1_900</color>
+    <color name="preload_icon_accent_color_dark">@android:color/system_accent1_300</color>
+    <color name="preload_icon_accent_color_light">@android:color/system_accent1_600</color>
+    <color name="preload_icon_background_color_dark">@android:color/system_neutral2_700</color>
+    <color name="preload_icon_background_color_light">@android:color/system_accent2_200</color>
+    <color name="smartspace_page_background">@android:color/system_accent2_200</color>
+    <color name="system_accent1_0">@android:color/system_accent1_0</color>
+    <color name="system_accent1_10">@android:color/system_accent1_10</color>
+    <color name="system_accent1_100">@android:color/system_accent1_100</color>
+    <color name="system_accent1_1000">@android:color/system_accent1_1000</color>
+    <color name="system_accent1_200">@android:color/system_accent1_200</color>
+    <color name="system_accent1_300">@android:color/system_accent1_300</color>
+    <color name="system_accent1_400">@android:color/system_accent1_400</color>
+    <color name="system_accent1_50">@android:color/system_accent1_50</color>
+    <color name="system_accent1_500">@android:color/system_accent1_500</color>
+    <color name="system_accent1_600">@android:color/system_accent1_600</color>
+    <color name="system_accent1_700">@android:color/system_accent1_700</color>
+    <color name="system_accent1_800">@android:color/system_accent1_800</color>
+    <color name="system_accent1_900">@android:color/system_accent1_900</color>
+    <color name="system_accent2_0">@android:color/system_accent2_0</color>
+    <color name="system_accent2_10">@android:color/system_accent2_10</color>
+    <color name="system_accent2_100">@android:color/system_accent2_100</color>
+    <color name="system_accent2_1000">@android:color/system_accent2_1000</color>
+    <color name="system_accent2_200">@android:color/system_accent2_200</color>
+    <color name="system_accent2_300">@android:color/system_accent2_300</color>
+    <color name="system_accent2_400">@android:color/system_accent2_400</color>
+    <color name="system_accent2_50">@android:color/system_accent2_50</color>
+    <color name="system_accent2_500">@android:color/system_accent2_500</color>
+    <color name="system_accent2_600">@android:color/system_accent2_600</color>
+    <color name="system_accent2_700">@android:color/system_accent2_700</color>
+    <color name="system_accent2_800">@android:color/system_accent2_800</color>
+    <color name="system_accent2_900">@android:color/system_accent2_900</color>
+    <color name="system_accent3_0">@android:color/system_accent3_0</color>
+    <color name="system_accent3_10">@android:color/system_accent3_10</color>
+    <color name="system_accent3_100">@android:color/system_accent3_100</color>
+    <color name="system_accent3_1000">@android:color/system_accent3_1000</color>
+    <color name="system_accent3_200">@android:color/system_accent3_200</color>
+    <color name="system_accent3_300">@android:color/system_accent3_300</color>
+    <color name="system_accent3_400">@android:color/system_accent3_400</color>
+    <color name="system_accent3_50">@android:color/system_accent3_50</color>
+    <color name="system_accent3_500">@android:color/system_accent3_500</color>
+    <color name="system_accent3_600">@android:color/system_accent3_600</color>
+    <color name="system_accent3_700">@android:color/system_accent3_700</color>
+    <color name="system_accent3_800">@android:color/system_accent3_800</color>
+    <color name="system_accent3_900">@android:color/system_accent3_900</color>
+    <color name="system_neutral1_0">@android:color/system_neutral1_0</color>
+    <color name="system_neutral1_10">@android:color/system_neutral1_10</color>
+    <color name="system_neutral1_100">@android:color/system_neutral1_100</color>
+    <color name="system_neutral1_1000">@android:color/system_neutral1_1000</color>
+    <color name="system_neutral1_200">@android:color/system_neutral1_200</color>
+    <color name="system_neutral1_300">@android:color/system_neutral1_300</color>
+    <color name="system_neutral1_400">@android:color/system_neutral1_400</color>
+    <color name="system_neutral1_50">@android:color/system_neutral1_50</color>
+    <color name="system_neutral1_500">@android:color/system_neutral1_500</color>
+    <color name="system_neutral1_600">@android:color/system_neutral1_600</color>
+    <color name="system_neutral1_700">@android:color/system_neutral1_700</color>
+    <color name="system_neutral1_800">@android:color/system_neutral1_800</color>
+    <color name="system_neutral1_900">@android:color/system_neutral1_900</color>
+    <color name="system_neutral2_0">@android:color/system_neutral2_0</color>
+    <color name="system_neutral2_10">@android:color/system_neutral2_10</color>
+    <color name="system_neutral2_100">@android:color/system_neutral2_100</color>
+    <color name="system_neutral2_1000">@android:color/system_neutral2_1000</color>
+    <color name="system_neutral2_200">@android:color/system_neutral2_200</color>
+    <color name="system_neutral2_300">@android:color/system_neutral2_300</color>
+    <color name="system_neutral2_400">@android:color/system_neutral2_400</color>
+    <color name="system_neutral2_50">@android:color/system_neutral2_50</color>
+    <color name="system_neutral2_500">@android:color/system_neutral2_500</color>
+    <color name="system_neutral2_600">@android:color/system_neutral2_600</color>
+    <color name="system_neutral2_700">@android:color/system_neutral2_700</color>
+    <color name="system_neutral2_800">@android:color/system_neutral2_800</color>
+    <color name="system_neutral2_900">@android:color/system_neutral2_900</color>
+    <color name="text_color_primary_dark">@android:color/system_neutral1_50</color>
+    <color name="text_color_secondary_dark">@android:color/system_neutral2_200</color>
+    <color name="text_color_tertiary_dark">@android:color/system_neutral2_400</color>
+    <color name="themed_badge_icon_background_color">@android:color/system_accent1_100</color>
+    <color name="themed_badge_icon_color">@android:color/system_accent1_700</color>
+    <color name="themed_icon_background_color">@android:color/system_accent1_100</color>
+    <color name="themed_icon_color">@android:color/system_accent1_700</color>
+    <color name="wallpaper_popup_scrim">@android:color/system_neutral1_900</color>
+    <color name="widget_picker_add_button_background_color_light">
+        @android:color/system_accent1_600</color>
+    <color name="widget_picker_add_button_text_color_light">
+        @android:color/system_accent1_0</color>
+    <color name="widget_picker_collapse_handle_color_light">
+        @android:color/system_neutral2_200</color>
+    <color name="widget_picker_header_app_subtitle_color_light">
+        @android:color/system_neutral2_700</color>
+    <color name="widget_picker_header_app_title_color_light">
+        @android:color/system_neutral1_900</color>
+    <color name="widget_picker_header_background_color_light">
+        @android:color/system_accent2_100</color>
+    <color name="widget_picker_search_text_color_light">
+        @android:color/system_neutral2_700</color>
+    <color name="widget_picker_selected_tab_text_color_light">
+        @android:color/system_accent1_0</color>
+    <color name="widget_picker_suggestions_icon_background_color_light">
+        @android:color/system_accent1_0</color>
+    <color name="widget_picker_suggestions_icon_color_light">
+        @android:color/system_accent1_600</color>
+    <color name="widget_picker_tab_background_selected_light">
+        @android:color/system_accent1_600</color>
+    <color name="widget_picker_tab_background_unselected_light">
+        @android:color/system_neutral1_100</color>
+    <color name="widget_picker_title_color_light">
+        @android:color/system_neutral1_900</color>
+    <color name="widget_picker_unselected_tab_text_color_light">
+        @android:color/system_neutral2_700</color>
+    <color name="work_fab_bg_color">
+        @android:color/system_accent1_200</color>
+    <color name="work_fab_icon_color">
+        @android:color/system_accent1_900</color>
+    <color name="workspace_accent_color_dark">@android:color/system_accent1_900</color>
+    <color name="workspace_accent_color_light">@android:color/system_accent1_100</color>
+    <color name="workspace_surface_color">@android:color/system_accent1_100</color>
+    <color name="workspace_text_color_dark">@android:color/system_neutral1_1000</color>
+    <color name="workspace_text_color_light">@android:color/system_neutral1_0</color>
+    <item format="float" name="m3_control_ripple_color_selector_default_alpha" type="dimen">0.2</item>
+    <item format="float" name="m3_control_ripple_color_selector_hovered_alpha" type="dimen">0.1</item>
+    <item format="float" name="m3_control_ripple_color_selector_pressed_alpha" type="dimen">0.12</item>
+    <string name="local_colors_extraction_class" translatable="false">app.lawnchair.AccentColorExtractor</string>
+    <style name="AppLaunchTheme" parent="@style/LauncherTheme">
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:windowShowWallpaper">false</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowSplashScreenBackground">@color/white</item>
+    </style>
+    <style name="HomeSettings.CategoryStyle" parent="@style/Preference.Category.Material">
+        <item name="allowDividerAbove">@bool/home_settings_allow_divider</item>
+        <item name="allowDividerBelow">@bool/home_settings_allow_divider</item>
+        <item name="iconSpaceReserved">@bool/home_settings_icon_space_reserved</item>
+    </style>
+    <style name="HomeSettings.CategoryTitle" parent="@android:style/TextAppearance.Material.Body2">
+        <item name="android:fontFamily">google-sans-text-medium</item>
+    </style>
+    <style name="HomeSettings.CollapsedToolbarTitle" parent="@android:style/TextAppearance.DeviceDefault.Widget.ActionBar.Title">
+        <item name="android:fontFamily">google-sans</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="HomeSettings.CollapsingToolbar" parent="@style/Theme.MaterialComponents.DayNight">
+        <item name="colorAccent">@color/home_settings_header_accent</item>
+        <item name="colorPrimary">@color/home_settings_header_expanded</item>
+        <item name="elevationOverlayColor">?attr/colorPrimary</item>
+        <item name="elevationOverlayEnabled">true</item>
+    </style>
+    <style name="HomeSettings.ExpandedToolbarTitle" parent="HomeSettings.CollapsedToolbarTitle">
+        <item name="android:textSize">36sp</item>
+    </style>
+    <style name="HomeSettings.PreferenceScreenStyle" parent="@style/Preference.PreferenceScreen.Material">
+        <item name="iconSpaceReserved">@bool/home_settings_icon_space_reserved</item>
+    </style>
+    <style name="HomeSettings.PreferenceStyle" parent="@style/Preference.Material">
+        <item name="iconSpaceReserved">@bool/home_settings_icon_space_reserved</item>
+    </style>
+    <style name="HomeSettings.PreferenceTheme" parent="@style/PreferenceThemeOverlay">
+        <item name="preferenceCategoryStyle">@style/HomeSettings.CategoryStyle</item>
+        <item name="preferenceCategoryTitleTextAppearance">@style/HomeSettings.CategoryTitle</item>
+        <item name="preferenceFragmentCompatStyle">@style/HomeSettings.FragmentCompatStyle</item>
+        <item name="preferenceScreenStyle">@style/HomeSettings.PreferenceScreenStyle</item>
+        <item name="preferenceStyle">@style/HomeSettings.PreferenceStyle</item>
+        <item name="switchPreferenceStyle">@style/HomeSettings.SwitchPreferenceStyle</item>
+        <item name="android:fontFamily">google-sans-text</item>
+    </style>
+    <style name="HomeSettings.PreferenceTitle" parent="@android:style/TextAppearance.Material.Subhead">
+        <item name="android:fontFamily">google-sans</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="HomeSettings.SwitchPreferenceStyle" parent="@style/Preference.SwitchPreference.Material">
+        <item name="iconSpaceReserved">@bool/home_settings_icon_space_reserved</item>
+    </style>
+    <style name="HomeSettings.Theme" parent="@android:style/Theme.DeviceDefault.Settings">
+        <item name="android:listPreferredItemPaddingEnd">16dp</item>
+        <item name="android:listPreferredItemPaddingStart">24dp</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:switchStyle">@style/SwitchStyle</item>
+        <item name="android:textAppearanceListItem">@style/HomeSettings.PreferenceTitle</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="preferenceTheme">@style/HomeSettings.PreferenceTheme</item>
+    </style>
+    <style name="Theme.Material3.DynamicColors.Dark" parent="Theme.Material3.Dark">
+    <item name="isMaterial3DynamicColorApplied">true</item>
+
+    
+    <item name="colorPrimary">@color/m3_sys_color_dynamic_dark_primary</item>
+    <item name="colorOnPrimary">@color/m3_sys_color_dynamic_dark_on_primary</item>
+    <item name="colorPrimaryInverse">@color/m3_sys_color_dynamic_dark_inverse_primary</item>
+    <item name="colorPrimaryContainer">@color/m3_sys_color_dynamic_dark_primary_container</item>
+    <item name="colorOnPrimaryContainer">@color/m3_sys_color_dynamic_dark_on_primary_container</item>
+    <item name="colorPrimaryFixed">@color/m3_sys_color_dynamic_primary_fixed</item>
+    <item name="colorPrimaryFixedDim">@color/m3_sys_color_dynamic_primary_fixed_dim</item>
+    <item name="colorOnPrimaryFixed">@color/m3_sys_color_dynamic_on_primary_fixed</item>
+    <item name="colorOnPrimaryFixedVariant">@color/m3_sys_color_dynamic_on_primary_fixed_variant</item>
+    <item name="colorSecondary">@color/m3_sys_color_dynamic_dark_secondary</item>
+    <item name="colorOnSecondary">@color/m3_sys_color_dynamic_dark_on_secondary</item>
+    <item name="colorSecondaryContainer">@color/m3_sys_color_dynamic_dark_secondary_container</item>
+    <item name="colorOnSecondaryContainer">@color/m3_sys_color_dynamic_dark_on_secondary_container</item>
+    <item name="colorSecondaryFixed">@color/m3_sys_color_dynamic_secondary_fixed</item>
+    <item name="colorSecondaryFixedDim">@color/m3_sys_color_dynamic_secondary_fixed_dim</item>
+    <item name="colorOnSecondaryFixed">@color/m3_sys_color_dynamic_on_secondary_fixed</item>
+    <item name="colorOnSecondaryFixedVariant">@color/m3_sys_color_dynamic_on_secondary_fixed_variant</item>
+    <item name="colorTertiary">@color/m3_sys_color_dynamic_dark_tertiary</item>
+    <item name="colorOnTertiary">@color/m3_sys_color_dynamic_dark_on_tertiary</item>
+    <item name="colorTertiaryContainer">@color/m3_sys_color_dynamic_dark_tertiary_container</item>
+    <item name="colorOnTertiaryContainer">@color/m3_sys_color_dynamic_dark_on_tertiary_container</item>
+    <item name="colorTertiaryFixed">@color/m3_sys_color_dynamic_tertiary_fixed</item>
+    <item name="colorTertiaryFixedDim">@color/m3_sys_color_dynamic_tertiary_fixed_dim</item>
+    <item name="colorOnTertiaryFixed">@color/m3_sys_color_dynamic_on_tertiary_fixed</item>
+    <item name="colorOnTertiaryFixedVariant">@color/m3_sys_color_dynamic_on_tertiary_fixed_variant</item>
+    <item name="android:colorBackground">@color/m3_sys_color_dynamic_dark_background</item>
+    <item name="colorOnBackground">@color/m3_sys_color_dynamic_dark_on_background</item>
+    <item name="colorSurface">@color/m3_sys_color_dynamic_dark_surface</item>
+    <item name="colorOnSurface">@color/m3_sys_color_dynamic_dark_on_surface</item>
+    <item name="colorSurfaceVariant">@color/m3_sys_color_dynamic_dark_surface_variant</item>
+    <item name="colorOnSurfaceVariant">@color/m3_sys_color_dynamic_dark_on_surface_variant</item>
+    <item name="colorSurfaceInverse">@color/m3_sys_color_dynamic_dark_inverse_surface</item>
+    <item name="colorOnSurfaceInverse">@color/m3_sys_color_dynamic_dark_inverse_on_surface</item>
+    <item name="colorSurfaceBright">@color/m3_sys_color_dynamic_dark_surface_bright</item>
+    <item name="colorSurfaceDim">@color/m3_sys_color_dynamic_dark_surface_dim</item>
+    <item name="colorSurfaceContainer">@color/m3_sys_color_dynamic_dark_surface_container</item>
+    <item name="colorSurfaceContainerLow">@color/m3_sys_color_dynamic_dark_surface_container_low</item>
+    <item name="colorSurfaceContainerHigh">@color/m3_sys_color_dynamic_dark_surface_container_high</item>
+    <item name="colorSurfaceContainerLowest">@color/m3_sys_color_dynamic_dark_surface_container_lowest</item>
+    <item name="colorSurfaceContainerHighest">@color/m3_sys_color_dynamic_dark_surface_container_highest</item>
+    <item name="colorOutline">@color/m3_sys_color_dynamic_dark_outline</item>
+    <item name="colorError">@color/m3_sys_color_dark_error</item>
+    <item name="colorOnError">@color/m3_sys_color_dark_on_error</item>
+    <item name="colorErrorContainer">@color/m3_sys_color_dark_error_container</item>
+    <item name="colorOnErrorContainer">@color/m3_sys_color_dark_on_error_container</item>
+
+    
+    <item name="android:textColorPrimary">@color/m3_dynamic_dark_default_color_primary_text</item>
+    <item name="android:textColorPrimaryInverse">@color/m3_dynamic_default_color_primary_text</item>
+    <item name="android:textColorSecondary">@color/m3_dynamic_dark_default_color_secondary_text</item>
+    <item name="android:textColorSecondaryInverse">@color/m3_dynamic_default_color_secondary_text</item>
+    <item name="android:textColorTertiary">@color/m3_dynamic_dark_default_color_secondary_text</item>
+    <item name="android:textColorTertiaryInverse">@color/m3_dynamic_default_color_secondary_text</item>
+    <item name="android:textColorPrimaryDisableOnly">@color/m3_dynamic_dark_primary_text_disable_only</item>
+    <item name="android:textColorPrimaryInverseDisableOnly">@color/m3_dynamic_primary_text_disable_only</item>
+    <item name="android:textColorHint">@color/m3_dynamic_dark_hint_foreground</item>
+    <item name="android:textColorHintInverse">@color/m3_dynamic_hint_foreground</item>
+    <item name="android:textColorHighlight">@color/m3_dynamic_dark_highlighted_text</item>
+    <item name="android:textColorHighlightInverse">@color/m3_dynamic_highlighted_text</item>
+    <item name="android:textColorAlertDialogListItem">@color/m3_dynamic_dark_default_color_primary_text</item>
+  </style>
+    <style name="Theme.Material3.DynamicColors.Light" parent="Theme.Material3.Light">
+    <item name="isMaterial3DynamicColorApplied">true</item>
+
+    
+    <item name="colorPrimary">@color/m3_sys_color_dynamic_light_primary</item>
+    <item name="colorOnPrimary">@color/m3_sys_color_dynamic_light_on_primary</item>
+    <item name="colorPrimaryInverse">@color/m3_sys_color_dynamic_light_inverse_primary</item>
+    <item name="colorPrimaryContainer">@color/m3_sys_color_dynamic_light_primary_container</item>
+    <item name="colorOnPrimaryContainer">@color/m3_sys_color_dynamic_light_on_primary_container</item>
+    <item name="colorPrimaryFixed">@color/m3_sys_color_dynamic_primary_fixed</item>
+    <item name="colorPrimaryFixedDim">@color/m3_sys_color_dynamic_primary_fixed_dim</item>
+    <item name="colorOnPrimaryFixed">@color/m3_sys_color_dynamic_on_primary_fixed</item>
+    <item name="colorOnPrimaryFixedVariant">@color/m3_sys_color_dynamic_on_primary_fixed_variant</item>
+    <item name="colorSecondary">@color/m3_sys_color_dynamic_light_secondary</item>
+    <item name="colorOnSecondary">@color/m3_sys_color_dynamic_light_on_secondary</item>
+    <item name="colorSecondaryContainer">@color/m3_sys_color_dynamic_light_secondary_container</item>
+    <item name="colorOnSecondaryContainer">@color/m3_sys_color_dynamic_light_on_secondary_container</item>
+    <item name="colorSecondaryFixed">@color/m3_sys_color_dynamic_secondary_fixed</item>
+    <item name="colorSecondaryFixedDim">@color/m3_sys_color_dynamic_secondary_fixed_dim</item>
+    <item name="colorOnSecondaryFixed">@color/m3_sys_color_dynamic_on_secondary_fixed</item>
+    <item name="colorOnSecondaryFixedVariant">@color/m3_sys_color_dynamic_on_secondary_fixed_variant</item>
+    <item name="colorTertiary">@color/m3_sys_color_dynamic_light_tertiary</item>
+    <item name="colorOnTertiary">@color/m3_sys_color_dynamic_light_on_tertiary</item>
+    <item name="colorTertiaryContainer">@color/m3_sys_color_dynamic_light_tertiary_container</item>
+    <item name="colorOnTertiaryContainer">@color/m3_sys_color_dynamic_light_on_tertiary_container</item>
+    <item name="colorTertiaryFixed">@color/m3_sys_color_dynamic_tertiary_fixed</item>
+    <item name="colorTertiaryFixedDim">@color/m3_sys_color_dynamic_tertiary_fixed_dim</item>
+    <item name="colorOnTertiaryFixed">@color/m3_sys_color_dynamic_on_tertiary_fixed</item>
+    <item name="colorOnTertiaryFixedVariant">@color/m3_sys_color_dynamic_on_tertiary_fixed_variant</item>
+    <item name="android:colorBackground">@color/m3_sys_color_dynamic_light_background</item>
+    <item name="colorOnBackground">@color/m3_sys_color_dynamic_light_on_background</item>
+    <item name="colorSurface">@color/m3_sys_color_dynamic_light_surface</item>
+    <item name="colorOnSurface">@color/m3_sys_color_dynamic_light_on_surface</item>
+    <item name="colorSurfaceVariant">@color/m3_sys_color_dynamic_light_surface_variant</item>
+    <item name="colorOnSurfaceVariant">@color/m3_sys_color_dynamic_light_on_surface_variant</item>
+    <item name="colorSurfaceInverse">@color/m3_sys_color_dynamic_light_inverse_surface</item>
+    <item name="colorOnSurfaceInverse">@color/m3_sys_color_dynamic_light_inverse_on_surface</item>
+    <item name="colorSurfaceBright">@color/m3_sys_color_dynamic_light_surface_bright</item>
+    <item name="colorSurfaceDim">@color/m3_sys_color_dynamic_light_surface_dim</item>
+    <item name="colorSurfaceContainer">@color/m3_sys_color_dynamic_light_surface_container</item>
+    <item name="colorSurfaceContainerLow">@color/m3_sys_color_dynamic_light_surface_container_low</item>
+    <item name="colorSurfaceContainerHigh">@color/m3_sys_color_dynamic_light_surface_container_high</item>
+    <item name="colorSurfaceContainerLowest">@color/m3_sys_color_dynamic_light_surface_container_lowest</item>
+    <item name="colorSurfaceContainerHighest">@color/m3_sys_color_dynamic_light_surface_container_highest</item>
+    <item name="colorOutline">@color/m3_sys_color_dynamic_light_outline</item>
+    <item name="colorError">@color/m3_sys_color_light_error</item>
+    <item name="colorOnError">@color/m3_sys_color_light_on_error</item>
+    <item name="colorErrorContainer">@color/m3_sys_color_light_error_container</item>
+    <item name="colorOnErrorContainer">@color/m3_sys_color_light_on_error_container</item>
+
+    
+    <item name="android:textColorPrimary">@color/m3_dynamic_default_color_primary_text</item>
+    <item name="android:textColorPrimaryInverse">@color/m3_dynamic_dark_default_color_primary_text</item>
+    <item name="android:textColorSecondary">@color/m3_dynamic_default_color_secondary_text</item>
+    <item name="android:textColorSecondaryInverse">@color/m3_dynamic_dark_default_color_secondary_text</item>
+    <item name="android:textColorTertiary">@color/m3_dynamic_default_color_secondary_text</item>
+    <item name="android:textColorTertiaryInverse">@color/m3_dynamic_dark_default_color_secondary_text</item>
+    <item name="android:textColorPrimaryDisableOnly">@color/m3_dynamic_primary_text_disable_only</item>
+    <item name="android:textColorPrimaryInverseDisableOnly">@color/m3_dynamic_dark_primary_text_disable_only</item>
+    <item name="android:textColorHint">@color/m3_dynamic_hint_foreground</item>
+    <item name="android:textColorHintInverse">@color/m3_dynamic_dark_hint_foreground</item>
+    <item name="android:textColorHighlight">@color/m3_dynamic_highlighted_text</item>
+    <item name="android:textColorHighlightInverse">@color/m3_dynamic_dark_highlighted_text</item>
+    <item name="android:textColorAlertDialogListItem">@color/m3_dynamic_default_color_primary_text</item>
+  </style>
+    <style name="Theme.Material3Expressive.DynamicColors.Dark" parent="Theme.Material3Expressive.Dark">
+   <item name="isMaterial3DynamicColorApplied">true</item>
+
+    
+    <item name="colorPrimary">@color/m3_sys_color_dynamic_dark_primary</item>
+    <item name="colorOnPrimary">@color/m3_sys_color_dynamic_dark_on_primary</item>
+    <item name="colorPrimaryInverse">@color/m3_sys_color_dynamic_dark_inverse_primary</item>
+    <item name="colorPrimaryContainer">@color/m3_sys_color_dynamic_dark_primary_container</item>
+    <item name="colorOnPrimaryContainer">@color/m3_sys_color_dynamic_dark_on_primary_container</item>
+    <item name="colorPrimaryFixed">@color/m3_sys_color_dynamic_primary_fixed</item>
+    <item name="colorPrimaryFixedDim">@color/m3_sys_color_dynamic_primary_fixed_dim</item>
+    <item name="colorOnPrimaryFixed">@color/m3_sys_color_dynamic_on_primary_fixed</item>
+    <item name="colorOnPrimaryFixedVariant">@color/m3_sys_color_dynamic_on_primary_fixed_variant</item>
+    <item name="colorSecondary">@color/m3_sys_color_dynamic_dark_secondary</item>
+    <item name="colorOnSecondary">@color/m3_sys_color_dynamic_dark_on_secondary</item>
+    <item name="colorSecondaryContainer">@color/m3_sys_color_dynamic_dark_secondary_container</item>
+    <item name="colorOnSecondaryContainer">@color/m3_sys_color_dynamic_dark_on_secondary_container</item>
+    <item name="colorSecondaryFixed">@color/m3_sys_color_dynamic_secondary_fixed</item>
+    <item name="colorSecondaryFixedDim">@color/m3_sys_color_dynamic_secondary_fixed_dim</item>
+    <item name="colorOnSecondaryFixed">@color/m3_sys_color_dynamic_on_secondary_fixed</item>
+    <item name="colorOnSecondaryFixedVariant">@color/m3_sys_color_dynamic_on_secondary_fixed_variant</item>
+    <item name="colorTertiary">@color/m3_sys_color_dynamic_dark_tertiary</item>
+    <item name="colorOnTertiary">@color/m3_sys_color_dynamic_dark_on_tertiary</item>
+    <item name="colorTertiaryContainer">@color/m3_sys_color_dynamic_dark_tertiary_container</item>
+    <item name="colorOnTertiaryContainer">@color/m3_sys_color_dynamic_dark_on_tertiary_container</item>
+    <item name="colorTertiaryFixed">@color/m3_sys_color_dynamic_tertiary_fixed</item>
+    <item name="colorTertiaryFixedDim">@color/m3_sys_color_dynamic_tertiary_fixed_dim</item>
+    <item name="colorOnTertiaryFixed">@color/m3_sys_color_dynamic_on_tertiary_fixed</item>
+    <item name="colorOnTertiaryFixedVariant">@color/m3_sys_color_dynamic_on_tertiary_fixed_variant</item>
+    <item name="android:colorBackground">@color/m3_sys_color_dynamic_dark_background</item>
+    <item name="colorOnBackground">@color/m3_sys_color_dynamic_dark_on_background</item>
+    <item name="colorSurface">@color/m3_sys_color_dynamic_dark_surface</item>
+    <item name="colorOnSurface">@color/m3_sys_color_dynamic_dark_on_surface</item>
+    <item name="colorSurfaceVariant">@color/m3_sys_color_dynamic_dark_surface_variant</item>
+    <item name="colorOnSurfaceVariant">@color/m3_sys_color_dynamic_dark_on_surface_variant</item>
+    <item name="colorSurfaceInverse">@color/m3_sys_color_dynamic_dark_inverse_surface</item>
+    <item name="colorOnSurfaceInverse">@color/m3_sys_color_dynamic_dark_inverse_on_surface</item>
+    <item name="colorSurfaceBright">@color/m3_sys_color_dynamic_dark_surface_bright</item>
+    <item name="colorSurfaceDim">@color/m3_sys_color_dynamic_dark_surface_dim</item>
+    <item name="colorSurfaceContainer">@color/m3_sys_color_dynamic_dark_surface_container</item>
+    <item name="colorSurfaceContainerLow">@color/m3_sys_color_dynamic_dark_surface_container_low</item>
+    <item name="colorSurfaceContainerHigh">@color/m3_sys_color_dynamic_dark_surface_container_high</item>
+    <item name="colorSurfaceContainerLowest">@color/m3_sys_color_dynamic_dark_surface_container_lowest</item>
+    <item name="colorSurfaceContainerHighest">@color/m3_sys_color_dynamic_dark_surface_container_highest</item>
+    <item name="colorOutline">@color/m3_sys_color_dynamic_dark_outline</item>
+    <item name="colorError">@color/m3_sys_color_dark_error</item>
+    <item name="colorOnError">@color/m3_sys_color_dark_on_error</item>
+    <item name="colorErrorContainer">@color/m3_sys_color_dark_error_container</item>
+    <item name="colorOnErrorContainer">@color/m3_sys_color_dark_on_error_container</item>
+
+    
+    <item name="android:textColorPrimary">@color/m3_dynamic_dark_default_color_primary_text</item>
+    <item name="android:textColorPrimaryInverse">@color/m3_dynamic_default_color_primary_text</item>
+    <item name="android:textColorSecondary">@color/m3_dynamic_dark_default_color_secondary_text</item>
+    <item name="android:textColorSecondaryInverse">@color/m3_dynamic_default_color_secondary_text</item>
+    <item name="android:textColorTertiary">@color/m3_dynamic_dark_default_color_secondary_text</item>
+    <item name="android:textColorTertiaryInverse">@color/m3_dynamic_default_color_secondary_text</item>
+    <item name="android:textColorPrimaryDisableOnly">@color/m3_dynamic_dark_primary_text_disable_only</item>
+    <item name="android:textColorPrimaryInverseDisableOnly">@color/m3_dynamic_primary_text_disable_only</item>
+    <item name="android:textColorHint">@color/m3_dynamic_dark_hint_foreground</item>
+    <item name="android:textColorHintInverse">@color/m3_dynamic_hint_foreground</item>
+    <item name="android:textColorHighlight">@color/m3_dynamic_dark_highlighted_text</item>
+    <item name="android:textColorHighlightInverse">@color/m3_dynamic_highlighted_text</item>
+    <item name="android:textColorAlertDialogListItem">@color/m3_dynamic_dark_default_color_primary_text</item>
+  </style>
+    <style name="Theme.Material3Expressive.DynamicColors.Light" parent="Theme.Material3Expressive.Light">
+    <item name="isMaterial3DynamicColorApplied">true</item>
+
+    
+    <item name="colorPrimary">@color/m3_sys_color_dynamic_light_primary</item>
+    <item name="colorOnPrimary">@color/m3_sys_color_dynamic_light_on_primary</item>
+    <item name="colorPrimaryInverse">@color/m3_sys_color_dynamic_light_inverse_primary</item>
+    <item name="colorPrimaryContainer">@color/m3_sys_color_dynamic_light_primary_container</item>
+    <item name="colorOnPrimaryContainer">@color/m3_ref_palette_primary30</item>
+    <item name="colorPrimaryFixed">@color/m3_sys_color_dynamic_primary_fixed</item>
+    <item name="colorPrimaryFixedDim">@color/m3_sys_color_dynamic_primary_fixed_dim</item>
+    <item name="colorOnPrimaryFixed">@color/m3_sys_color_dynamic_on_primary_fixed</item>
+    <item name="colorOnPrimaryFixedVariant">@color/m3_sys_color_dynamic_on_primary_fixed_variant</item>
+    <item name="colorSecondary">@color/m3_sys_color_dynamic_light_secondary</item>
+    <item name="colorOnSecondary">@color/m3_sys_color_dynamic_light_on_secondary</item>
+    <item name="colorSecondaryContainer">@color/m3_sys_color_dynamic_light_secondary_container</item>
+    <item name="colorOnSecondaryContainer">@color/m3_ref_palette_secondary30</item>
+    <item name="colorSecondaryFixed">@color/m3_sys_color_dynamic_secondary_fixed</item>
+    <item name="colorSecondaryFixedDim">@color/m3_sys_color_dynamic_secondary_fixed_dim</item>
+    <item name="colorOnSecondaryFixed">@color/m3_sys_color_dynamic_on_secondary_fixed</item>
+    <item name="colorOnSecondaryFixedVariant">@color/m3_sys_color_dynamic_on_secondary_fixed_variant</item>
+    <item name="colorTertiary">@color/m3_sys_color_dynamic_light_tertiary</item>
+    <item name="colorOnTertiary">@color/m3_sys_color_dynamic_light_on_tertiary</item>
+    <item name="colorTertiaryContainer">@color/m3_sys_color_dynamic_light_tertiary_container</item>
+    <item name="colorOnTertiaryContainer">@color/m3_ref_palette_tertiary30</item>
+    <item name="colorTertiaryFixed">@color/m3_sys_color_dynamic_tertiary_fixed</item>
+    <item name="colorTertiaryFixedDim">@color/m3_sys_color_dynamic_tertiary_fixed_dim</item>
+    <item name="colorOnTertiaryFixed">@color/m3_sys_color_dynamic_on_tertiary_fixed</item>
+    <item name="colorOnTertiaryFixedVariant">@color/m3_sys_color_dynamic_on_tertiary_fixed_variant</item>
+    <item name="android:colorBackground">@color/m3_sys_color_dynamic_light_background</item>
+    <item name="colorOnBackground">@color/m3_sys_color_dynamic_light_on_background</item>
+    <item name="colorSurface">@color/m3_sys_color_dynamic_light_surface</item>
+    <item name="colorOnSurface">@color/m3_sys_color_dynamic_light_on_surface</item>
+    <item name="colorSurfaceVariant">@color/m3_sys_color_dynamic_light_surface_variant</item>
+    <item name="colorOnSurfaceVariant">@color/m3_sys_color_dynamic_light_on_surface_variant</item>
+    <item name="colorSurfaceInverse">@color/m3_sys_color_dynamic_light_inverse_surface</item>
+    <item name="colorOnSurfaceInverse">@color/m3_sys_color_dynamic_light_inverse_on_surface</item>
+    <item name="colorSurfaceBright">@color/m3_sys_color_dynamic_light_surface_bright</item>
+    <item name="colorSurfaceDim">@color/m3_sys_color_dynamic_light_surface_dim</item>
+    <item name="colorSurfaceContainer">@color/m3_sys_color_dynamic_light_surface_container</item>
+    <item name="colorSurfaceContainerLow">@color/m3_sys_color_dynamic_light_surface_container_low</item>
+    <item name="colorSurfaceContainerHigh">@color/m3_sys_color_dynamic_light_surface_container_high</item>
+    <item name="colorSurfaceContainerLowest">@color/m3_sys_color_dynamic_light_surface_container_lowest</item>
+    <item name="colorSurfaceContainerHighest">@color/m3_sys_color_dynamic_light_surface_container_highest</item>
+    <item name="colorOutline">@color/m3_sys_color_dynamic_light_outline</item>
+    <item name="colorError">@color/m3_sys_color_light_error</item>
+    <item name="colorOnError">@color/m3_sys_color_light_on_error</item>
+    <item name="colorErrorContainer">@color/m3_sys_color_light_error_container</item>
+    <item name="colorOnErrorContainer">@color/m3_ref_palette_error30</item>
+
+    
+    <item name="android:textColorPrimary">@color/m3_dynamic_default_color_primary_text</item>
+    <item name="android:textColorPrimaryInverse">@color/m3_dynamic_dark_default_color_primary_text</item>
+    <item name="android:textColorSecondary">@color/m3_dynamic_default_color_secondary_text</item>
+    <item name="android:textColorSecondaryInverse">@color/m3_dynamic_dark_default_color_secondary_text</item>
+    <item name="android:textColorTertiary">@color/m3_dynamic_default_color_secondary_text</item>
+    <item name="android:textColorTertiaryInverse">@color/m3_dynamic_dark_default_color_secondary_text</item>
+    <item name="android:textColorPrimaryDisableOnly">@color/m3_dynamic_primary_text_disable_only</item>
+    <item name="android:textColorPrimaryInverseDisableOnly">@color/m3_dynamic_dark_primary_text_disable_only</item>
+    <item name="android:textColorHint">@color/m3_dynamic_hint_foreground</item>
+    <item name="android:textColorHintInverse">@color/m3_dynamic_dark_hint_foreground</item>
+    <item name="android:textColorHighlight">@color/m3_dynamic_highlighted_text</item>
+    <item name="android:textColorHighlightInverse">@color/m3_dynamic_dark_highlighted_text</item>
+    <item name="android:textColorAlertDialogListItem">@color/m3_dynamic_default_color_primary_text</item>
+  </style>
+    <style name="ThemeOverlay.Material3.DynamicColors.Dark" parent="">
+    <item name="isMaterial3DynamicColorApplied">true</item>
+
+    
+    <item name="colorPrimary">@color/m3_sys_color_dynamic_dark_primary</item>
+    <item name="colorOnPrimary">@color/m3_sys_color_dynamic_dark_on_primary</item>
+    <item name="colorPrimaryInverse">@color/m3_sys_color_dynamic_dark_inverse_primary</item>
+    <item name="colorPrimaryContainer">@color/m3_sys_color_dynamic_dark_primary_container</item>
+    <item name="colorOnPrimaryContainer">@color/m3_sys_color_dynamic_dark_on_primary_container</item>
+    <item name="colorPrimaryFixed">@color/m3_sys_color_dynamic_primary_fixed</item>
+    <item name="colorPrimaryFixedDim">@color/m3_sys_color_dynamic_primary_fixed_dim</item>
+    <item name="colorOnPrimaryFixed">@color/m3_sys_color_dynamic_on_primary_fixed</item>
+    <item name="colorOnPrimaryFixedVariant">@color/m3_sys_color_dynamic_on_primary_fixed_variant</item>
+    <item name="colorSecondary">@color/m3_sys_color_dynamic_dark_secondary</item>
+    <item name="colorOnSecondary">@color/m3_sys_color_dynamic_dark_on_secondary</item>
+    <item name="colorSecondaryContainer">@color/m3_sys_color_dynamic_dark_secondary_container</item>
+    <item name="colorOnSecondaryContainer">@color/m3_sys_color_dynamic_dark_on_secondary_container</item>
+    <item name="colorSecondaryFixed">@color/m3_sys_color_dynamic_secondary_fixed</item>
+    <item name="colorSecondaryFixedDim">@color/m3_sys_color_dynamic_secondary_fixed_dim</item>
+    <item name="colorOnSecondaryFixed">@color/m3_sys_color_dynamic_on_secondary_fixed</item>
+    <item name="colorOnSecondaryFixedVariant">@color/m3_sys_color_dynamic_on_secondary_fixed_variant</item>
+    <item name="colorTertiary">@color/m3_sys_color_dynamic_dark_tertiary</item>
+    <item name="colorOnTertiary">@color/m3_sys_color_dynamic_dark_on_tertiary</item>
+    <item name="colorTertiaryContainer">@color/m3_sys_color_dynamic_dark_tertiary_container</item>
+    <item name="colorOnTertiaryContainer">@color/m3_sys_color_dynamic_dark_on_tertiary_container</item>
+    <item name="colorTertiaryFixed">@color/m3_sys_color_dynamic_tertiary_fixed</item>
+    <item name="colorTertiaryFixedDim">@color/m3_sys_color_dynamic_tertiary_fixed_dim</item>
+    <item name="colorOnTertiaryFixed">@color/m3_sys_color_dynamic_on_tertiary_fixed</item>
+    <item name="colorOnTertiaryFixedVariant">@color/m3_sys_color_dynamic_on_tertiary_fixed_variant</item>
+    <item name="android:colorBackground">@color/m3_sys_color_dynamic_dark_background</item>
+    <item name="colorOnBackground">@color/m3_sys_color_dynamic_dark_on_background</item>
+    <item name="colorSurface">@color/m3_sys_color_dynamic_dark_surface</item>
+    <item name="colorOnSurface">@color/m3_sys_color_dynamic_dark_on_surface</item>
+    <item name="colorSurfaceVariant">@color/m3_sys_color_dynamic_dark_surface_variant</item>
+    <item name="colorOnSurfaceVariant">@color/m3_sys_color_dynamic_dark_on_surface_variant</item>
+    <item name="colorSurfaceInverse">@color/m3_sys_color_dynamic_dark_inverse_surface</item>
+    <item name="colorOnSurfaceInverse">@color/m3_sys_color_dynamic_dark_inverse_on_surface</item>
+    <item name="colorSurfaceBright">@color/m3_sys_color_dynamic_dark_surface_bright</item>
+    <item name="colorSurfaceDim">@color/m3_sys_color_dynamic_dark_surface_dim</item>
+    <item name="colorSurfaceContainer">@color/m3_sys_color_dynamic_dark_surface_container</item>
+    <item name="colorSurfaceContainerLow">@color/m3_sys_color_dynamic_dark_surface_container_low</item>
+    <item name="colorSurfaceContainerHigh">@color/m3_sys_color_dynamic_dark_surface_container_high</item>
+    <item name="colorSurfaceContainerLowest">@color/m3_sys_color_dynamic_dark_surface_container_lowest</item>
+    <item name="colorSurfaceContainerHighest">@color/m3_sys_color_dynamic_dark_surface_container_highest</item>
+    <item name="colorOutline">@color/m3_sys_color_dynamic_dark_outline</item>
+    <item name="colorOutlineVariant">@color/m3_sys_color_dynamic_dark_outline_variant</item>
+    <item name="colorError">@color/material_dynamic_color_dark_error</item>
+    <item name="colorOnError">@color/material_dynamic_color_dark_on_error</item>
+    <item name="colorErrorContainer">@color/material_dynamic_color_dark_error_container</item>
+    <item name="colorOnErrorContainer">@color/material_dynamic_color_dark_on_error_container</item>
+
+    
+    <item name="android:textColorPrimary">@color/m3_dynamic_dark_default_color_primary_text</item>
+    <item name="android:textColorPrimaryInverse">@color/m3_dynamic_default_color_primary_text</item>
+    <item name="android:textColorSecondary">@color/m3_dynamic_dark_default_color_secondary_text</item>
+    <item name="android:textColorSecondaryInverse">@color/m3_dynamic_default_color_secondary_text</item>
+    <item name="android:textColorTertiary">@color/m3_dynamic_dark_default_color_secondary_text</item>
+    <item name="android:textColorTertiaryInverse">@color/m3_dynamic_default_color_secondary_text</item>
+    <item name="android:textColorPrimaryDisableOnly">@color/m3_dynamic_dark_primary_text_disable_only</item>
+    <item name="android:textColorPrimaryInverseDisableOnly">@color/m3_dynamic_primary_text_disable_only</item>
+    <item name="android:textColorHint">@color/m3_dynamic_dark_hint_foreground</item>
+    <item name="android:textColorHintInverse">@color/m3_dynamic_hint_foreground</item>
+    <item name="android:textColorHighlight">@color/m3_dynamic_dark_highlighted_text</item>
+    <item name="android:textColorHighlightInverse">@color/m3_dynamic_highlighted_text</item>
+    <item name="android:textColorAlertDialogListItem">@color/m3_dynamic_dark_default_color_primary_text</item>
+  </style>
+    <style name="ThemeOverlay.Material3.DynamicColors.Light" parent="">
+    <item name="isMaterial3DynamicColorApplied">true</item>
+
+    
+    <item name="colorPrimary">@color/m3_sys_color_dynamic_light_primary</item>
+    <item name="colorOnPrimary">@color/m3_sys_color_dynamic_light_on_primary</item>
+    <item name="colorPrimaryInverse">@color/m3_sys_color_dynamic_light_inverse_primary</item>
+    <item name="colorPrimaryContainer">@color/m3_sys_color_dynamic_light_primary_container</item>
+    <item name="colorOnPrimaryContainer">@color/m3_sys_color_dynamic_light_on_primary_container</item>
+    <item name="colorPrimaryFixed">@color/m3_sys_color_dynamic_primary_fixed</item>
+    <item name="colorPrimaryFixedDim">@color/m3_sys_color_dynamic_primary_fixed_dim</item>
+    <item name="colorOnPrimaryFixed">@color/m3_sys_color_dynamic_on_primary_fixed</item>
+    <item name="colorOnPrimaryFixedVariant">@color/m3_sys_color_dynamic_on_primary_fixed_variant</item>
+    <item name="colorSecondary">@color/m3_sys_color_dynamic_light_secondary</item>
+    <item name="colorOnSecondary">@color/m3_sys_color_dynamic_light_on_secondary</item>
+    <item name="colorSecondaryContainer">@color/m3_sys_color_dynamic_light_secondary_container</item>
+    <item name="colorOnSecondaryContainer">@color/m3_sys_color_dynamic_light_on_secondary_container</item>
+    <item name="colorSecondaryFixed">@color/m3_sys_color_dynamic_secondary_fixed</item>
+    <item name="colorSecondaryFixedDim">@color/m3_sys_color_dynamic_secondary_fixed_dim</item>
+    <item name="colorOnSecondaryFixed">@color/m3_sys_color_dynamic_on_secondary_fixed</item>
+    <item name="colorOnSecondaryFixedVariant">@color/m3_sys_color_dynamic_on_secondary_fixed_variant</item>
+    <item name="colorTertiary">@color/m3_sys_color_dynamic_light_tertiary</item>
+    <item name="colorOnTertiary">@color/m3_sys_color_dynamic_light_on_tertiary</item>
+    <item name="colorTertiaryContainer">@color/m3_sys_color_dynamic_light_tertiary_container</item>
+    <item name="colorOnTertiaryContainer">@color/m3_sys_color_dynamic_light_on_tertiary_container</item>
+    <item name="colorTertiaryFixed">@color/m3_sys_color_dynamic_tertiary_fixed</item>
+    <item name="colorTertiaryFixedDim">@color/m3_sys_color_dynamic_tertiary_fixed_dim</item>
+    <item name="colorOnTertiaryFixed">@color/m3_sys_color_dynamic_on_tertiary_fixed</item>
+    <item name="colorOnTertiaryFixedVariant">@color/m3_sys_color_dynamic_on_tertiary_fixed_variant</item>
+    <item name="android:colorBackground">@color/m3_sys_color_dynamic_light_background</item>
+    <item name="colorOnBackground">@color/m3_sys_color_dynamic_light_on_background</item>
+    <item name="colorSurface">@color/m3_sys_color_dynamic_light_surface</item>
+    <item name="colorOnSurface">@color/m3_sys_color_dynamic_light_on_surface</item>
+    <item name="colorSurfaceVariant">@color/m3_sys_color_dynamic_light_surface_variant</item>
+    <item name="colorOnSurfaceVariant">@color/m3_sys_color_dynamic_light_on_surface_variant</item>
+    <item name="colorSurfaceInverse">@color/m3_sys_color_dynamic_light_inverse_surface</item>
+    <item name="colorOnSurfaceInverse">@color/m3_sys_color_dynamic_light_inverse_on_surface</item>
+    <item name="colorSurfaceBright">@color/m3_sys_color_dynamic_light_surface_bright</item>
+    <item name="colorSurfaceDim">@color/m3_sys_color_dynamic_light_surface_dim</item>
+    <item name="colorSurfaceContainer">@color/m3_sys_color_dynamic_light_surface_container</item>
+    <item name="colorSurfaceContainerLow">@color/m3_sys_color_dynamic_light_surface_container_low</item>
+    <item name="colorSurfaceContainerHigh">@color/m3_sys_color_dynamic_light_surface_container_high</item>
+    <item name="colorSurfaceContainerLowest">@color/m3_sys_color_dynamic_light_surface_container_lowest</item>
+    <item name="colorSurfaceContainerHighest">@color/m3_sys_color_dynamic_light_surface_container_highest</item>
+    <item name="colorOutline">@color/m3_sys_color_dynamic_light_outline</item>
+    <item name="colorOutlineVariant">@color/m3_sys_color_dynamic_light_outline_variant</item>
+    <item name="colorError">@color/material_dynamic_color_light_error</item>
+    <item name="colorOnError">@color/material_dynamic_color_light_on_error</item>
+    <item name="colorErrorContainer">@color/material_dynamic_color_light_error_container</item>
+    <item name="colorOnErrorContainer">@color/material_dynamic_color_light_on_error_container</item>
+
+    
+    <item name="android:textColorPrimary">@color/m3_dynamic_default_color_primary_text</item>
+    <item name="android:textColorPrimaryInverse">@color/m3_dynamic_dark_default_color_primary_text</item>
+    <item name="android:textColorSecondary">@color/m3_dynamic_default_color_secondary_text</item>
+    <item name="android:textColorSecondaryInverse">@color/m3_dynamic_dark_default_color_secondary_text</item>
+    <item name="android:textColorTertiary">@color/m3_dynamic_default_color_secondary_text</item>
+    <item name="android:textColorTertiaryInverse">@color/m3_dynamic_dark_default_color_secondary_text</item>
+    <item name="android:textColorPrimaryDisableOnly">@color/m3_dynamic_primary_text_disable_only</item>
+    <item name="android:textColorPrimaryInverseDisableOnly">@color/m3_dynamic_dark_primary_text_disable_only</item>
+    <item name="android:textColorHint">@color/m3_dynamic_hint_foreground</item>
+    <item name="android:textColorHintInverse">@color/m3_dynamic_dark_hint_foreground</item>
+    <item name="android:textColorHighlight">@color/m3_dynamic_highlighted_text</item>
+    <item name="android:textColorHighlightInverse">@color/m3_dynamic_dark_highlighted_text</item>
+    <item name="android:textColorAlertDialogListItem">@color/m3_dynamic_default_color_primary_text</item>
+  </style>
+    <style name="ThemeOverlay.Material3Expressive.DynamicColors.Dark" parent="ThemeOverlay.Material3.DynamicColors.Dark"/>
+    <style name="ThemeOverlay.Material3Expressive.DynamicColors.Light" parent="ThemeOverlay.Material3.DynamicColors.Light"/>
+</resources>
