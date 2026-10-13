@@ -35,11 +35,11 @@
         {
           "name": "launcher-1.0.0-example2.aar",
           "url": "launcher-1.0.0-example2.aar",
-          "size": 10425927,
-          "sha512": "dfb79aeed854a05906e957b96510af223b28947ddf299a19e2a30f5351188551517d7b3c21ab4194a49b2a38bd45c80f670f022cbe3f5de8bb257ea9b2c28245",
-          "sha256": "ded4a49c3a1e20a400c83460463586b178aadccb14ae73ac6954d7da551806d2",
-          "sha1": "a3649d4efcb3d9491dab16b2f2b2d6af4f4e0a5b",
-          "md5": "f73b4f174a081348d03a4c5f929f4cfd"
+          "size": 10425956,
+          "sha512": "8fc2425a9f053773e93d8654da4b0b287aaf51d1df8e54e503dbe32c750800631fd8932caeff859f3d0b922f30e5c2ffbc1dcaeaa178133ed5a2d565c79bad76",
+          "sha256": "2a5859d028ded08b0d7751005ca09cb947c5e4b91791f1b29979380b62ef4288",
+          "sha1": "9a2e02b0abedceaf7c275468bca30aac14f4e779",
+          "md5": "d61ec759e7ba4e5a64bfeab01722234d"
         }
       ]
     },
@@ -417,11 +417,11 @@
         {
           "name": "launcher-1.0.0-example2.aar",
           "url": "launcher-1.0.0-example2.aar",
-          "size": 10425927,
-          "sha512": "dfb79aeed854a05906e957b96510af223b28947ddf299a19e2a30f5351188551517d7b3c21ab4194a49b2a38bd45c80f670f022cbe3f5de8bb257ea9b2c28245",
-          "sha256": "ded4a49c3a1e20a400c83460463586b178aadccb14ae73ac6954d7da551806d2",
-          "sha1": "a3649d4efcb3d9491dab16b2f2b2d6af4f4e0a5b",
-          "md5": "f73b4f174a081348d03a4c5f929f4cfd"
+          "size": 10425956,
+          "sha512": "8fc2425a9f053773e93d8654da4b0b287aaf51d1df8e54e503dbe32c750800631fd8932caeff859f3d0b922f30e5c2ffbc1dcaeaa178133ed5a2d565c79bad76",
+          "sha256": "2a5859d028ded08b0d7751005ca09cb947c5e4b91791f1b29979380b62ef4288",
+          "sha1": "9a2e02b0abedceaf7c275468bca30aac14f4e779",
+          "md5": "d61ec759e7ba4e5a64bfeab01722234d"
         }
       ]
     }
