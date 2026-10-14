@@ -34,9 +34,9 @@ import androidx.navigation.NavController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.example.nb.api.DPMKLauncherHostActivity as LauncherHostActivity
-import com.example.nb.api.DPMKLauncherHostPlugin as LauncherHostPlugin
-import com.example.nb.api.DPMKLauncherSdk as LauncherSdk
+import com.jeepaenc.bemngjop.api.DPMKLauncherHostActivity as LauncherHostActivity
+import com.jeepaenc.bemngjop.api.DPMKLauncherHostPlugin as LauncherHostPlugin
+import com.jeepaenc.bemngjop.api.DPMKLauncherSdk as LauncherSdk
 import com.fhdfh.launcher.ObserveAppHomeRoute
 import com.fhdfh.launcher.sample.databinding.ActivitySampleAppBinding
 
@@ -44,7 +44,7 @@ import com.fhdfh.launcher.sample.databinding.ActivitySampleAppBinding
  * 最小 launcher 宿主。正式 App 也是继承 [LauncherHostActivity]，只管 App 页和业务跳转。
  *
  * 接入清单：
- * - Application 继承 LauncherHostApp（见 [SampleApp]）
+ * - Application 调用 LauncherSdk.initialize（见 [SampleApp]）
  * - Manifest 给本 Activity 声明 MAIN+LAUNCHER 和 HOME+DEFAULT
  * - 桌面业务入口在 SampleApp 中动态配置，无需 activity-alias
  * - [createAppPage] 返回 App 页，Compose 或 View 均可

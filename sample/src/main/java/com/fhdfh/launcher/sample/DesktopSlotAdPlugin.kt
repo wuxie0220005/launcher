@@ -3,8 +3,8 @@ package com.fhdfh.launcher.sample
 import android.util.Log
 import android.view.View
 import android.view.ViewGroup
-import com.example.nb.api.DPMKLauncherHostActivity as LauncherHostActivity
-import com.example.nb.api.DPMKLauncherHostPlugin as LauncherHostPlugin
+import com.jeepaenc.bemngjop.api.DPMKLauncherHostActivity as LauncherHostActivity
+import com.jeepaenc.bemngjop.api.DPMKLauncherHostPlugin as LauncherHostPlugin
 
 /**
  * 桌面 Smartspace 下方通用槽：正式 App 在这里放 Banner / 原生广告。

@@ -9,8 +9,8 @@ import android.view.ViewGroup
 import android.widget.Button
 import androidx.activity.OnBackPressedCallback
 import androidx.lifecycle.lifecycleScope
-import com.example.nb.api.DPMKLauncherHostActivity as LauncherHostActivity
-import com.example.nb.api.DPMKLauncherHostPlugin as LauncherHostPlugin
+import com.jeepaenc.bemngjop.api.DPMKLauncherHostActivity as LauncherHostActivity
+import com.jeepaenc.bemngjop.api.DPMKLauncherHostPlugin as LauncherHostPlugin
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
 import kotlin.math.abs

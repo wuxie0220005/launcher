@@ -1,19 +1,20 @@
 package com.fhdfh.launcher.sample
 
 import android.content.Intent
+import android.app.Application
 import android.graphics.Bitmap
 import android.graphics.Canvas
 import androidx.core.content.ContextCompat
-import com.example.nb.api.DPMKLauncherHostApp as LauncherHostApp
-import com.example.nb.api.DPMKLauncherSdk as LauncherSdk
+import com.jeepaenc.bemngjop.api.DPMKLauncherSdk as LauncherSdk
 
 /**
- * 宿主 Application 必须继承 [LauncherHostApp]。
+ * 宿主保留普通 Application，通过 SDK 显式初始化。
  * Manifest `android:name` 指向本类。
  */
-class SampleApp : LauncherHostApp() {
+class SampleApp : Application() {
     override fun onCreate() {
         super.onCreate()
+        LauncherSdk.initialize(this)
         val icons = listOf(R.drawable.ic_desktop_scan, R.drawable.ic_desktop_text,
             R.drawable.ic_desktop_sign, R.drawable.ic_desktop_id)
         val entries = buildList {

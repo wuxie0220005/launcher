@@ -8,5 +8,4 @@
 local.properties
 /.kotlin
 /.idea
-
-
+/sample/build/

@@ -1,7 +1,7 @@
 package com.fhdfh.launcher.sample
 
-import com.example.nb.api.DPMKLauncherHostActivity as LauncherHostActivity
-import com.example.nb.api.DPMKLauncherHostPlugin as LauncherHostPlugin
+import com.jeepaenc.bemngjop.api.DPMKLauncherHostActivity as LauncherHostActivity
+import com.jeepaenc.bemngjop.api.DPMKLauncherHostPlugin as LauncherHostPlugin
 
 /**
  * 应用列表搜索框下方原生广告槽。
