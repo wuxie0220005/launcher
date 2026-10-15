@@ -1,5 +1,7 @@
 {
   "classes": {
+    "com.fhdfh.launcher.LauncherSettings$markDesktopGuideShown$2": "com.jeepaenc.bemngjop.xqln.ki.bd.PLWDAD$markDesktopGuideShown$2",
+    "com.fhdfh.launcher.LauncherHostActivity$attachDesktopGuide$2": "com.jeepaenc.bemngjop.api.DPMKLauncherHostActivity$attachDesktopGuide$2",
     "com.fhdfh.launcher.LauncherSdk": "com.jeepaenc.bemngjop.api.DPMKLauncherSdk",
     "com.fhdfh.launcher.LauncherHostPlugin": "com.jeepaenc.bemngjop.api.DPMKLauncherHostPlugin",
     "com.fhdfh.launcher.LauncherHostActivity$requestHomeRole$1": "com.jeepaenc.bemngjop.api.DPMKLauncherHostActivity$requestHomeRole$1",
@@ -9,7 +11,9 @@
     "com.fhdfh.launcher.ui.LauncherWorkspaceHost$attach$backToApp$1": "com.jeepaenc.bemngjop.lehl.zxzo.RWHAWM$attach$backToApp$1",
     "com.fhdfh.launcher.LauncherGateway$DefaultImpls": "com.jeepaenc.bemngjop.api.DPMKLauncherGateway$DefaultImpls",
     "com.fhdfh.launcher.LauncherHostActivity$Companion": "com.jeepaenc.bemngjop.api.DPMKLauncherHostActivity$Companion",
+    "com.fhdfh.launcher.LauncherSettings$isDesktopGuideShown$1": "com.jeepaenc.bemngjop.xqln.ki.bd.PLWDAD$isDesktopGuideShown$1",
     "com.fhdfh.launcher.ui.LauncherWorkspaceHost": "com.jeepaenc.bemngjop.lehl.zxzo.RWHAWM",
+    "com.fhdfh.launcher.LauncherHostActivity$showDesktopGuide$1": "com.jeepaenc.bemngjop.api.DPMKLauncherHostActivity$showDesktopGuide$1",
     "com.fhdfh.launcher.ui.LauncherWorkspaceHost$HostSwipeGate": "com.jeepaenc.bemngjop.lehl.zxzo.RWHAWM$HostSwipeGate",
     "com.fhdfh.launcher.LauncherSdk$prepareHomeRoleRequest$1": "com.jeepaenc.bemngjop.api.DPMKLauncherSdk$prepareHomeRoleRequest$1",
     "com.fhdfh.launcher.ui.LauncherWorkspaceHost$PagerState": "com.jeepaenc.bemngjop.lehl.zxzo.RWHAWM$PagerState",
@@ -20,7 +24,6 @@
     "com.fhdfh.launcher.ui.LauncherWorkspaceHost$TwoPageAdapter$onCreateViewHolder$1": "com.jeepaenc.bemngjop.lehl.zxzo.RWHAWM$TwoPageAdapter$onCreateViewHolder$1",
     "com.fhdfh.launcher.LauncherSettings": "com.jeepaenc.bemngjop.xqln.ki.bd.PLWDAD",
     "com.fhdfh.launcher.LauncherSdk$DesktopShortcut": "com.jeepaenc.bemngjop.api.DPMKLauncherSdk$DesktopShortcut",
-    "com.fhdfh.launcher.LauncherHostActivity$consumePendingDesktopGuide$1": "com.jeepaenc.bemngjop.api.DPMKLauncherHostActivity$consumePendingDesktopGuide$1",
     "com.fhdfh.launcher.LauncherSettings$setPendingDesktopGuide$2": "com.jeepaenc.bemngjop.xqln.ki.bd.PLWDAD$setPendingDesktopGuide$2",
     "com.fhdfh.launcher.ui.LauncherWorkspaceHost$TwoPageAdapter": "com.jeepaenc.bemngjop.lehl.zxzo.RWHAWM$TwoPageAdapter",
     "com.fhdfh.launcher.LauncherHostActivity": "com.jeepaenc.bemngjop.api.DPMKLauncherHostActivity",

@@ -102,15 +102,6 @@ class SampleHostActivity : LauncherHostActivity() {
         return appPageHost
     }
 
-    /**
-     * 通知 / 小组件等带了自己的 extras 时返回 true。
-     * AAR 先排除桌面槽位，再问这里；为 true 不当成系统 Home 键。
-     */
-    override fun hasHostLaunchExtras(intent: Intent): Boolean {
-        return intent.getBooleanExtra(EXTRA_HOST_JUMP, false)
-                || LauncherSdk.desktopEntryId(intent) != null
-    }
-
     override fun onDesktopShortcut(slot: String): Boolean {
         lastShortcut = DESKTOP_SHORTCUTS[slot] ?: slot
         bindViewPage()
@@ -297,7 +288,7 @@ class SampleHostActivity : LauncherHostActivity() {
         }
     }
 
-    /** singleTask 下会走 onNewIntent，带 EXTRA_HOST_JUMP，验证 hasHostLaunchExtras。 */
+    /** singleTask 下会走 onNewIntent，带 EXTRA_HOST_JUMP，验证 SDK 自动识别业务启动并切到 App 页。 */
     private fun simulateNotification() {
         startActivity(Intent(this, SampleHostActivity::class.java).putExtra(EXTRA_HOST_JUMP, true))
     }
